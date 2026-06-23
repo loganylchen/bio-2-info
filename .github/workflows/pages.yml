@@ -6,10 +6,10 @@ on:
     branches: [main]
     paths:
       - "docs/**"
-  # feed 任务用 GITHUB_TOKEN 回提 docs/data/papers.json，这种 push 不会触发上面的
-  # push 事件，所以额外挂 workflow_run：feed 跑完后接力部署 Pages。
+  # daily 任务用 GITHUB_TOKEN 回提 docs/data/papers.json，这种 push 不会触发上面的
+  # push 事件，所以额外挂 workflow_run：daily 跑完后接力部署 Pages。
   workflow_run:
-    workflows: ["feed"]
+    workflows: ["daily"]
     types: [completed]
   workflow_dispatch:
 

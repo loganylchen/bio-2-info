@@ -49,15 +49,17 @@ Key cross-cutting concepts a single file won't reveal:
   (`_candidates_path` / `_selected_path` in `__main__.py`). `run-feed` / `run-archive` chain the
   stages but still round-trip through these files.
 
-- **The two CI jobs are deliberately split across an hour and pass state via git.** `feed.yml`
-  (08:15 Beijing) runs `run-feed` and **commits `selected_*.json` back to the repo**; `archive.yml`
-  (09:15 Beijing) checks out that commit and runs `run-archive` on it. So `selected_<today>.json`
-  is the hand-off artifact between workflows — not just a local cache.
+- **One CI workflow runs the whole day end-to-end.** `daily.yml` (one `workflow_dispatch`,
+  triggered by cron-job.org) runs `run-feed` then `run-archive` in a single job; `run-archive`
+  reads the `selected_<today>.json` that `run-feed` just wrote to the same runner's disk — no git
+  hand-off needed. The `archive` step is `continue-on-error` and the commit step is `if: always()`,
+  so feed's `pushed_ledger.json` always gets committed even if IMA archival fails (otherwise papers
+  would be re-pushed the next day).
 
 - **Two independent cross-day dedup ledgers, both keyed by `archive.paper_key()`**
   (`doi:<doi>` preferred, else `title:<first 80 chars>`) and both committed back to the repo:
-  - `archived_ledger.json` (written by `archive.py`/`archive.yml`) — skips re-uploading PDFs to IMA.
-  - `pushed_ledger.json` (written by `__main__._record_pushed` in `run-feed`, committed by `feed.yml`)
+  - `archived_ledger.json` (written by `archive.py` during `run-archive`) — skips re-uploading PDFs to IMA.
+  - `pushed_ledger.json` (written by `__main__._record_pushed` in `run-feed`, committed by `daily.yml`)
     — records every paper actually pushed to Telegram. `cmd_feed` calls `_filter_already_pushed` to
     drop these from candidates **before** curation, so a paper is never re-curated or re-notified on
     a later day. Only *pushed* (selected + sent) papers are recorded; fetched-but-unselected papers

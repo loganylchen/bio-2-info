@@ -11,12 +11,14 @@ PubMed + bioRxiv         LLM (Zhipu GLM 4.6 等)        IMA「每日生信资讯
    候选 JSON               精筛+中文总结 JSON             下载OA PDF + 上传digest        渲染Markdown并发送
 ```
 
-对应 Hermes 上原来的两个 cron job：
+对应 Hermes 上原来的两个 cron job，现已合并为单个 `daily.yml` 工作流（一次 `workflow_dispatch`
+触发，由 cron-job.org 打点）：feed 与 archive 在同一个 job 内串行，`selected_<today>.json`
+直接经 runner 磁盘传递，无需 git 中转。
 
-| 原 cron               | 替代命令                  | GH Actions 触发时间       |
-|-----------------------|--------------------------|---------------------------|
-| 8:15 feed_research    | `bio-2-info run-feed`    | `15 0 * * *` UTC (北京 08:15) |
-| 9:15 research_archive | `bio-2-info run-archive` | `15 1 * * *` UTC (北京 09:15) |
+| 原 cron               | 替代命令                  | 在 daily.yml 中的步骤 |
+|-----------------------|--------------------------|----------------------|
+| 8:15 feed_research    | `bio-2-info run-feed`    | 第 1 步：抓取 + 精筛 + 推 Telegram |
+| 9:15 research_archive | `bio-2-info run-archive` | 第 2 步：归档 IMA + 推 Telegram（continue-on-error） |
 
 ## 快速开始
 
