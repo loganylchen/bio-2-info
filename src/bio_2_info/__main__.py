@@ -12,6 +12,7 @@ from . import feed, curate, archive, notify
 
 REPO_ROOT = Path(__file__).resolve().parents[2]
 DEFAULT_DATA_DIR = REPO_ROOT / "data" / "digests"
+DEFAULT_SITE_DATA = REPO_ROOT / "docs" / "data" / "papers.json"
 
 
 def _today_compact() -> str:
@@ -26,11 +27,106 @@ def _candidates_path(data_dir: Path) -> Path:
     return data_dir / f"candidates_{_today_compact()}.json"
 
 
+def _pushed_ledger_path(data_dir: Path) -> Path:
+    return data_dir / "pushed_ledger.json"
+
+
+def _filter_already_pushed(papers: list[dict], ledger: dict) -> list[dict]:
+    """Drop papers whose key is already recorded as pushed."""
+    return [p for p in papers if archive.paper_key(p) not in ledger]
+
+
+def _record_pushed(papers: list[dict], data_dir: Path) -> int:
+    """Record pushed papers into pushed_ledger.json. Returns count newly added."""
+    ledger_path = _pushed_ledger_path(data_dir)
+    ledger = archive.load_ledger(str(ledger_path))
+    today = datetime.date.today().isoformat()
+    added = 0
+    for p in papers:
+        key = archive.paper_key(p)
+        if key not in ledger:
+            added += 1
+        ledger[key] = {
+            "date": today,
+            "title": (p.get("title") or "").strip(),
+            "doi": (p.get("doi") or "").strip(),
+            "link": (p.get("link") or "").strip(),
+        }
+    archive.save_ledger(ledger, str(ledger_path))
+    return added
+
+
+def _site_record(p: dict, pushed_date: str) -> dict:
+    """Flatten a curated paper into the record shape the Pages site consumes."""
+    return {
+        "key": archive.paper_key(p),
+        "title": (p.get("title") or "").strip(),
+        "doi": (p.get("doi") or "").strip(),
+        "link": (p.get("link") or "").strip(),
+        "journal": p.get("journal", ""),
+        "date": str(p.get("date", "")),
+        "pushed_date": pushed_date,
+        "priority": p.get("priority", ""),
+        "bucket": p.get("_bucket") or p.get("bucket") or "",
+        "summary_cn": (p.get("summary_cn") or "").strip(),
+        "relevance_cn": (p.get("relevance_cn") or "").strip(),
+        "source": p.get("source", ""),
+    }
+
+
+def _append_site_data(papers: list[dict], path: Path | None = None,
+                      pushed_date: str | None = None) -> int:
+    """Merge curated papers into docs/data/papers.json (keyed by paper_key).
+
+    Idempotent: re-recording the same paper updates its record in place rather
+    than duplicating. Returns the total paper count after the merge.
+    """
+    path = Path(path) if path else DEFAULT_SITE_DATA
+    pushed_date = pushed_date or datetime.date.today().isoformat()
+    try:
+        existing = json.loads(path.read_text(encoding="utf-8")).get("papers", [])
+    except (FileNotFoundError, ValueError):
+        existing = []
+    by_key = {r.get("key"): r for r in existing}
+    for p in papers:
+        rec = _site_record(p, pushed_date)
+        prev = by_key.get(rec["key"], {})
+        # Keep the earliest pushed_date so the archive reflects first appearance.
+        if prev.get("pushed_date"):
+            rec["pushed_date"] = min(prev["pushed_date"], rec["pushed_date"])
+        by_key[rec["key"]] = {**prev, **rec}
+    merged = sorted(
+        by_key.values(),
+        key=lambda r: (r.get("pushed_date", ""), r.get("date", "")),
+        reverse=True,
+    )
+    payload = {
+        "updated": datetime.datetime.now().isoformat(timespec="seconds"),
+        "count": len(merged),
+        "papers": merged,
+    }
+    path.parent.mkdir(parents=True, exist_ok=True)
+    tmp = path.with_name(path.name + ".tmp")
+    tmp.write_text(json.dumps(payload, ensure_ascii=False, indent=1), encoding="utf-8")
+    tmp.replace(path)
+    return len(merged)
+
+
 def cmd_feed(args) -> int:
-    """Fetch candidates from PubMed + bioRxiv, write to file + stdout."""
+    """Fetch candidates from PubMed + bioRxiv, write to file + stdout.
+
+    Papers already recorded in pushed_ledger.json (pushed on a previous day) are
+    dropped here so they never get re-curated or re-notified.
+    """
     result = feed.collect_all()
     data_dir = Path(args.data_dir)
     data_dir.mkdir(parents=True, exist_ok=True)
+    ledger = archive.load_ledger(str(_pushed_ledger_path(data_dir)))
+    if ledger:
+        before = len(result["papers"])
+        result["papers"] = _filter_already_pushed(result["papers"], ledger)
+        result["counts"]["already_pushed_dropped"] = before - len(result["papers"])
+        result["counts"]["new"] = len(result["papers"])
     out_path = _candidates_path(data_dir)
     with open(out_path, "w", encoding="utf-8") as f:
         json.dump(result, f, ensure_ascii=False, indent=1)
@@ -104,7 +200,12 @@ def cmd_run_feed(args) -> int:
         print(text)
         return 0
     notify.send_telegram(text)
-    sys.stderr.write("[run-feed] telegram delivered\n")
+    added = _record_pushed(sel.get("papers", []), Path(args.data_dir))
+    total = _append_site_data(sel.get("papers", []))
+    sys.stderr.write(
+        f"[run-feed] telegram delivered; recorded {added} pushed papers; "
+        f"site now {total} papers\n"
+    )
     return 0
 
 

@@ -1,0 +1,41 @@
+name: pages
+# 部署 docs/ 静态归档站到 GitHub Pages。
+# 触发：docs/ 变更后 push（含 feed 任务回提的 papers.json），或手动 workflow_dispatch。
+on:
+  push:
+    branches: [main]
+    paths:
+      - "docs/**"
+  # feed 任务用 GITHUB_TOKEN 回提 docs/data/papers.json，这种 push 不会触发上面的
+  # push 事件，所以额外挂 workflow_run：feed 跑完后接力部署 Pages。
+  workflow_run:
+    workflows: ["feed"]
+    types: [completed]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: docs
+
+      - id: deployment
+        uses: actions/deploy-pages@v4

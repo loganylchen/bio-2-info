@@ -65,6 +65,9 @@ workflow 在 `.github/workflows/` 下，分别跑 run-feed 和 run-archive，输
 
 - **零 runtime Python deps**：跟 ssq-checker 一样，避免 CI 装包失败。
 - **LLM 后端可换**：默认 Zhipu，但只要 OpenAI-compatible Chat Completions 都能用。
-- **跨日去重**：`data/digests/archived_ledger.json` 记录已归档 DOI，commit 回仓库后续 run 复用。
+- **跨日去重（两本账）**：均按 DOI（无则标题）记录、commit 回仓库供后续 run 复用：
+  - `archived_ledger.json`：已归档到 IMA 的论文，避免重复传 PDF。
+  - `pushed_ledger.json`：已推送到 Telegram 的论文。`feed` 抓取后会先剔除已推送的再交给 LLM 精筛，
+    所以同一篇不会跨天重复推送；只记录"真正精选并发出"的，当天没选中的以后仍可被选。`--dry-run` 不记录。
 - **Skip-IMA 模式**：CI 失败/无凭证时仍能跑通流程，digest 留在 artifact 里手动补传。
 - **vendor IMA 工具**：脱离 `~/.hermes/skills/ima-skill/`，仓库自给自足。

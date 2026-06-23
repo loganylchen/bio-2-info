@@ -1,9 +1,8 @@
 name: feed
-# 北京时间 08:15 = UTC 00:15 — 抓取 + LLM 精筛 + 推送 Telegram，对应原 Hermes cron e8b4d50ede86
+# 抓取 + LLM 精筛 + 推送 Telegram，对应原 Hermes 08:15 cron e8b4d50ede86。
+# 调度由 cron-job.org 打 workflow_dispatch 端点触发（不用 GH 自带 schedule，更可控）。
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "15 0 * * *"
 
 permissions:
   contents: write
@@ -45,15 +44,17 @@ jobs:
           path: |
             data/digests/candidates_*.json
             data/digests/selected_*.json
+            data/digests/pushed_ledger.json
           retention-days: 14
 
-      - name: Commit selected_<today>.json for the 09:15 archive job
+      - name: Commit selection + pushed ledger + site data
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/digests/selected_*.json
-          if ! git diff --cached --quiet -- data/digests; then
-            git commit -m "chore: feed selection $(date -u +%F) [skip ci]"
+          git add -f data/digests/selected_*.json data/digests/pushed_ledger.json
+          git add docs/data/papers.json
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: feed selection $(date -u +%F)"
             git push
           else
             echo "No selection changes."

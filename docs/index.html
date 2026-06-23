@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>每日生信资讯 · 归档</title>
+<meta name="description" content="每日生信论文精筛归档：纳米孔直读测序、RNA 修饰、AI 生信方法与应用。">
+<link rel="stylesheet" href="./style.css">
+</head>
+<body>
+<header class="site-head">
+  <div class="wrap">
+    <h1>每日生信资讯</h1>
+    <p class="tagline">纳米孔直读测序 · RNA 修饰 · AI 生信 — 每日精筛归档</p>
+    <nav class="tabs" role="tablist">
+      <button class="tab" data-view="latest" role="tab">最新</button>
+      <button class="tab" data-view="archive" role="tab">归档检索</button>
+      <button class="tab" data-view="timeline" role="tab">时间线</button>
+      <button class="tab" data-view="stats" role="tab">统计</button>
+    </nav>
+  </div>
+</header>
+
+<main class="wrap" id="main">
+  <p class="meta" id="data-meta"></p>
+
+  <!-- 最新 -->
+  <section class="view" id="view-latest" hidden>
+    <h2 class="view-title">最新一期 <span class="muted" id="latest-date"></span></h2>
+    <div class="cards" id="latest-list"></div>
+  </section>
+
+  <!-- 归档检索 -->
+  <section class="view" id="view-archive" hidden>
+    <div class="controls">
+      <input type="search" id="q" placeholder="搜索标题 / 摘要 / 期刊 / DOI…" autocomplete="off">
+      <select id="f-bucket"><option value="">全部方向</option></select>
+      <select id="f-priority"><option value="">全部优先级</option></select>
+      <select id="f-journal"><option value="">全部期刊</option></select>
+    </div>
+    <p class="meta" id="archive-count"></p>
+    <div class="cards" id="archive-list"></div>
+  </section>
+
+  <!-- 时间线 -->
+  <section class="view" id="view-timeline" hidden>
+    <div class="timeline" id="timeline-list"></div>
+  </section>
+
+  <!-- 统计 -->
+  <section class="view" id="view-stats" hidden>
+    <div class="stat-grid">
+      <div class="stat-card"><h3>总量</h3><p class="big" id="stat-total">—</p></div>
+      <div class="stat-card"><h3>方向分布</h3><div class="bars" id="stat-buckets"></div></div>
+      <div class="stat-card"><h3>每月推送量</h3><div class="bars" id="stat-months"></div></div>
+      <div class="stat-card"><h3>优先级比例</h3><div class="bars" id="stat-priority"></div></div>
+      <div class="stat-card span2"><h3>高频期刊 Top 10</h3><div class="bars" id="stat-journals"></div></div>
+    </div>
+  </section>
+
+  <p class="empty" id="empty" hidden>暂无数据。</p>
+</main>
+
+<footer class="site-foot">
+  <div class="wrap">
+    <span>数据来源：PubMed · bioRxiv，LLM 精筛后每日归档。</span>
+    <span><a href="https://github.com/cyl-logan/bio-2-info">源码</a></span>
+  </div>
+</footer>
+
+<script src="./app.js"></script>
+</body>
+</html>

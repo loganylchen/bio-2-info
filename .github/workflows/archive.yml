@@ -1,10 +1,8 @@
 name: archive
-# 北京时间 09:15 = UTC 01:15 — 归档当日 selected_*.json 到 IMA 并推送 Telegram。
-# 对应原 Hermes cron 810217b594c8。
+# 归档当日 selected_*.json 到 IMA 并推送 Telegram，对应原 Hermes 09:15 cron 810217b594c8。
+# 调度由 cron-job.org 打 workflow_dispatch 端点触发（不用 GH 自带 schedule，更可控）。
 on:
   workflow_dispatch:
-  schedule:
-    - cron: "15 1 * * *"
 
 permissions:
   contents: write
