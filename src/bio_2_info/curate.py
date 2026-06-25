@@ -52,10 +52,20 @@ class CurationError(RuntimeError):
     pass
 
 
+# Cloudflare-fronted proxies (error 1010) ban urllib's default
+# "Python-urllib/x.y" UA via the Browser Integrity Check; send a browser-like
+# User-Agent so the curate request isn't dropped before reaching the LLM.
+_USER_AGENT = (
+    "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 "
+    "(KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
+)
+
+
 def _post_json(url: str, headers: dict, payload: dict, timeout: int = 180) -> dict:
     body = json.dumps(payload, ensure_ascii=False).encode("utf-8")
     req = urllib.request.Request(url, data=body, headers={
         "Content-Type": "application/json",
+        "User-Agent": _USER_AGENT,
         **headers,
     }, method="POST")
     try:
