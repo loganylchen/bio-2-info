@@ -36,8 +36,6 @@ jobs:
           LLM_API_KEY: ${{ secrets.LLM_API_KEY }}
           LLM_BASE_URL: ${{ secrets.LLM_BASE_URL }}
           LLM_MODEL: ${{ secrets.LLM_MODEL }}
-          # glm-4.7-flash 是推理模型，不关思考会把 max_tokens 全耗在隐藏推理上、content 返回空。
-          LLM_THINKING: disabled
         run: bio-2-info run-feed
 
       # archive 可能因 IMA 抖动失败；run-archive 已做容错：即使 IMA 异常也照常推送 digest
