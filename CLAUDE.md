@@ -5,7 +5,9 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 ## What this is
 
 A daily bioinformatics-literature pipeline (`收集 → AI 精筛 → 归档 → 推送`) that replaces two
-Hermes cron jobs and runs on GitHub Actions. Focus areas (encoded in `feed.py` queries and the
+Hermes cron jobs. It now runs on the **local machine via crontab** (`scripts/run_daily.sh`) — GitHub
+is only code host + Pages; the old GitHub Actions workflows were removed after the hosting account was
+banned. Focus areas (encoded in `feed.py` queries and the
 `curate.py` system prompt): RNA modification (m6A/pseudouridine/m5C), Nanopore Direct RNA
 Sequencing methods/tooling, and AI applications in bioinformatics.
 
@@ -49,22 +51,23 @@ Key cross-cutting concepts a single file won't reveal:
   (`_candidates_path` / `_selected_path` in `__main__.py`). `run-feed` / `run-archive` chain the
   stages but still round-trip through these files.
 
-- **One CI workflow, one Telegram message.** `daily.yml` (one `workflow_dispatch`, triggered by
-  cron-job.org) runs `run-feed` then `run-archive` in a single job. `run-feed` only fetches +
-  curates (no send); `run-archive` reads the `selected_<today>.json` from the same runner's disk,
-  archives, then sends a **single combined message** (`render_feed_message(sel, trailer=
-  render_archive_line(summary))` — digest body + a one-line archive status + CI footer) and records
-  the ledgers. Archival is wrapped in `try/except`, so the digest is pushed even if IMA throws (the
-  trailer just shows a failure note); `run-archive` then returns non-zero. The `archive` step is
-  `continue-on-error` and the commit step is `if: always()`, so `pushed_ledger.json` always gets
-  committed even when IMA archival fails (otherwise papers would be re-pushed the next day), while a
-  trailing gate still reddens CI on archive failure.
+- **One local cron run, one Telegram message.** `scripts/run_daily.sh` (crontab, daily 08:00
+  local) runs `run-feed` then `run-archive` in one process. `run-feed` only fetches + curates (no
+  send); `run-archive` reads the `selected_<today>.json` from local disk, archives, then sends a
+  **single combined message** (`render_feed_message(sel, trailer=render_archive_line(summary))` —
+  digest body + a one-line archive status + a footer) and records the ledgers. Archival is wrapped
+  in `try/except`, so the digest is pushed even if IMA throws (the trailer just shows a failure
+  note); `run-archive` then returns non-zero. The runner **always** commits + pushes the ledgers
+  regardless of archive rc (so `pushed_ledger.json` lands even when IMA fails — otherwise papers
+  would be re-pushed the next day), then exits non-zero if archive/push failed so cron logs show it.
+  Persistent-worktree guards: it aborts unless on `main`, does a preflight `git fetch` + `ff-only`
+  merge, and commits only its own pathspecs.
 
 - **Two independent cross-day dedup ledgers, both keyed by `archive.paper_key()`**
   (`doi:<doi>` preferred, else `title:<first 80 chars>`) and both committed back to the repo:
   - `archived_ledger.json` (written by `archive.py` during `run-archive`) — skips re-uploading PDFs to IMA.
   - `pushed_ledger.json` (written by `__main__._record_pushed` in `run-archive` after the combined
-    send, committed by `daily.yml`) — records every paper actually pushed to Telegram. `cmd_feed`
+    send, committed by `run_daily.sh`) — records every paper actually pushed to Telegram. `cmd_feed`
     calls `_filter_already_pushed` to drop these from candidates **before** curation, so a paper is
     never re-curated or re-notified on a later day. Only *pushed* (selected + sent) papers are
     recorded; fetched-but-unselected papers stay eligible for future days. Recording happens only on

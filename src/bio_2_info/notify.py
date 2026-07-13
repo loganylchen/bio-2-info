@@ -8,8 +8,8 @@ import urllib.error
 
 TG_API = "https://api.telegram.org"
 
-# 标注消息来源：由 GitHub Actions CI 自动推送。
-CI_FOOTER = "🤖 _由 GitHub Actions CI 自动推送_"
+# 标注消息来源：由本机定时任务（cron）自动推送。
+CI_FOOTER = "🤖 _由本机定时任务自动推送_"
 
 
 class NotifyError(RuntimeError):

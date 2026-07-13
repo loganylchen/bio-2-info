@@ -1,6 +1,6 @@
 # bio_2_info
 
-每日生信文献的「收集 → AI 精筛 → 归档 → 推送」流水线，迁离 Hermes cron，跑在 GitHub Actions 上，免除本地关机即丢任务的痛点。
+每日生信文献的「收集 → AI 精筛 → 归档 → 推送」流水线。由本机 crontab 每天定点运行；GitHub 仅作代码托管与 Pages 展示。
 
 ## 流程
 
@@ -11,14 +11,14 @@ PubMed + bioRxiv         LLM (Zhipu GLM 4.6 等)        IMA「每日生信资讯
    候选 JSON               精筛+中文总结 JSON             下载OA PDF + 上传digest        渲染Markdown并发送
 ```
 
-对应 Hermes 上原来的两个 cron job，现已合并为单个 `daily.yml` 工作流（一次 `workflow_dispatch`
-触发，由 cron-job.org 打点）：feed 与 archive 在同一个 job 内串行，`selected_<today>.json`
-直接经 runner 磁盘传递，无需 git 中转。
+本机 `scripts/run_daily.sh` 由 crontab 每天调用：`run-feed`（feed+curate，不发 Telegram）→
+`run-archive`（归档 IMA + 推**一条合并消息** + 记 ledger）→ 把 ledger/站点数据 commit 并 push 回
+`origin`。两阶段在同一进程内串行，`selected_<today>.json` 经本地磁盘传递，无需 git 中转。
 
-| 原 cron               | 替代命令                  | 在 daily.yml 中的步骤 |
-|-----------------------|--------------------------|----------------------|
-| 8:15 feed_research    | `bio-2-info run-feed`    | 第 1 步：抓取 + 精筛（不发 Telegram） |
-| 9:15 research_archive | `bio-2-info run-archive` | 第 2 步：归档 IMA + 推**一条合并消息**（摘要+归档状态，continue-on-error） |
+| 阶段命令                  | 作用 |
+|--------------------------|------|
+| `bio-2-info run-feed`    | 抓取 + LLM 精筛（不发 Telegram） |
+| `bio-2-info run-archive` | 归档 IMA + 推一条合并消息（摘要+归档状态）+ 记 ledger |
 
 ## 快速开始
 
@@ -40,9 +40,10 @@ bio-2-info run-feed --dry-run   # 整套联调（不真的发 Telegram）
 
 | 变量 | 说明 |
 |------|------|
-| `LLM_API_KEY` | OpenAI-compatible LLM 的 key（默认 Zhipu GLM；也可换 DeepSeek/Kimi 等） |
-| `LLM_BASE_URL` | 默认 `https://open.bigmodel.cn/api/paas/v4` |
-| `LLM_MODEL` | 默认 `glm-4.6` |
+| `LLM_API_KEY` | OpenAI-compatible LLM 的 key（当前用 GPT-5.5 中转；代码默认仍是 Zhipu GLM） |
+| `LLM_BASE_URL` | 当前 `https://api.tfclab-logan.xyz/v1`（代码默认 `https://open.bigmodel.cn/api/paas/v4`） |
+| `LLM_MODEL` | 当前 `gpt-5.5`（代码默认 `glm-4.6`） |
+| `NODE_BIN` | node 绝对路径；cron 净环境无 fnm shell init，须显式指定 |
 | `TELEGRAM_BOT_TOKEN` | 与 ssq-checker 共用的 bot token |
 | `TELEGRAM_CHAT_ID` | 默认 `-1004407117408`（「研究资讯」频道） |
 | `IMA_CLIENT_ID` | IMA OpenAPI client id |
@@ -50,12 +51,20 @@ bio-2-info run-feed --dry-run   # 整套联调（不真的发 Telegram）
 | `IMA_KB_NAME` | 默认 `每日生信资讯` |
 | `BIO_SKIP_IMA` | 设为 `1` 跳过 IMA 上传（仅生成 digest） |
 
-## GitHub Actions
+## 部署（本机 cron）
 
-仓库 Secrets 需要这几个：
-`LLM_API_KEY`, `TELEGRAM_BOT_TOKEN`, `TELEGRAM_CHAT_ID`, `IMA_CLIENT_ID`, `IMA_API_KEY`。
+不再用 GitHub Actions（原托管账号被封）。改为本机 crontab 每天调用 `scripts/run_daily.sh`，
+凭据放本机 `.env`（不进 git）。安装 crontab（本机时区 Asia/Hong_Kong，每天 08:00）：
 
-workflow 在 `.github/workflows/` 下，分别跑 run-feed 和 run-archive，输出件存进 `data/digests/`（用 `actions/upload-artifact`）。
+```bash
+crontab -e
+# 加一行：
+0 8 * * * /home/logan/Projects/bio_2_info/scripts/run_daily.sh
+```
+
+脚本会跑 run-feed → run-archive，然后把 ledger（`pushed_ledger.json`/`archived_ledger.json`）
+与 `docs/data/papers.json` commit 并 push 回 `origin`；日志写在 `logs/daily_<date>.log`。
+GitHub Pages 用「Deploy from branch」（`main` 的 `/docs`）自动发布，无需任何 workflow。
 
 ## 依赖
 
