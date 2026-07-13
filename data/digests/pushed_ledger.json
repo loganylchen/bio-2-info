@@ -94,5 +94,53 @@
   "title": "Unveiling the molecular mechanism of Qingwen Baidu decoction against dengue fever: an integrated study of bioinformatic analysis, machine learning and network pharmacology.",
   "doi": "10.1007/s10142-026-01905-0",
   "link": "https://pubmed.ncbi.nlm.nih.gov/42332327/"
+ },
+ "doi:10.64898/2026.07.10.737796": {
+  "date": "2026-07-13",
+  "title": "Panomap: Unbiased Nanopore Signal Mapping with Pangenome Variation Graphs",
+  "doi": "10.64898/2026.07.10.737796",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.07.10.737796"
+ },
+ "doi:10.64898/2026.07.03.736379": {
+  "date": "2026-07-13",
+  "title": "Single-molecule m6A profiling reveals position-dependent mRNA regulation and non-canonical roles for Ythdf2 in early embryogenesis",
+  "doi": "10.64898/2026.07.03.736379",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.07.03.736379"
+ },
+ "doi:10.64898/2026.07.10.737679": {
+  "date": "2026-07-13",
+  "title": "M6AFormer Prioritizes Unannotated Functional m6A Candidate Sites in the Human m6A Epitranscriptome",
+  "doi": "10.64898/2026.07.10.737679",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.07.10.737679"
+ },
+ "doi:10.64898/2026.07.09.737410": {
+  "date": "2026-07-13",
+  "title": "Isoform-level resolution in single-cell CRISPR screens reveals hidden functional consequences of gene perturbation",
+  "doi": "10.64898/2026.07.09.737410",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.07.09.737410"
+ },
+ "doi:10.1038/s41586-026-10689-z": {
+  "date": "2026-07-13",
+  "title": "Universal cell embedding provides a foundation model for cell biology.",
+  "doi": "10.1038/s41586-026-10689-z",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42420460/"
+ },
+ "doi:10.1186/s13059-026-04191-y": {
+  "date": "2026-07-13",
+  "title": "TIPs: a deep learning-guided proteogenomic framework to expand the landscape of transposable element-derived antigens with immunopeptidomics.",
+  "doi": "10.1186/s13059-026-04191-y",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42436584/"
+ },
+ "doi:10.64898/2026.04.10.717844": {
+  "date": "2026-07-13",
+  "title": "Interpretable variant effect prediction from genomic foundation model embeddings",
+  "doi": "10.64898/2026.04.10.717844",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.04.10.717844"
+ },
+ "doi:10.1038/s41598-026-61736-8": {
+  "date": "2026-07-13",
+  "title": "Integrating morphophysiology, gene expression and machine learning to characterize salt and drought stress responses in dragon fruit.",
+  "doi": "10.1038/s41598-026-61736-8",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42436339/"
  }
 }

@@ -83,5 +83,45 @@
   "date": "2026-06-24",
   "pdf": false,
   "title": "Unveiling the molecular mechanism of Qingwen Baidu decoction against dengue fever: an integrated study of bioinformatic analysis, machine learning and network pharmacology."
+ },
+ "doi:10.64898/2026.07.10.737796": {
+  "date": "2026-07-13",
+  "pdf": false,
+  "title": "Panomap: Unbiased Nanopore Signal Mapping with Pangenome Variation Graphs"
+ },
+ "doi:10.64898/2026.07.03.736379": {
+  "date": "2026-07-13",
+  "pdf": false,
+  "title": "Single-molecule m6A profiling reveals position-dependent mRNA regulation and non-canonical roles for Ythdf2 in early embryogenesis"
+ },
+ "doi:10.64898/2026.07.10.737679": {
+  "date": "2026-07-13",
+  "pdf": false,
+  "title": "M6AFormer Prioritizes Unannotated Functional m6A Candidate Sites in the Human m6A Epitranscriptome"
+ },
+ "doi:10.64898/2026.07.09.737410": {
+  "date": "2026-07-13",
+  "pdf": false,
+  "title": "Isoform-level resolution in single-cell CRISPR screens reveals hidden functional consequences of gene perturbation"
+ },
+ "doi:10.1038/s41586-026-10689-z": {
+  "date": "2026-07-13",
+  "pdf": false,
+  "title": "Universal cell embedding provides a foundation model for cell biology."
+ },
+ "doi:10.1186/s13059-026-04191-y": {
+  "date": "2026-07-13",
+  "pdf": false,
+  "title": "TIPs: a deep learning-guided proteogenomic framework to expand the landscape of transposable element-derived antigens with immunopeptidomics."
+ },
+ "doi:10.64898/2026.04.10.717844": {
+  "date": "2026-07-13",
+  "pdf": false,
+  "title": "Interpretable variant effect prediction from genomic foundation model embeddings"
+ },
+ "doi:10.1038/s41598-026-61736-8": {
+  "date": "2026-07-13",
+  "pdf": false,
+  "title": "Integrating morphophysiology, gene expression and machine learning to characterize salt and drought stress responses in dragon fruit."
  }
 }
