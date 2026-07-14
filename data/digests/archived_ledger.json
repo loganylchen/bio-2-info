@@ -123,5 +123,45 @@
   "date": "2026-07-13",
   "pdf": false,
   "title": "Integrating morphophysiology, gene expression and machine learning to characterize salt and drought stress responses in dragon fruit."
+ },
+ "doi:10.1038/s41598-026-59431-9": {
+  "date": "2026-07-14",
+  "pdf": false,
+  "title": "Targeted long-read sequencing with adaptive sampling enables the integrated genomic and epigenomic profiling of imprinting disorders."
+ },
+ "doi:10.1007/s11033-026-12270-3": {
+  "date": "2026-07-14",
+  "pdf": false,
+  "title": "A novel method for the identification and quantification of N6-methyladenosine motifs in RNA transcripts."
+ },
+ "doi:10.1016/j.celrep.2026.117635": {
+  "date": "2026-07-14",
+  "pdf": false,
+  "title": "Single-nucleotide RNA m(6)A mapping in bovine preimplantation development reveals site-specific regulation of RPL12 at zygotic genome activation."
+ },
+ "doi:10.64898/2026.07.08.737317": {
+  "date": "2026-07-14",
+  "pdf": false,
+  "title": "Transcriptional Characterization of Nuclear-Integrated Organellar DNA in Populus"
+ },
+ "doi:10.1038/s41467-026-75138-x": {
+  "date": "2026-07-14",
+  "pdf": false,
+  "title": "InstaNovo-P: a de novo peptide sequencing model for phosphoproteomics."
+ },
+ "doi:10.64898/2026.07.08.737248": {
+  "date": "2026-07-14",
+  "pdf": false,
+  "title": "OCellus: A Language-Model Framework for Single-Cell, Spatial, and Perturbation Biology with Natural-Language Reasoning"
+ },
+ "doi:10.1016/j.cell.2026.04.023": {
+  "date": "2026-07-14",
+  "pdf": false,
+  "title": "AI-predicted spatial transcriptomics unlocks breast cancer biomarkers from pathology."
+ },
+ "doi:10.1186/s12859-026-06530-z": {
+  "date": "2026-07-14",
+  "pdf": false,
+  "title": "Prioritising search for virtual screening via preliminary interpretable low-feature likelihood-based rankings of drug-target activity measures."
  }
 }
