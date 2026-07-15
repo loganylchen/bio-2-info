@@ -190,5 +190,53 @@
   "title": "Prioritising search for virtual screening via preliminary interpretable low-feature likelihood-based rankings of drug-target activity measures.",
   "doi": "10.1186/s12859-026-06530-z",
   "link": "https://pubmed.ncbi.nlm.nih.gov/42436376/"
+ },
+ "doi:10.1111/pce.70694": {
+  "date": "2026-07-15",
+  "title": "Phosphate Starvation Shapes M(6)A Modification and Poly(A) Tails to Regulate mRNA Decay in Rice.",
+  "doi": "10.1111/pce.70694",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42424124/"
+ },
+ "doi:10.1038/s41587-026-03218-w": {
+  "date": "2026-07-15",
+  "title": "High-resolution reconstruction of cell-type-specific transcriptional regulatory processes from bulk sequencing samples.",
+  "doi": "10.1038/s41587-026-03218-w",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42443492/"
+ },
+ "doi:10.1038/s41467-026-74411-3": {
+  "date": "2026-07-15",
+  "title": "Decoding cancer circulating transcriptomic signatures with language models.",
+  "doi": "10.1038/s41467-026-74411-3",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42425994/"
+ },
+ "doi:10.1093/nargab/lqag075": {
+  "date": "2026-07-15",
+  "title": "A multiperspective evaluation framework of spatial transcriptomics clustering methods.",
+  "doi": "10.1093/nargab/lqag075",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42421749/"
+ },
+ "doi:10.1186/s13059-026-04131-w": {
+  "date": "2026-07-15",
+  "title": "Comparing machine learning methods predicting transcriptome from epigenome with applications to association studies.",
+  "doi": "10.1186/s13059-026-04131-w",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42444001/"
+ },
+ "doi:10.1038/s43588-026-01010-z": {
+  "date": "2026-07-15",
+  "title": "Understanding language model scaling for protein fitness prediction.",
+  "doi": "10.1038/s43588-026-01010-z",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42443524/"
+ },
+ "doi:10.1021/acs.jcim.6c01094": {
+  "date": "2026-07-15",
+  "title": "Machine Learning for RNA-Targeting Drug Design.",
+  "doi": "10.1021/acs.jcim.6c01094",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42446430/"
+ },
+ "doi:10.1016/j.devcel.2026.05.013": {
+  "date": "2026-07-15",
+  "title": "Noncanonical caps, m(6)A, and Ψ RNA modifications in plant and animal development.",
+  "doi": "10.1016/j.devcel.2026.05.013",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42419288/"
  }
 }

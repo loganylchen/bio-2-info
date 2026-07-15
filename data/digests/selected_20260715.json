@@ -1,0 +1,101 @@
+{
+ "date": "2026-07-15",
+ "papers": [
+  {
+   "title": "Phosphate Starvation Shapes M(6)A Modification and Poly(A) Tails to Regulate mRNA Decay in Rice.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42424124/",
+   "doi": "10.1111/pce.70694",
+   "journal": "Plant, cell & environment",
+   "date": "2026 Jul 9",
+   "_bucket": "nanopore_drs",
+   "priority": "🥇",
+   "summary_cn": "解析水稻缺磷下m6A与poly(A)尾协同调控mRNA降解。",
+   "relevance_cn": "贴近DRS可同时读出修饰与poly(A)尾的应用场景。"
+  },
+  {
+   "title": "High-resolution reconstruction of cell-type-specific transcriptional regulatory processes from bulk sequencing samples.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42443492/",
+   "doi": "10.1038/s41587-026-03218-w",
+   "journal": "Nature biotechnology",
+   "date": "2026 Jul 13",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "提出从bulk测序重建细胞类型特异转录调控过程的高分辨方法。",
+   "relevance_cn": "为组学去卷积与调控网络建模提供顶刊方法参考。"
+  },
+  {
+   "title": "Decoding cancer circulating transcriptomic signatures with language models.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42425994/",
+   "doi": "10.1038/s41467-026-74411-3",
+   "journal": "Nature communications",
+   "date": "2026 Jul 9",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "用语言模型解析癌症循环转录组信号，提取可泛化表征。",
+   "relevance_cn": "展示序列/表达语言模型在液体活检转录组中的用法。"
+  },
+  {
+   "title": "A multiperspective evaluation framework of spatial transcriptomics clustering methods.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42421749/",
+   "doi": "10.1093/nargab/lqag075",
+   "journal": "NAR genomics and bioinformatics",
+   "date": "2026 Sep",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "构建多视角评测框架，系统比较空间转录组聚类方法。",
+   "relevance_cn": "对设计生信benchmark和空间组学AI评估有借鉴价值。"
+  },
+  {
+   "title": "Comparing machine learning methods predicting transcriptome from epigenome with applications to association studies.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42444001/",
+   "doi": "10.1186/s13059-026-04131-w",
+   "journal": "Genome biology",
+   "date": "2026 Jul 13",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "比较由表观基因组预测转录组的机器学习方法及关联分析应用。",
+   "relevance_cn": "连接表观层与转录层建模，适合多组学方法参考。"
+  },
+  {
+   "title": "Understanding language model scaling for protein fitness prediction.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42443524/",
+   "doi": "10.1038/s43588-026-01010-z",
+   "journal": "Nature computational science",
+   "date": "2026 Jul 13",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "系统研究蛋白语言模型规模化对适应度预测性能的影响。",
+   "relevance_cn": "有助理解生物序列foundation model的缩放规律。"
+  },
+  {
+   "title": "Machine Learning for RNA-Targeting Drug Design.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42446430/",
+   "doi": "10.1021/acs.jcim.6c01094",
+   "journal": "Journal of chemical information and modeling",
+   "date": "2026 Jul 14",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "综述机器学习在RNA靶向药物设计中的模型、数据与挑战。",
+   "relevance_cn": "直接连接RNA结构/功能建模与AI药物设计。"
+  },
+  {
+   "title": "Noncanonical caps, m(6)A, and Ψ RNA modifications in plant and animal development.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42419288/",
+   "doi": "10.1016/j.devcel.2026.05.013",
+   "journal": "Developmental cell",
+   "date": "2026 Jul 8",
+   "_bucket": "rna_mod",
+   "priority": "🥉",
+   "summary_cn": "综述非经典帽、m6A与假尿苷在动植物发育中的调控作用。",
+   "relevance_cn": "为RNA修饰生物学背景与机制假设提供高质量综述。"
+  }
+ ],
+ "no_core": false,
+ "summary_zh": "今日核心方向仅1篇偏DRS应用的RNA修饰/poly(A)研究，AI侧以组学建模、语言模型和benchmark为主。",
+ "_meta": {
+  "model": "gpt-5.5",
+  "base_url": "https://api.tfclab-logan.xyz/v1",
+  "candidates_in": 71,
+  "papers_out": 8
+ }
+}
