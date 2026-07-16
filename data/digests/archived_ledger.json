@@ -203,5 +203,45 @@
   "date": "2026-07-15",
   "pdf": false,
   "title": "Noncanonical caps, m(6)A, and Ψ RNA modifications in plant and animal development."
+ },
+ "doi:10.1016/j.aca.2026.345533": {
+  "date": "2026-07-16",
+  "pdf": false,
+  "title": "Highly sensitive m6A electrochemical biosensor based on laser-induced graphene electrodes functionalized with DNA tetrahedron/gold-antibody nanoparticle."
+ },
+ "doi:10.1093/nar/gkag382": {
+  "date": "2026-07-16",
+  "pdf": false,
+  "title": "PhaBOX2: an enhanced web server for discovering and analyzing viral contigs in metagenomic data."
+ },
+ "doi:10.1093/bioinformatics/btag502": {
+  "date": "2026-07-16",
+  "pdf": false,
+  "title": "DFCE-KanT: Predicting Spatial Gene Expression from Histology Images via Contrastive Learning."
+ },
+ "doi:10.1126/sciadv.ady9432": {
+  "date": "2026-07-16",
+  "pdf": false,
+  "title": "A scalable deep-learning framework for cancer detection using cell-free DNA shallow whole-genome sequencing."
+ },
+ "doi:10.1371/journal.pcbi.1014492": {
+  "date": "2026-07-16",
+  "pdf": false,
+  "title": "Popformer: Learning general signatures of positive selection with a self-supervised transformer."
+ },
+ "doi:10.1128/spectrum.01906-25": {
+  "date": "2026-07-16",
+  "pdf": false,
+  "title": "Construction and validation of a phenotypic prediction model for bacterial gentamicin resistance using deep learning with gene sequences."
+ },
+ "doi:10.1186/s13073-026-01713-y": {
+  "date": "2026-07-16",
+  "pdf": false,
+  "title": "Trimodal, uncertainty-guided whole-slide framework for genome-scale spatial expression and image-only virtual perturbation in cancer cohorts."
+ },
+ "doi:10.1084/jem.20260054": {
+  "date": "2026-07-16",
+  "pdf": false,
+  "title": "ADAR1 loss-of-function variants altering RNA editing define a new interferon-dependent psoriasis subtype."
  }
 }

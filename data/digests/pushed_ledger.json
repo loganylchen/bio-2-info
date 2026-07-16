@@ -238,5 +238,53 @@
   "title": "Noncanonical caps, m(6)A, and Ψ RNA modifications in plant and animal development.",
   "doi": "10.1016/j.devcel.2026.05.013",
   "link": "https://pubmed.ncbi.nlm.nih.gov/42419288/"
+ },
+ "doi:10.1016/j.aca.2026.345533": {
+  "date": "2026-07-16",
+  "title": "Highly sensitive m6A electrochemical biosensor based on laser-induced graphene electrodes functionalized with DNA tetrahedron/gold-antibody nanoparticle.",
+  "doi": "10.1016/j.aca.2026.345533",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42108061/"
+ },
+ "doi:10.1093/nar/gkag382": {
+  "date": "2026-07-16",
+  "title": "PhaBOX2: an enhanced web server for discovering and analyzing viral contigs in metagenomic data.",
+  "doi": "10.1093/nar/gkag382",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42023515/"
+ },
+ "doi:10.1093/bioinformatics/btag502": {
+  "date": "2026-07-16",
+  "title": "DFCE-KanT: Predicting Spatial Gene Expression from Histology Images via Contrastive Learning.",
+  "doi": "10.1093/bioinformatics/btag502",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42421216/"
+ },
+ "doi:10.1126/sciadv.ady9432": {
+  "date": "2026-07-16",
+  "title": "A scalable deep-learning framework for cancer detection using cell-free DNA shallow whole-genome sequencing.",
+  "doi": "10.1126/sciadv.ady9432",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42430497/"
+ },
+ "doi:10.1371/journal.pcbi.1014492": {
+  "date": "2026-07-16",
+  "title": "Popformer: Learning general signatures of positive selection with a self-supervised transformer.",
+  "doi": "10.1371/journal.pcbi.1014492",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42455870/"
+ },
+ "doi:10.1128/spectrum.01906-25": {
+  "date": "2026-07-16",
+  "title": "Construction and validation of a phenotypic prediction model for bacterial gentamicin resistance using deep learning with gene sequences.",
+  "doi": "10.1128/spectrum.01906-25",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42454932/"
+ },
+ "doi:10.1186/s13073-026-01713-y": {
+  "date": "2026-07-16",
+  "title": "Trimodal, uncertainty-guided whole-slide framework for genome-scale spatial expression and image-only virtual perturbation in cancer cohorts.",
+  "doi": "10.1186/s13073-026-01713-y",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42449400/"
+ },
+ "doi:10.1084/jem.20260054": {
+  "date": "2026-07-16",
+  "title": "ADAR1 loss-of-function variants altering RNA editing define a new interferon-dependent psoriasis subtype.",
+  "doi": "10.1084/jem.20260054",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42424135/"
  }
 }

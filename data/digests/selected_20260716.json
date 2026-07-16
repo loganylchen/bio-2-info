@@ -1,0 +1,101 @@
+{
+ "date": "2026-07-16",
+ "papers": [
+  {
+   "title": "Highly sensitive m6A electrochemical biosensor based on laser-induced graphene electrodes functionalized with DNA tetrahedron/gold-antibody nanoparticle.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42108061/",
+   "doi": "10.1016/j.aca.2026.345533",
+   "journal": "Analytica chimica acta",
+   "date": "2026 Jul 15",
+   "_bucket": "rna_mod",
+   "priority": "🥇",
+   "summary_cn": "构建激光诱导石墨烯/DNA四面体/金抗体纳米颗粒的高灵敏m6A电化学传感器。",
+   "relevance_cn": "提供非测序型RNA修饰定量检测思路。"
+  },
+  {
+   "title": "PhaBOX2: an enhanced web server for discovering and analyzing viral contigs in metagenomic data.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42023515/",
+   "doi": "10.1093/nar/gkag382",
+   "journal": "Nucleic acids research",
+   "date": "2026 Jul 11",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "升级PhaBOX2网页工具，用于宏基因组病毒contig发现、分类与下游分析。",
+   "relevance_cn": "NAR工具型论文，适合借鉴生信web服务与分类流程设计。"
+  },
+  {
+   "title": "DFCE-KanT: Predicting Spatial Gene Expression from Histology Images via Contrastive Learning.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42421216/",
+   "doi": "10.1093/bioinformatics/btag502",
+   "journal": "Bioinformatics (Oxford, England)",
+   "date": "2026 Jul 8",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "提出DFCE-KanT，用对比学习从病理图像预测空间基因表达。",
+   "relevance_cn": "连接图像与空间转录组，可借鉴跨模态表征学习。"
+  },
+  {
+   "title": "A scalable deep-learning framework for cancer detection using cell-free DNA shallow whole-genome sequencing.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42430497/",
+   "doi": "10.1126/sciadv.ady9432",
+   "journal": "Science advances",
+   "date": "2026 Jul 10",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "开发可扩展深度学习框架，基于cfDNA浅层全基因组测序进行癌症检测。",
+   "relevance_cn": "序列/片段组学AI落地应用，对液体活检建模有参考价值。"
+  },
+  {
+   "title": "Popformer: Learning general signatures of positive selection with a self-supervised transformer.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42455870/",
+   "doi": "10.1371/journal.pcbi.1014492",
+   "journal": "PLoS computational biology",
+   "date": "2026 Jul 15",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "用自监督Transformer学习群体遗传数据中的正选择通用特征。",
+   "relevance_cn": "AI用于进化基因组学，体现序列群体数据的基础表征学习。"
+  },
+  {
+   "title": "Construction and validation of a phenotypic prediction model for bacterial gentamicin resistance using deep learning with gene sequences.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42454932/",
+   "doi": "10.1128/spectrum.01906-25",
+   "journal": "Microbiology spectrum",
+   "date": "2026 Jul 15",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "基于基因序列训练深度学习模型，预测细菌庆大霉素耐药表型并验证。",
+   "relevance_cn": "序列到表型预测的实用案例，可借鉴于功能变异建模。"
+  },
+  {
+   "title": "Trimodal, uncertainty-guided whole-slide framework for genome-scale spatial expression and image-only virtual perturbation in cancer cohorts.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42449400/",
+   "doi": "10.1186/s13073-026-01713-y",
+   "journal": "Genome medicine",
+   "date": "2026 Jul 14",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "提出不确定性引导的三模态WSI框架，预测空间表达并进行图像虚拟扰动。",
+   "relevance_cn": "多模态组学AI框架，对空间转录组建模有启发。"
+  },
+  {
+   "title": "ADAR1 loss-of-function variants altering RNA editing define a new interferon-dependent psoriasis subtype.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42424135/",
+   "doi": "10.1084/jem.20260054",
+   "journal": "The Journal of experimental medicine",
+   "date": "2026 Sep 7",
+   "_bucket": "rna_mod",
+   "priority": "🥉",
+   "summary_cn": "发现ADAR1功能缺失变异改变RNA编辑，定义干扰素依赖型银屑病亚型。",
+   "relevance_cn": "顶刊RNA编辑机制研究，提示修饰变异与疾病分型关联。"
+  }
+ ],
+ "no_core": false,
+ "summary_zh": "今日核心新方法较少，重点是一篇m6A检测传感器；AI方向以空间组学、cfDNA、群体遗传和序列到表型建模为主。",
+ "_meta": {
+  "model": "gpt-5.5",
+  "base_url": "https://api.tfclab-logan.xyz/v1",
+  "candidates_in": 73,
+  "papers_out": 8
+ }
+}
