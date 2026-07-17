@@ -243,5 +243,45 @@
   "date": "2026-07-16",
   "pdf": false,
   "title": "ADAR1 loss-of-function variants altering RNA editing define a new interferon-dependent psoriasis subtype."
+ },
+ "doi:10.1038/s41467-026-75183-6": {
+  "date": "2026-07-17",
+  "pdf": false,
+  "title": "Comprehensive benchmarking of tools for nanopore-based detection of DNA methylation."
+ },
+ "doi:10.64898/2026.07.09.737571": {
+  "date": "2026-07-17",
+  "pdf": false,
+  "title": "Synonymous codon usage is biased for and against m⁶A RRACH motifs in mammals"
+ },
+ "doi:10.1016/j.cels.2026.101657": {
+  "date": "2026-07-17",
+  "pdf": false,
+  "title": "BulkFormer: A large-scale foundation model for bulk transcriptomes."
+ },
+ "doi:10.64898/2025.12.19.695616": {
+  "date": "2026-07-17",
+  "pdf": false,
+  "title": "Hidden sampling biases inflate performance in gene regulatory network inference"
+ },
+ "doi:10.1186/s12915-026-02676-7": {
+  "date": "2026-07-17",
+  "pdf": false,
+  "title": "ViMST: vision transformer-based dual modality multi-task graph contrastive network for spatial transcriptomics microenvironments investigation."
+ },
+ "doi:10.1126/science.aed6123": {
+  "date": "2026-07-17",
+  "pdf": false,
+  "title": "Structure and evolution-guided design of minimal RNA-guided nucleases."
+ },
+ "doi:10.1007/s10142-026-01975-0": {
+  "date": "2026-07-17",
+  "pdf": false,
+  "title": "Integrative single-cell and spatial transcriptomics combined with machine learning to discover complement-associated biomarkers in temporal lobe epilepsy with hippocampal sclerosis."
+ },
+ "doi:10.1002/advs.76370": {
+  "date": "2026-07-17",
+  "pdf": false,
+  "title": "Targeting NSUN2-Mediated m(5)C Modification Attenuates Chondrocyte Senescence and NLRP3 Activation in Osteoarthritis."
  }
 }

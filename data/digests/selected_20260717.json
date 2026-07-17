@@ -1,0 +1,101 @@
+{
+ "date": "2026-07-17",
+ "papers": [
+  {
+   "title": "Comprehensive benchmarking of tools for nanopore-based detection of DNA methylation.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42457719/",
+   "doi": "10.1038/s41467-026-75183-6",
+   "journal": "Nature communications",
+   "date": "2026 Jul 15",
+   "_bucket": "nanopore_drs",
+   "priority": "🥇",
+   "summary_cn": "系统评测纳米孔DNA甲基化检测工具，比较准确性、偏倚与适用场景。",
+   "relevance_cn": "为纳米孔修饰调用benchmark与DRS信号分析提供参考。"
+  },
+  {
+   "title": "Synonymous codon usage is biased for and against m⁶A RRACH motifs in mammals",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.07.09.737571",
+   "doi": "10.64898/2026.07.09.737571",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-07-14",
+   "_bucket": "core",
+   "priority": "🥇",
+   "summary_cn": "跨261种哺乳动物分析同义密码子如何选择性富集或排斥m6A RRACH基序。",
+   "relevance_cn": "有助于理解m6A位点形成的序列约束与进化背景。"
+  },
+  {
+   "title": "BulkFormer: A large-scale foundation model for bulk transcriptomes.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42385705/",
+   "doi": "10.1016/j.cels.2026.101657",
+   "journal": "Cell systems",
+   "date": "2026 Jul 15",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "提出面向bulk转录组的大规模基础模型，用于统一表征与下游任务迁移。",
+   "relevance_cn": "值得借鉴其组学foundation model预训练范式。"
+  },
+  {
+   "title": "Hidden sampling biases inflate performance in gene regulatory network inference",
+   "link": "https://www.biorxiv.org/content/10.64898/2025.12.19.695616",
+   "doi": "10.64898/2025.12.19.695616",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-07-14",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "揭示GRN推断中负样本采样偏倚会虚高机器学习模型性能。",
+   "relevance_cn": "提醒生信AI benchmark需控制数据泄漏与评估偏倚。"
+  },
+  {
+   "title": "ViMST: vision transformer-based dual modality multi-task graph contrastive network for spatial transcriptomics microenvironments investigation.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42458406/",
+   "doi": "10.1186/s12915-026-02676-7",
+   "journal": "BMC biology",
+   "date": "2026 Jul 15",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "构建ViT双模态多任务图对比网络解析空间转录组微环境。",
+   "relevance_cn": "对空间组学多模态融合与图学习pipeline有参考价值。"
+  },
+  {
+   "title": "Structure and evolution-guided design of minimal RNA-guided nucleases.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42462008/",
+   "doi": "10.1126/science.aed6123",
+   "journal": "Science (New York, N.Y.)",
+   "date": "2026 Jul 16",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "结合结构与进化信息设计最小RNA引导核酸酶并验证其功能。",
+   "relevance_cn": "展示AI/计算设计在RNA引导酶工程中的落地应用。"
+  },
+  {
+   "title": "Integrative single-cell and spatial transcriptomics combined with machine learning to discover complement-associated biomarkers in temporal lobe epilepsy with hippocampal sclerosis.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42458112/",
+   "doi": "10.1007/s10142-026-01975-0",
+   "journal": "Functional & integrative genomics",
+   "date": "2026 Jul 16",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "整合单细胞与空间转录组并用机器学习筛选癫痫补体相关标志物。",
+   "relevance_cn": "是组学整合加ML发现机制标志物的落地案例。"
+  },
+  {
+   "title": "Targeting NSUN2-Mediated m(5)C Modification Attenuates Chondrocyte Senescence and NLRP3 Activation in Osteoarthritis.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42405873/",
+   "doi": "10.1002/advs.76370",
+   "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+   "date": "2026 Jul 6",
+   "_bucket": "rna_mod",
+   "priority": "🥉",
+   "summary_cn": "报道抑制NSUN2介导m5C可减轻骨关节炎软骨细胞衰老和NLRP3激活。",
+   "relevance_cn": "提供m5C writer在疾病机制与干预中的高质量案例。"
+  }
+ ],
+ "no_core": false,
+ "summary_zh": "今日核心有纳米孔修饰检测benchmark与m6A基序进化分析，AI方向以转录组基础模型、空间组学图学习和分子设计应用为主。",
+ "_meta": {
+  "model": "gpt-5.5",
+  "base_url": "https://api.tfclab-logan.xyz/v1",
+  "candidates_in": 79,
+  "papers_out": 8
+ }
+}
