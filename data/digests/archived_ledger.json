@@ -283,5 +283,40 @@
   "date": "2026-07-17",
   "pdf": false,
   "title": "Targeting NSUN2-Mediated m(5)C Modification Attenuates Chondrocyte Senescence and NLRP3 Activation in Osteoarthritis."
+ },
+ "doi:10.1016/j.tibs.2026.06.010": {
+  "date": "2026-07-18",
+  "pdf": false,
+  "title": "A critical appraisal of base-resolution m(6)A profiling techniques."
+ },
+ "doi:10.64898/2026.07.09.737344": {
+  "date": "2026-07-18",
+  "pdf": false,
+  "title": "Synthesizing Mechanistic Hypotheses from Single-Cell Omics via Discretized Feature Attribution and Empirical Language Model Grounding."
+ },
+ "doi:10.1007/s44307-026-00121-y": {
+  "date": "2026-07-18",
+  "pdf": false,
+  "title": "Specificity-driven cell-gene graph learning identifies rare cell states in single-cell and spatial transcriptomic data."
+ },
+ "doi:10.1038/s41598-026-62633-w": {
+  "date": "2026-07-18",
+  "pdf": false,
+  "title": "OmiXAI: An ensemble XAI pipeline for interpretable deep learning in omics data."
+ },
+ "doi:10.1038/s41467-026-75549-w": {
+  "date": "2026-07-18",
+  "pdf": false,
+  "title": "AlphaGEM enables precise genome-scale metabolic modelling by integrating protein structure alignment with deep-learning-based dark metabolism mining."
+ },
+ "doi:10.1109/tcbbio.2026.3714710": {
+  "date": "2026-07-18",
+  "pdf": false,
+  "title": "Identifying Cancer Driver Genes Based on Vision Transformer and Hierarchical Feature Fusion Module."
+ },
+ "doi:10.1371/journal.pcbi.1014515": {
+  "date": "2026-07-18",
+  "pdf": false,
+  "title": "Dynamics-enhanced molecular property prediction guided by deep learning."
  }
 }

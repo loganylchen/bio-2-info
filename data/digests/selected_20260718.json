@@ -1,0 +1,90 @@
+{
+ "date": "2026-07-18",
+ "papers": [
+  {
+   "title": "A critical appraisal of base-resolution m(6)A profiling techniques.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42463377/",
+   "doi": "10.1016/j.tibs.2026.06.010",
+   "journal": "Trends in biochemical sciences",
+   "date": "2026 Jul 16",
+   "_bucket": "nanopore_drs",
+   "priority": "🥇",
+   "summary_cn": "系统评估单碱基m6A测序技术的原理、偏差、分辨率与适用场景。",
+   "relevance_cn": "直接服务m6A检测方法选择与benchmark设计。"
+  },
+  {
+   "title": "Synthesizing Mechanistic Hypotheses from Single-Cell Omics via Discretized Feature Attribution and Empirical Language Model Grounding.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42465380/",
+   "doi": "10.64898/2026.07.09.737344",
+   "journal": "bioRxiv : the preprint server for biology",
+   "date": "2026 Jul 10",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "用离散化特征归因结合语言模型，从单细胞组学自动生成机制假说。",
+   "relevance_cn": "展示LLM辅助组学解释与假说生成的新范式。"
+  },
+  {
+   "title": "Specificity-driven cell-gene graph learning identifies rare cell states in single-cell and spatial transcriptomic data.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42461443/",
+   "doi": "10.1007/s44307-026-00121-y",
+   "journal": "Advanced biotechnology",
+   "date": "2026 Jul 16",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "提出特异性驱动的细胞-基因图学习，识别单细胞和空间转录组稀有状态。",
+   "relevance_cn": "可借鉴到RNA修饰单细胞/空间数据整合分析。"
+  },
+  {
+   "title": "OmiXAI: An ensemble XAI pipeline for interpretable deep learning in omics data.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42457879/",
+   "doi": "10.1038/s41598-026-62633-w",
+   "journal": "Scientific reports",
+   "date": "2026 Jul 15",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "发布集成式可解释AI流程OmiXAI，用于组学深度学习模型解释。",
+   "relevance_cn": "有助于提升mod calling和组学AI模型可解释性。"
+  },
+  {
+   "title": "AlphaGEM enables precise genome-scale metabolic modelling by integrating protein structure alignment with deep-learning-based dark metabolism mining.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42463708/",
+   "doi": "10.1038/s41467-026-75549-w",
+   "journal": "Nature communications",
+   "date": "2026 Jul 16",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "AlphaGEM融合蛋白结构比对与深度学习挖掘暗代谢，改进基因组尺度代谢模型。",
+   "relevance_cn": "是AI整合结构与组学知识落地建模的优质案例。"
+  },
+  {
+   "title": "Identifying Cancer Driver Genes Based on Vision Transformer and Hierarchical Feature Fusion Module.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42467578/",
+   "doi": "10.1109/TCBBIO.2026.3714710",
+   "journal": "IEEE transactions on computational biology and bioinformatics",
+   "date": "2026 Jul 17",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "利用Vision Transformer和层级特征融合识别癌症驱动基因。",
+   "relevance_cn": "提供序列/基因特征融合建模的AI应用参考。"
+  },
+  {
+   "title": "Dynamics-enhanced molecular property prediction guided by deep learning.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42461947/",
+   "doi": "10.1371/journal.pcbi.1014515",
+   "journal": "PLoS computational biology",
+   "date": "2026 Jul 16",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "将分子动力学信息引入深度学习，提升分子性质预测表现。",
+   "relevance_cn": "体现结构动态特征增强生物AI预测的思路。"
+  }
+ ],
+ "no_core": false,
+ "summary_zh": "今日核心为m6A单碱基检测技术评述，AI方向集中在单细胞组学解释、XAI与结构/组学融合应用。",
+ "_meta": {
+  "model": "gpt-5.5",
+  "base_url": "https://api.tfclab-logan.xyz/v1",
+  "candidates_in": 72,
+  "papers_out": 7
+ }
+}

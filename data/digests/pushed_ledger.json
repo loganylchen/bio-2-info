@@ -334,5 +334,47 @@
   "title": "Targeting NSUN2-Mediated m(5)C Modification Attenuates Chondrocyte Senescence and NLRP3 Activation in Osteoarthritis.",
   "doi": "10.1002/advs.76370",
   "link": "https://pubmed.ncbi.nlm.nih.gov/42405873/"
+ },
+ "doi:10.1016/j.tibs.2026.06.010": {
+  "date": "2026-07-18",
+  "title": "A critical appraisal of base-resolution m(6)A profiling techniques.",
+  "doi": "10.1016/j.tibs.2026.06.010",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42463377/"
+ },
+ "doi:10.64898/2026.07.09.737344": {
+  "date": "2026-07-18",
+  "title": "Synthesizing Mechanistic Hypotheses from Single-Cell Omics via Discretized Feature Attribution and Empirical Language Model Grounding.",
+  "doi": "10.64898/2026.07.09.737344",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42465380/"
+ },
+ "doi:10.1007/s44307-026-00121-y": {
+  "date": "2026-07-18",
+  "title": "Specificity-driven cell-gene graph learning identifies rare cell states in single-cell and spatial transcriptomic data.",
+  "doi": "10.1007/s44307-026-00121-y",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42461443/"
+ },
+ "doi:10.1038/s41598-026-62633-w": {
+  "date": "2026-07-18",
+  "title": "OmiXAI: An ensemble XAI pipeline for interpretable deep learning in omics data.",
+  "doi": "10.1038/s41598-026-62633-w",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42457879/"
+ },
+ "doi:10.1038/s41467-026-75549-w": {
+  "date": "2026-07-18",
+  "title": "AlphaGEM enables precise genome-scale metabolic modelling by integrating protein structure alignment with deep-learning-based dark metabolism mining.",
+  "doi": "10.1038/s41467-026-75549-w",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42463708/"
+ },
+ "doi:10.1109/tcbbio.2026.3714710": {
+  "date": "2026-07-18",
+  "title": "Identifying Cancer Driver Genes Based on Vision Transformer and Hierarchical Feature Fusion Module.",
+  "doi": "10.1109/TCBBIO.2026.3714710",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42467578/"
+ },
+ "doi:10.1371/journal.pcbi.1014515": {
+  "date": "2026-07-18",
+  "title": "Dynamics-enhanced molecular property prediction guided by deep learning.",
+  "doi": "10.1371/journal.pcbi.1014515",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42461947/"
  }
 }
