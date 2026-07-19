@@ -376,5 +376,53 @@
   "title": "Dynamics-enhanced molecular property prediction guided by deep learning.",
   "doi": "10.1371/journal.pcbi.1014515",
   "link": "https://pubmed.ncbi.nlm.nih.gov/42461947/"
+ },
+ "doi:10.64898/2026.07.17.739151": {
+  "date": "2026-07-19",
+  "title": "Human 28S rRNA analysed by state-of-the-art oligonucleotide mass spectrometry: benchmarking current capabilities and a call to action for MS-Seq",
+  "doi": "10.64898/2026.07.17.739151",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.07.17.739151"
+ },
+ "doi:10.64898/2025.12.15.694309": {
+  "date": "2026-07-19",
+  "title": "Nanopore-based profiling of PEGylation in nucleic acid therapeutics",
+  "doi": "10.64898/2025.12.15.694309",
+  "link": "https://www.biorxiv.org/content/10.64898/2025.12.15.694309"
+ },
+ "doi:10.64898/2026.07.10.737817": {
+  "date": "2026-07-19",
+  "title": "Benchmarking Nanopore Sequencing for Autosomal and Y-STR profiling on R10.4.1 Flowcells across Basecalling Models",
+  "doi": "10.64898/2026.07.10.737817",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.07.10.737817"
+ },
+ "doi:10.64898/2026.07.08.736699": {
+  "date": "2026-07-19",
+  "title": "Beyond Bisulfite Sequencing: Resolving 5-hmC with Nanopore Sequencing Unmasks the True-5mC Methylation Entropy Landscape",
+  "doi": "10.64898/2026.07.08.736699",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.07.08.736699"
+ },
+ "doi:10.1016/j.cels.2026.101675": {
+  "date": "2026-07-19",
+  "title": "Foundation model reveals the shared organization of transcription and topologically associating domains.",
+  "doi": "10.1016/j.cels.2026.101675",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42468531/"
+ },
+ "doi:10.1101/gr.281661.125": {
+  "date": "2026-07-19",
+  "title": "ComicGTN infers disease-associated rare cell states from single-cell multiomic data using DNA sequence-augmented graph transformer networks.",
+  "doi": "10.1101/gr.281661.125",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42469013/"
+ },
+ "doi:10.1038/s42004-026-02138-9": {
+  "date": "2026-07-19",
+  "title": "AI-assisted fragment-based drug discovery of SARS-CoV-2 macrodomain binders validated by NMR and X-ray crystallography.",
+  "doi": "10.1038/s42004-026-02138-9",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42469492/"
+ },
+ "doi:10.64898/2026.07.15.738762": {
+  "date": "2026-07-19",
+  "title": "Shifu: an integrated framework for deep learning of RNA secondary structure",
+  "doi": "10.64898/2026.07.15.738762",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.07.15.738762"
  }
 }

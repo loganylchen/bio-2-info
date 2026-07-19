@@ -1,0 +1,101 @@
+{
+ "date": "2026-07-19",
+ "papers": [
+  {
+   "title": "Human 28S rRNA analysed by state-of-the-art oligonucleotide mass spectrometry: benchmarking current capabilities and a call to action for MS-Seq",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.07.17.739151",
+   "doi": "10.64898/2026.07.17.739151",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-07-17",
+   "_bucket": "core",
+   "priority": "🥇",
+   "summary_cn": "跨平台评测28S rRNA寡核苷酸质谱流程，提出MS-Seq标准化需求。",
+   "relevance_cn": "直接关联RNA修饰定点检测与benchmark体系。"
+  },
+  {
+   "title": "Nanopore-based profiling of PEGylation in nucleic acid therapeutics",
+   "link": "https://www.biorxiv.org/content/10.64898/2025.12.15.694309",
+   "doi": "10.64898/2025.12.15.694309",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-07-17",
+   "_bucket": "core",
+   "priority": "🥇",
+   "summary_cn": "用固态纳米孔和DNA纳米结构定量RNA适配体PEG化效率与异质性。",
+   "relevance_cn": "展示纳米孔单分子检测RNA化学修饰/偶联的新思路。"
+  },
+  {
+   "title": "Benchmarking Nanopore Sequencing for Autosomal and Y-STR profiling on R10.4.1 Flowcells across Basecalling Models",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.07.10.737817",
+   "doi": "10.64898/2026.07.10.737817",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-07-16",
+   "_bucket": "core",
+   "priority": "🥇",
+   "summary_cn": "系统比较R10.4.1芯片多版本HAC/SUP/HYP basecaller对STR分型影响。",
+   "relevance_cn": "对Dorado/basecalling评测和纳米孔误差建模有参考。"
+  },
+  {
+   "title": "Beyond Bisulfite Sequencing: Resolving 5-hmC with Nanopore Sequencing Unmasks the True-5mC Methylation Entropy Landscape",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.07.08.736699",
+   "doi": "10.64898/2026.07.08.736699",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-07-17",
+   "_bucket": "core",
+   "priority": "🥇",
+   "summary_cn": "利用纳米孔区分5mC与5hmC，重估甲基化水平和熵景观。",
+   "relevance_cn": "提供纳米孔修饰calling与熵分析的可借鉴框架。"
+  },
+  {
+   "title": "Foundation model reveals the shared organization of transcription and topologically associating domains.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42468531/",
+   "doi": "10.1016/j.cels.2026.101675",
+   "journal": "Cell systems",
+   "date": "2026 Jul 17",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "用基因组foundation model解析转录与TAD组织之间的共享规律。",
+   "relevance_cn": "代表序列/基因组大模型在调控组学中的高水平应用。"
+  },
+  {
+   "title": "ComicGTN infers disease-associated rare cell states from single-cell multiomic data using DNA sequence-augmented graph transformer networks.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42469013/",
+   "doi": "10.1101/gr.281661.125",
+   "journal": "Genome research",
+   "date": "2026 Jul 17",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "提出DNA序列增强图Transformer，从单细胞多组学推断疾病稀有细胞态。",
+   "relevance_cn": "对单细胞多组学AI建模和调控序列融合有价值。"
+  },
+  {
+   "title": "AI-assisted fragment-based drug discovery of SARS-CoV-2 macrodomain binders validated by NMR and X-ray crystallography.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42469492/",
+   "doi": "10.1038/s42004-026-02138-9",
+   "journal": "Communications chemistry",
+   "date": "2026 Jul 17",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "AI辅助片段药物发现筛选SARS-CoV-2 macrodomain结合物，并经NMR/X晶体验证。",
+   "relevance_cn": "是AI分子发现闭环验证案例，可借鉴于生物分子设计。"
+  },
+  {
+   "title": "Shifu: an integrated framework for deep learning of RNA secondary structure",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.07.15.738762",
+   "doi": "10.64898/2026.07.15.738762",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-07-16",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "构建RNA二级结构深度学习框架，含防泄漏数据集和细粒度评测指标。",
+   "relevance_cn": "面向RNA结构AI建模，利于DRS/RNA修饰结构解释。"
+  }
+ ],
+ "no_core": false,
+ "summary_zh": "今日核心集中在RNA修饰质谱benchmark与纳米孔检测/basecalling评测，AI部分覆盖基因组大模型、单细胞图Transformer和分子发现落地案例。",
+ "_meta": {
+  "model": "gpt-5.5",
+  "base_url": "https://api.tfclab-logan.xyz/v1",
+  "candidates_in": 89,
+  "papers_out": 8
+ }
+}
