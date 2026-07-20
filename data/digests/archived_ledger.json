@@ -318,5 +318,45 @@
   "date": "2026-07-18",
   "pdf": false,
   "title": "Dynamics-enhanced molecular property prediction guided by deep learning."
+ },
+ "doi:10.1186/s13059-026-04205-9": {
+  "date": "2026-07-20",
+  "pdf": false,
+  "title": "Integrating single-cell sQTL mapping with deep-learning splicing prediction identifies causal variants under influenza infection."
+ },
+ "doi:10.64898/2026.07.10.737719": {
+  "date": "2026-07-20",
+  "pdf": false,
+  "title": "Reconstructing sequence-grammar trajectories enables interpretable and tunable cis-regulatory element design"
+ },
+ "doi:10.64898/2026.05.17.725770": {
+  "date": "2026-07-20",
+  "pdf": false,
+  "title": "Mapping Tumor-Microenvironment dependencies with TMEformer: A spatial foundation framework enabling in silico perturbation"
+ },
+ "doi:10.1186/s40168-026-02467-w": {
+  "date": "2026-07-20",
+  "pdf": false,
+  "title": "SEVA: structural and evolutionary feature integration for predicting virulence factors and antibiotic resistance genes."
+ },
+ "doi:10.1186/s13321-026-01262-x": {
+  "date": "2026-07-20",
+  "pdf": false,
+  "title": "Enhancing virtual screening of cystathionine β-synthase inhibitors: benchmarking target-specific machine-learning scoring functions against state-of-the-art AI docking and co-folding approaches."
+ },
+ "doi:10.1158/0008-5472.can-25-3699": {
+  "date": "2026-07-20",
+  "pdf": false,
+  "title": "CellFuse Enables Multimodal Integration of Single-Cell and Spatial Proteomics Data for Systems-Level Analysis in Cancer."
+ },
+ "doi:10.1186/s13007-026-01575-w": {
+  "date": "2026-07-20",
+  "pdf": false,
+  "title": "BeanGPT: a domain-specific retrieval-augmented generation system for Phaseolus vulgaris research."
+ },
+ "doi:10.1016/j.jmb.2026.169944": {
+  "date": "2026-07-20",
+  "pdf": false,
+  "title": "The Half-Life of a Mark: Dwell Time and the Missing Time Axis of the Epitranscriptome."
  }
 }
