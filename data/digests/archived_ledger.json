@@ -358,5 +358,45 @@
   "date": "2026-07-20",
   "pdf": false,
   "title": "The Half-Life of a Mark: Dwell Time and the Missing Time Axis of the Epitranscriptome."
+ },
+ "doi:10.64898/2026.07.17.739277": {
+  "date": "2026-07-21",
+  "pdf": false,
+  "title": "Direct detection of alternative DNA conformations with long-read sequencing and machine learning approaches"
+ },
+ "doi:10.1128/msphere.00328-26": {
+  "date": "2026-07-21",
+  "pdf": false,
+  "title": "mSphere of Influence: Mapping tRNA epitranscriptome by sequencing."
+ },
+ "doi:10.64898/2026.07.13.738265": {
+  "date": "2026-07-21",
+  "pdf": false,
+  "title": "scWeave: A deep learning model that bidirectionally translates between gene expression and chromatin structure at single cell resolution"
+ },
+ "doi:10.64898/2026.06.28.735106": {
+  "date": "2026-07-21",
+  "pdf": false,
+  "title": "Tabular Foundation Models Are Competitive Cellular Perturbation Predictors Across Biological Scales"
+ },
+ "doi:10.1101/2024.10.24.619766": {
+  "date": "2026-07-21",
+  "pdf": false,
+  "title": "CpGPT: a Foundation Model for DNA Methylation"
+ },
+ "doi:10.64898/2026.03.19.712954": {
+  "date": "2026-07-21",
+  "pdf": false,
+  "title": "BioReason-Pro: Advancing Protein Function Prediction with Multimodal Biological Reasoning"
+ },
+ "doi:10.1021/acs.est.6c05482": {
+  "date": "2026-07-21",
+  "pdf": false,
+  "title": "Attribution of PM(2.5)-Induced Transcriptomic Perturbation to Toxic Components."
+ },
+ "doi:10.1371/journal.ppat.1014455": {
+  "date": "2026-07-21",
+  "pdf": false,
+  "title": "Fibrillarin-mediated 2'-O-methylation serves as a translation brake on uncapped enterovirus RNA."
  }
 }

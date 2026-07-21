@@ -1,0 +1,101 @@
+{
+ "date": "2026-07-21",
+ "papers": [
+  {
+   "title": "Direct detection of alternative DNA conformations with long-read sequencing and machine learning approaches",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.07.17.739277",
+   "doi": "10.64898/2026.07.17.739277",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-07-18",
+   "_bucket": "core",
+   "priority": "🥇",
+   "summary_cn": "用ONT长读长结合机器学习直接识别G4等非B型DNA构象。",
+   "relevance_cn": "提供纳米孔信号层面结构检测思路，可迁移到DRS修饰检测。"
+  },
+  {
+   "title": "mSphere of Influence: Mapping tRNA epitranscriptome by sequencing.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42474188/",
+   "doi": "10.1128/msphere.00328-26",
+   "journal": "mSphere",
+   "date": "2026 Jul 20",
+   "_bucket": "rna_mod",
+   "priority": "🥇",
+   "summary_cn": "聚焦用测序技术绘制tRNA表观转录组及修饰位点图谱。",
+   "relevance_cn": "紧贴tRNA修饰检测与测序策略，值得跟进方法进展。"
+  },
+  {
+   "title": "scWeave: A deep learning model that bidirectionally translates between gene expression and chromatin structure at single cell resolution",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.07.13.738265",
+   "doi": "10.64898/2026.07.13.738265",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-07-18",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "提出深度模型在单细胞层面双向翻译基因表达与3D染色质结构。",
+   "relevance_cn": "跨模态单细胞建模范例，可借鉴到多组学整合。"
+  },
+  {
+   "title": "Tabular Foundation Models Are Competitive Cellular Perturbation Predictors Across Biological Scales",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.06.28.735106",
+   "doi": "10.64898/2026.06.28.735106",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-07-19",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "系统评估通用表格基础模型预测遗传和药物扰动响应的能力。",
+   "relevance_cn": "为扰动组学预测提供强基线，利于评估生信专用FM价值。"
+  },
+  {
+   "title": "CpGPT: a Foundation Model for DNA Methylation",
+   "link": "https://www.biorxiv.org/content/10.1101/2024.10.24.619766",
+   "doi": "10.1101/2024.10.24.619766",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-07-20",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "构建面向全基因组DNA甲基化模式表征和表型预测的Transformer模型。",
+   "relevance_cn": "表观组基础模型思路可启发RNA修饰大模型设计。"
+  },
+  {
+   "title": "BioReason-Pro: Advancing Protein Function Prediction with Multimodal Biological Reasoning",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.03.19.712954",
+   "doi": "10.64898/2026.03.19.712954",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-07-19",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "提出融合序列、结构、结构域和互作信息的蛋白功能推理LLM。",
+   "relevance_cn": "展示多模态生物推理框架，对生物AI工具开发有参考价值。"
+  },
+  {
+   "title": "Attribution of PM(2.5)-Induced Transcriptomic Perturbation to Toxic Components.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42474058/",
+   "doi": "10.1021/acs.est.6c05482",
+   "journal": "Environmental science & technology",
+   "date": "2026 Jul 20",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "用转录组扰动归因解析PM2.5不同有毒组分的分子效应。",
+   "relevance_cn": "是AI/统计归因用于组学机制解析的落地案例。"
+  },
+  {
+   "title": "Fibrillarin-mediated 2'-O-methylation serves as a translation brake on uncapped enterovirus RNA.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42475391/",
+   "doi": "10.1371/journal.ppat.1014455",
+   "journal": "PLoS pathogens",
+   "date": "2026 Jul 20",
+   "_bucket": "rna_mod",
+   "priority": "🥉",
+   "summary_cn": "发现Fibrillarin介导2'-O-甲基化可抑制无帽肠病毒RNA翻译。",
+   "relevance_cn": "拓展病毒RNA修饰功能机制，对修饰功能研究有启发。"
+  }
+ ],
+ "no_core": false,
+ "summary_zh": "今日核心方法以纳米孔长读长信号检测和tRNA修饰测序为主，AI侧集中在基础模型、多模态推理与组学归因应用。",
+ "_meta": {
+  "model": "gpt-5.5",
+  "base_url": "https://api.tfclab-logan.xyz/v1",
+  "candidates_in": 77,
+  "papers_out": 8
+ }
+}
