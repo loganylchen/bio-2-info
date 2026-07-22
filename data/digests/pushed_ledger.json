@@ -520,5 +520,53 @@
   "title": "Fibrillarin-mediated 2'-O-methylation serves as a translation brake on uncapped enterovirus RNA.",
   "doi": "10.1371/journal.ppat.1014455",
   "link": "https://pubmed.ncbi.nlm.nih.gov/42475391/"
+ },
+ "doi:10.64898/2026.07.15.738623": {
+  "date": "2026-07-22",
+  "title": "High-resolution single-molecule replication profiling of the human genome",
+  "doi": "10.64898/2026.07.15.738623",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.07.15.738623"
+ },
+ "doi:10.64898/2026.07.13.738322": {
+  "date": "2026-07-22",
+  "title": "Triplex DNA and inverted repeats cause long-read sequencing bias against simple satellite DNA",
+  "doi": "10.64898/2026.07.13.738322",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.07.13.738322"
+ },
+ "doi:10.64898/2026.07.15.738809": {
+  "date": "2026-07-22",
+  "title": "Scalable single-cell isoform profiling with sequencing-by-expansion",
+  "doi": "10.64898/2026.07.15.738809",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.07.15.738809"
+ },
+ "doi:10.64898/2026.07.18.739331": {
+  "date": "2026-07-22",
+  "title": "ProtSyntax: a protein large language model for decoding post-translational modification syntax and function",
+  "doi": "10.64898/2026.07.18.739331",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.07.18.739331"
+ },
+ "doi:10.64898/2026.06.19.733389": {
+  "date": "2026-07-22",
+  "title": "RNAStabFormer: Region-Aware Multi-Task Hybrid Learning for RNA Stability Prediction from Pulse-Chase Transcriptomics",
+  "doi": "10.64898/2026.06.19.733389",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.06.19.733389"
+ },
+ "doi:10.64898/2026.07.20.739453": {
+  "date": "2026-07-22",
+  "title": "NUMonomer enables accurate and scalable nucleic acid structure prediction from primary sequence alone",
+  "doi": "10.64898/2026.07.20.739453",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.07.20.739453"
+ },
+ "doi:10.1093/gigascience/giag081": {
+  "date": "2026-07-22",
+  "title": "Extending Protein Language Models to a Viral Genomic Scale Using Biologically Induced Sparse Attention.",
+  "doi": "10.1093/gigascience/giag081",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42480065/"
+ },
+ "doi:10.1073/pnas.2537217123": {
+  "date": "2026-07-22",
+  "title": "Classification models for KCNQ1 variants distinguish functional and trafficking effects to enhance pathogenicity interpretation.",
+  "doi": "10.1073/pnas.2537217123",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42479828/"
  }
 }
