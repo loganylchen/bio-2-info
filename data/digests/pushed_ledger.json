@@ -568,5 +568,47 @@
   "title": "Classification models for KCNQ1 variants distinguish functional and trafficking effects to enhance pathogenicity interpretation.",
   "doi": "10.1073/pnas.2537217123",
   "link": "https://pubmed.ncbi.nlm.nih.gov/42479828/"
+ },
+ "doi:10.1007/s44307-026-00123-w": {
+  "date": "2026-07-23",
+  "title": "Short-read RNA-seq yields lower estimates of A-to-I RNA editing levels than long-read cDNA sequencing.",
+  "doi": "10.1007/s44307-026-00123-w",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42484979/"
+ },
+ "doi:10.64898/2026.07.20.739707": {
+  "date": "2026-07-23",
+  "title": "Single-molecule nanopore-tweezers analysis of transcription elongation by intact and \"stalk-less\" yeast RNA polymerase II",
+  "doi": "10.64898/2026.07.20.739707",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.07.20.739707"
+ },
+ "doi:10.1093/molbev/msag173": {
+  "date": "2026-07-23",
+  "title": "A deep-learning-based score to evaluate multiple sequence alignments.",
+  "doi": "10.1093/molbev/msag173",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42481161/"
+ },
+ "doi:10.1016/j.cell.2026.06.029": {
+  "date": "2026-07-23",
+  "title": "Expanding the scope of protein language modeling to protein-protein interactions with MSA Pairformer.",
+  "doi": "10.1016/j.cell.2026.06.029",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42480528/"
+ },
+ "doi:10.1093/bioinformatics/btag545": {
+  "date": "2026-07-23",
+  "title": "ALPAR: Automated Learning Pipeline for Antimicrobial Resistance.",
+  "doi": "10.1093/bioinformatics/btag545",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42485224/"
+ },
+ "doi:10.1016/j.crmeth.2026.101465": {
+  "date": "2026-07-23",
+  "title": "Toward simultaneous pseudo-space reconstruction and cell-type deconvolution of single-cell spatial transcriptome using SpaDicer.",
+  "doi": "10.1016/j.crmeth.2026.101465",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42184831/"
+ },
+ "doi:10.1016/j.crmeth.2026.101460": {
+  "date": "2026-07-23",
+  "title": "ATACompass enables cross-species cell identity mapping for scATAC-seq without gene annotations.",
+  "doi": "10.1016/j.crmeth.2026.101460",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42167226/"
  }
 }

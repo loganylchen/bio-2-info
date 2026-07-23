@@ -1,0 +1,90 @@
+{
+ "date": "2026-07-23",
+ "papers": [
+  {
+   "title": "Short-read RNA-seq yields lower estimates of A-to-I RNA editing levels than long-read cDNA sequencing.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42484979/",
+   "doi": "10.1007/s44307-026-00123-w",
+   "journal": "Advanced biotechnology",
+   "date": "2026 Jul 22",
+   "_bucket": "rna_mod",
+   "priority": "🥇",
+   "summary_cn": "比较短读长RNA-seq与长读长cDNA测序，发现前者低估A-to-I编辑水平。",
+   "relevance_cn": "提示RNA编辑定量存在平台偏差，利于设计修饰检测benchmark。"
+  },
+  {
+   "title": "Single-molecule nanopore-tweezers analysis of transcription elongation by intact and \"stalk-less\" yeast RNA polymerase II",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.07.20.739707",
+   "doi": "10.64898/2026.07.20.739707",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-07-22",
+   "_bucket": "core",
+   "priority": "🥇",
+   "summary_cn": "用SPRNT纳米孔镊子高时空分辨率解析酵母RNA Pol II转录延伸动力学。",
+   "relevance_cn": "提供纳米孔单分子信号解析范例，可借鉴于DRS信号建模。"
+  },
+  {
+   "title": "A deep-learning-based score to evaluate multiple sequence alignments.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42481161/",
+   "doi": "10.1093/molbev/msag173",
+   "journal": "Molecular biology and evolution",
+   "date": "2026 Jul 22",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "提出深度学习评分指标，用于评估多序列比对质量并辅助下游进化分析。",
+   "relevance_cn": "是序列AI质量评估工具，对比对与模型输入质控有参考价值。"
+  },
+  {
+   "title": "Expanding the scope of protein language modeling to protein-protein interactions with MSA Pairformer.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42480528/",
+   "doi": "10.1016/j.cell.2026.06.029",
+   "journal": "Cell",
+   "date": "2026 Jul 21",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "提出MSA Pairformer，将蛋白语言模型扩展到蛋白互作建模与预测。",
+   "relevance_cn": "顶刊AI落地案例，展示序列模型处理分子互作的新范式。"
+  },
+  {
+   "title": "ALPAR: Automated Learning Pipeline for Antimicrobial Resistance.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42485224/",
+   "doi": "10.1093/bioinformatics/btag545",
+   "journal": "Bioinformatics (Oxford, England)",
+   "date": "2026 Jul 22",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "发布自动化机器学习流程ALPAR，用于抗菌耐药性预测与模型构建。",
+   "relevance_cn": "Bioinformatics工具论文，适合借鉴自动化组学预测pipeline设计。"
+  },
+  {
+   "title": "Toward simultaneous pseudo-space reconstruction and cell-type deconvolution of single-cell spatial transcriptome using SpaDicer.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42184831/",
+   "doi": "10.1016/j.crmeth.2026.101465",
+   "journal": "Cell reports methods",
+   "date": "2026 Jul 20",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "SpaDicer同时重建单细胞空间伪坐标并进行细胞类型解卷积。",
+   "relevance_cn": "空间转录组AI方法，可借鉴多任务建模和表示学习框架。"
+  },
+  {
+   "title": "ATACompass enables cross-species cell identity mapping for scATAC-seq without gene annotations.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42167226/",
+   "doi": "10.1016/j.crmeth.2026.101460",
+   "journal": "Cell reports methods",
+   "date": "2026 Jul 20",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "ATACompass无需基因注释实现跨物种scATAC-seq细胞身份映射。",
+   "relevance_cn": "跨物种表观组表示学习工具，对注释迁移问题有启发。"
+  }
+ ],
+ "no_core": false,
+ "summary_zh": "今日核心方向有RNA编辑测序平台偏差与纳米孔单分子信号方法，AI侧以序列/单细胞方法和分子应用为主。",
+ "_meta": {
+  "model": "gpt-5.5",
+  "base_url": "https://api.tfclab-logan.xyz/v1",
+  "candidates_in": 93,
+  "papers_out": 7
+ }
+}
