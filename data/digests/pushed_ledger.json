@@ -610,5 +610,47 @@
   "title": "ATACompass enables cross-species cell identity mapping for scATAC-seq without gene annotations.",
   "doi": "10.1016/j.crmeth.2026.101460",
   "link": "https://pubmed.ncbi.nlm.nih.gov/42167226/"
+ },
+ "doi:10.64898/2026.07.17.739095": {
+  "date": "2026-07-24",
+  "title": "Harmonized nucleoside mass spectrometry enables reproducible cross-platform RNA modification quantification",
+  "doi": "10.64898/2026.07.17.739095",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.07.17.739095"
+ },
+ "doi:10.1101/2025.07.17.665350": {
+  "date": "2026-07-24",
+  "title": "The Polycistronic Transcription Landscape of the Populus Nuclear Genome",
+  "doi": "10.1101/2025.07.17.665350",
+  "link": "https://www.biorxiv.org/content/10.1101/2025.07.17.665350"
+ },
+ "doi:10.64898/2026.07.20.739564": {
+  "date": "2026-07-24",
+  "title": "Nanopore Electrometry Resolves Peptide Charge Patterns beyond Ionic-Current Blockade",
+  "doi": "10.64898/2026.07.20.739564",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.07.20.739564"
+ },
+ "doi:10.1101/gr.281629.125": {
+  "date": "2026-07-24",
+  "title": "Multisource omic alignment and biological feature discovery with Performer encoder and triplet networks.",
+  "doi": "10.1101/gr.281629.125",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42486650/"
+ },
+ "doi:10.1093/bioinformatics/btag515": {
+  "date": "2026-07-24",
+  "title": "PRISM: Prior-enhanced Inference for Spatial Transcriptomic Cell Type Mapping.",
+  "doi": "10.1093/bioinformatics/btag515",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42490201/"
+ },
+ "doi:10.64898/2026.07.20.739063": {
+  "date": "2026-07-24",
+  "title": "MGM2 as a Unified Foundation Model for Microbiome World Exploration",
+  "doi": "10.64898/2026.07.20.739063",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.07.20.739063"
+ },
+ "doi:10.1021/acs.jcim.6c01435": {
+  "date": "2026-07-24",
+  "title": "TextDTI: A Multimodal Context Representation Learning Framework for Drug-Target Interaction Prediction.",
+  "doi": "10.1021/acs.jcim.6c01435",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42489038/"
  }
 }

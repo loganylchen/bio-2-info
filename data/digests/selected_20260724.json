@@ -1,0 +1,90 @@
+{
+ "date": "2026-07-24",
+ "papers": [
+  {
+   "title": "Harmonized nucleoside mass spectrometry enables reproducible cross-platform RNA modification quantification",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.07.17.739095",
+   "doi": "10.64898/2026.07.17.739095",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-07-23",
+   "_bucket": "core",
+   "priority": "🥇",
+   "summary_cn": "社区基准化LC-MS/MS流程，评估跨平台RNA修饰核苷定量可重复性。",
+   "relevance_cn": "直接服务表观转录组定量标准化与benchmark。"
+  },
+  {
+   "title": "The Polycistronic Transcription Landscape of the Populus Nuclear Genome",
+   "link": "https://www.biorxiv.org/content/10.1101/2025.07.17.665350",
+   "doi": "10.1101/2025.07.17.665350",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-07-22",
+   "_bucket": "core",
+   "priority": "🥇",
+   "summary_cn": "利用Nanopore DRS解析杨树核基因组广泛多顺反子样转录本。",
+   "relevance_cn": "展示DRS在全长RNA结构与转录复杂性解析中的价值。"
+  },
+  {
+   "title": "Nanopore Electrometry Resolves Peptide Charge Patterns beyond Ionic-Current Blockade",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.07.20.739564",
+   "doi": "10.64898/2026.07.20.739564",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-07-23",
+   "_bucket": "core",
+   "priority": "🥇",
+   "summary_cn": "用分子动力学模拟电场探针，提升纳米孔肽段电荷模式分辨率。",
+   "relevance_cn": "对纳米孔信号特征扩展和单分子识别有启发。"
+  },
+  {
+   "title": "Multisource omic alignment and biological feature discovery with Performer encoder and triplet networks.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42486650/",
+   "doi": "10.1101/gr.281629.125",
+   "journal": "Genome research",
+   "date": "2026 Jul 22",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "提出Performer编码器与三元组网络，实现多源组学对齐和特征发现。",
+   "relevance_cn": "可借鉴于多组学表观转录组整合建模。"
+  },
+  {
+   "title": "PRISM: Prior-enhanced Inference for Spatial Transcriptomic Cell Type Mapping.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42490201/",
+   "doi": "10.1093/bioinformatics/btag515",
+   "journal": "Bioinformatics (Oxford, England)",
+   "date": "2026 Jul 23",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "开发PRISM，利用先验增强空间转录组细胞类型映射推断。",
+   "relevance_cn": "对空间组学去卷积与可解释pipeline有参考价值。"
+  },
+  {
+   "title": "MGM2 as a Unified Foundation Model for Microbiome World Exploration",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.07.20.739063",
+   "doi": "10.64898/2026.07.20.739063",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-07-22",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "构建微生物组多模态基础模型MGM2，学习样本与OTU通用表示。",
+   "relevance_cn": "代表组学foundation model在复杂生态数据中的应用。"
+  },
+  {
+   "title": "TextDTI: A Multimodal Context Representation Learning Framework for Drug-Target Interaction Prediction.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42489038/",
+   "doi": "10.1021/acs.jcim.6c01435",
+   "journal": "Journal of chemical information and modeling",
+   "date": "2026 Jul 23",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "提出TextDTI，用多模态上下文表示学习预测药物-靶标相互作用。",
+   "relevance_cn": "是分子层面AI落地应用，适合借鉴建模范式。"
+  }
+ ],
+ "no_core": false,
+ "summary_zh": "今日核心集中在RNA修饰定量标准化与Nanopore DRS应用，AI侧以多组学表示学习、空间转录组和分子互作为主。",
+ "_meta": {
+  "model": "gpt-5.5",
+  "base_url": "https://api.tfclab-logan.xyz/v1",
+  "candidates_in": 90,
+  "papers_out": 7
+ }
+}
