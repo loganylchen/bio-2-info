@@ -1,0 +1,101 @@
+{
+ "date": "2026-07-25",
+ "papers": [
+  {
+   "title": "Multi-omic dissection of RNA control reveals convergent cis-regulatory programs during glucose starvation in yeast",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.07.20.739609",
+   "doi": "10.64898/2026.07.20.739609",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-07-23",
+   "_bucket": "core",
+   "priority": "🥇",
+   "summary_cn": "用多糖体分级DRS同时量化丰度、降解、poly(A)尾和三类RNA修饰。",
+   "relevance_cn": "直接对DRS多模态RNA修饰检测和整合建模有参考价值。"
+  },
+  {
+   "title": "PathMED: An R toolkit for single-sample molecular scoring and machine learning with omics data.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42496598/",
+   "doi": "10.1093/bioinformatics/btag519",
+   "journal": "Bioinformatics (Oxford, England)",
+   "date": "2026 Jul 24",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "发布R工具包PathMED，支持单样本分子打分与组学机器学习流程。",
+   "relevance_cn": "可借鉴其组学特征评分与ML pipeline封装方式。"
+  },
+  {
+   "title": "Human whole-epigenome modelling for clinical applications with Pleiades",
+   "link": "https://www.biorxiv.org/content/10.1101/2025.07.16.665231",
+   "doi": "10.1101/2025.07.16.665231",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-07-23",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "提出Pleiades全基因组表观遗传基础模型，覆盖90M至7B参数规模。",
+   "relevance_cn": "为甲基化/表观组foundation model设计提供范式。"
+  },
+  {
+   "title": "Fast and accurate taxonomic domain assignment of short metagenomic reads using BBERT",
+   "link": "https://www.biorxiv.org/content/10.1101/2025.09.07.674730",
+   "doi": "10.1101/2025.09.07.674730",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-07-23",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "BBERT用核酸语言模型为短宏基因组reads做快速域分类和功能提示。",
+   "relevance_cn": "展示序列LLM在无参考短reads解析中的应用。"
+  },
+  {
+   "title": "X-PAIR: an ultrafast multitask framework for proteome-scale reconstruction of PPI networks and partner-specific interfaces from sequence",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.07.20.739596",
+   "doi": "10.64898/2026.07.20.739596",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-07-23",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "X-PAIR结合蛋白语言模型和交叉注意力，同时预测PPI与伴侣特异界面。",
+   "relevance_cn": "可借鉴多任务序列模型做分子互作与位点级预测。"
+  },
+  {
+   "title": "Quantum convolutional HLA immunogenic peptide prediction (Q-CHIPP): Next-generation neoantigen prediction with quantum neural network.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42497272/",
+   "doi": "10.1126/sciadv.aec3824",
+   "journal": "Science advances",
+   "date": "2026 Jul 24",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "Q-CHIPP用量子卷积神经网络预测HLA免疫原性肽和新抗原。",
+   "relevance_cn": "属序列层面AI落地应用，可启发免疫组学建模。"
+  },
+  {
+   "title": "Single-cell foundation models predict durable CAR T response despite imperfect cell annotation",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.07.22.740224",
+   "doi": "10.64898/2026.07.22.740224",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-07-23",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "评估单细胞基础模型从CAR-T产品scRNA-seq预测长期治疗响应。",
+   "relevance_cn": "体现scFM在弱注释单细胞转化任务中的价值。"
+  },
+  {
+   "title": "Dissecting wheat epitranscriptome and proteome under salt stress characterizes an m6A reader gene vital for salinity adaptation.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42496157/",
+   "doi": "10.1093/plphys/kiag540",
+   "journal": "Plant physiology",
+   "date": "2026 Jul 24",
+   "_bucket": "nanopore_drs",
+   "priority": "🥉",
+   "summary_cn": "联合小麦表观转录组和蛋白组解析盐胁迫，定位关键m6A reader基因。",
+   "relevance_cn": "提供植物m6A应激调控案例，可作机制背景参考。"
+  }
+ ],
+ "no_core": false,
+ "summary_zh": "今日核心亮点是DRS多模态量化RNA调控预印本，AI部分覆盖组学ML工具、表观组/序列基础模型及免疫组学应用。",
+ "_meta": {
+  "model": "gpt-5.5",
+  "base_url": "https://api.tfclab-logan.xyz/v1",
+  "candidates_in": 85,
+  "papers_out": 8
+ }
+}
