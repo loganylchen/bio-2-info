@@ -1,0 +1,90 @@
+{
+ "date": "2026-07-26",
+ "papers": [
+  {
+   "title": "Toward a comprehensive modification landscape of yeast mitochondrial tRNAs using Nanopore direct RNA sequencing and dihydrouridine sequencing.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42500817/",
+   "doi": "10.1093/nar/gkag736",
+   "journal": "Nucleic acids research",
+   "date": "2026 Jul 17",
+   "_bucket": "rna_mod",
+   "priority": "🥇",
+   "summary_cn": "结合Nanopore DRS与D-seq绘制酵母线粒体tRNA修饰图谱。",
+   "relevance_cn": "直接契合DRS检测RNA修饰与tRNA表观转录组研究。"
+  },
+  {
+   "title": "An efficient C-to-U RNA recorder as a tool for profiling targets of RNA-binding proteins.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/41839235/",
+   "doi": "10.1016/j.nbt.2026.03.004",
+   "journal": "New biotechnology",
+   "date": "2026 Jul 25",
+   "_bucket": "rna_mod",
+   "priority": "🥇",
+   "summary_cn": "开发高效C-to-U RNA记录器，用于体内标记并解析RBP靶标。",
+   "relevance_cn": "提供RNA层面记录与RBP靶标识别的新工具思路。"
+  },
+  {
+   "title": "Toward generalizable prediction of cancer signal using a cell-free DNA language model.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42285091/",
+   "doi": "10.1016/j.xcrm.2026.102866",
+   "journal": "Cell reports. Medicine",
+   "date": "2026 Jul 21",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "构建cfDNA语言模型，实现更具泛化性的癌症信号预测。",
+   "relevance_cn": "展示序列语言模型在液体活检组学信号建模中的应用。"
+  },
+  {
+   "title": "clinTALL: machine learning-driven multimodal subtype classification and treatment outcome prediction in pediatric T-ALL.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42487139/",
+   "doi": "10.1186/s13073-026-01733-8",
+   "journal": "Genome medicine",
+   "date": "2026 Jul 22",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "用机器学习整合多模态数据，分类儿童T-ALL亚型并预测疗效。",
+   "relevance_cn": "是AI整合组学用于分型与预后预测的高质量案例。"
+  },
+  {
+   "title": "Cross-species integration of single-cell data reveals conserved pathology-associated cell populations across animal models and human samples.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42235513/",
+   "doi": "10.1016/j.crmeth.2026.101469",
+   "journal": "Cell reports methods",
+   "date": "2026 Jul 20",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "提出跨物种单细胞数据整合框架，识别保守病理相关细胞群。",
+   "relevance_cn": "对单细胞组学整合、迁移学习和模型外推有借鉴价值。"
+  },
+  {
+   "title": "An openly licensed benchmark and per-gene calibration map for missense pathogenicity predictors on activating cancer drivers",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.07.16.739080",
+   "doi": "10.64898/2026.07.16.739080",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-07-23",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "建立开放benchmark，系统评估49种错义致病性预测器在癌驱动突变上的偏差。",
+   "relevance_cn": "有助于校准AlphaMissense等AI变异效应预测工具。"
+  },
+  {
+   "title": "Integrated Genome-Wide Association Study and Machine Learning Approach for Characterizing the Determinants of Biofilm Formation in Staphylococcus aureus.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42498890/",
+   "doi": "10.1007/s12539-026-00855-2",
+   "journal": "Interdisciplinary sciences, computational life sciences",
+   "date": "2026 Jul 24",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "整合GWAS与机器学习解析金黄色葡萄球菌生物膜形成的遗传决定因素。",
+   "relevance_cn": "是AI结合微生物群体基因组学挖掘表型机制的应用范例。"
+  }
+ ],
+ "no_core": false,
+ "summary_zh": "今日核心方向有DRS绘制tRNA修饰图谱与RNA记录器工具，AI部分以组学语言模型、单细胞整合和变异预测benchmark为主。",
+ "_meta": {
+  "model": "gpt-5.5",
+  "base_url": "https://api.tfclab-logan.xyz/v1",
+  "candidates_in": 67,
+  "papers_out": 7
+ }
+}

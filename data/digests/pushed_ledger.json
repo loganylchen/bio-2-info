@@ -700,5 +700,47 @@
   "title": "Dissecting wheat epitranscriptome and proteome under salt stress characterizes an m6A reader gene vital for salinity adaptation.",
   "doi": "10.1093/plphys/kiag540",
   "link": "https://pubmed.ncbi.nlm.nih.gov/42496157/"
+ },
+ "doi:10.1093/nar/gkag736": {
+  "date": "2026-07-26",
+  "title": "Toward a comprehensive modification landscape of yeast mitochondrial tRNAs using Nanopore direct RNA sequencing and dihydrouridine sequencing.",
+  "doi": "10.1093/nar/gkag736",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42500817/"
+ },
+ "doi:10.1016/j.nbt.2026.03.004": {
+  "date": "2026-07-26",
+  "title": "An efficient C-to-U RNA recorder as a tool for profiling targets of RNA-binding proteins.",
+  "doi": "10.1016/j.nbt.2026.03.004",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/41839235/"
+ },
+ "doi:10.1016/j.xcrm.2026.102866": {
+  "date": "2026-07-26",
+  "title": "Toward generalizable prediction of cancer signal using a cell-free DNA language model.",
+  "doi": "10.1016/j.xcrm.2026.102866",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42285091/"
+ },
+ "doi:10.1186/s13073-026-01733-8": {
+  "date": "2026-07-26",
+  "title": "clinTALL: machine learning-driven multimodal subtype classification and treatment outcome prediction in pediatric T-ALL.",
+  "doi": "10.1186/s13073-026-01733-8",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42487139/"
+ },
+ "doi:10.1016/j.crmeth.2026.101469": {
+  "date": "2026-07-26",
+  "title": "Cross-species integration of single-cell data reveals conserved pathology-associated cell populations across animal models and human samples.",
+  "doi": "10.1016/j.crmeth.2026.101469",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42235513/"
+ },
+ "doi:10.64898/2026.07.16.739080": {
+  "date": "2026-07-26",
+  "title": "An openly licensed benchmark and per-gene calibration map for missense pathogenicity predictors on activating cancer drivers",
+  "doi": "10.64898/2026.07.16.739080",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.07.16.739080"
+ },
+ "doi:10.1007/s12539-026-00855-2": {
+  "date": "2026-07-26",
+  "title": "Integrated Genome-Wide Association Study and Machine Learning Approach for Characterizing the Determinants of Biofilm Formation in Staphylococcus aureus.",
+  "doi": "10.1007/s12539-026-00855-2",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42498890/"
  }
 }
