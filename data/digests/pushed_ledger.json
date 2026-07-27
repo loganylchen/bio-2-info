@@ -742,5 +742,47 @@
   "title": "Integrated Genome-Wide Association Study and Machine Learning Approach for Characterizing the Determinants of Biofilm Formation in Staphylococcus aureus.",
   "doi": "10.1007/s12539-026-00855-2",
   "link": "https://pubmed.ncbi.nlm.nih.gov/42498890/"
+ },
+ "doi:10.64898/2026.02.18.706689": {
+  "date": "2026-07-27",
+  "title": "A sequence-encoded promoter proximal super pause stabilizes an offline RNA polymerase II state",
+  "doi": "10.64898/2026.02.18.706689",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.02.18.706689"
+ },
+ "doi:10.64898/2026.07.20.739620": {
+  "date": "2026-07-27",
+  "title": "Beyond Expression Prediction: Benchmarking Differential Expression Classification in Single-Cell Perturbation Models",
+  "doi": "10.64898/2026.07.20.739620",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.07.20.739620"
+ },
+ "doi:10.64898/2026.07.21.739865": {
+  "date": "2026-07-27",
+  "title": "GatorPrism: Prototype-Conditioned Routing across Coalition Graph Experts for Spatial Multi-Omics Integration",
+  "doi": "10.64898/2026.07.21.739865",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.07.21.739865"
+ },
+ "doi:10.64898/2026.07.21.739256": {
+  "date": "2026-07-27",
+  "title": "AINN-Express: A Leakage-Aware, Sequence-Only Predictor of VHH Antibody Expression Built on the AINN-P1 Protein Foundation Model",
+  "doi": "10.64898/2026.07.21.739256",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.07.21.739256"
+ },
+ "doi:10.64898/2026.04.03.715851": {
+  "date": "2026-07-27",
+  "title": "Leveraging Uncertainty Estimates for Drug Response Prediction in Cancer Cell Lines",
+  "doi": "10.64898/2026.04.03.715851",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.04.03.715851"
+ },
+ "doi:10.1038/s41698-026-01601-z": {
+  "date": "2026-07-27",
+  "title": "Prediction of single cell expression from low-plex immunofluorescence images for guiding precision oncology.",
+  "doi": "10.1038/s41698-026-01601-z",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42502133/"
+ },
+ "doi:10.34133/csbj.0114": {
+  "date": "2026-07-27",
+  "title": "Classifying Diabetic and Healthy β-Cells in Type 2 Diabetes Using Machine Learning on Single-Cell RNA Sequencing Data.",
+  "doi": "10.34133/csbj.0114",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42500329/"
  }
 }
