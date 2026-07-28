@@ -784,5 +784,53 @@
   "title": "Classifying Diabetic and Healthy β-Cells in Type 2 Diabetes Using Machine Learning on Single-Cell RNA Sequencing Data.",
   "doi": "10.34133/csbj.0114",
   "link": "https://pubmed.ncbi.nlm.nih.gov/42500329/"
+ },
+ "doi:10.1186/s13059-026-04188-7": {
+  "date": "2026-07-28",
+  "title": "IDEAL-Age: an interpretable deep learning framework for single-cell resolution profiling of immunological aging.",
+  "doi": "10.1186/s13059-026-04188-7",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42503507/"
+ },
+ "doi:10.64898/2026.07.23.740264": {
+  "date": "2026-07-28",
+  "title": "Spatium: A Protein Language Foundation Model for Spatial Proteomics",
+  "doi": "10.64898/2026.07.23.740264",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.07.23.740264"
+ },
+ "doi:10.64898/2026.07.24.740459": {
+  "date": "2026-07-28",
+  "title": "Perturbation response decomposition enables biologically aligned generalization to unseen perturbations and cellular contexts",
+  "doi": "10.64898/2026.07.24.740459",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.07.24.740459"
+ },
+ "doi:10.64898/2026.07.21.739871": {
+  "date": "2026-07-28",
+  "title": "A Reproducible MFASS Benchmark of Splice-Disruption Predictors Reveals a Shared Exon-Interior Blind Spot",
+  "doi": "10.64898/2026.07.21.739871",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.07.21.739871"
+ },
+ "doi:10.64898/2026.07.23.739686": {
+  "date": "2026-07-28",
+  "title": "Spaceland: Histology-Guided Reconstruction of High-Resolution Whole-Organ 3D Molecular Atlases from Sparse Spatial Transcriptomics",
+  "doi": "10.64898/2026.07.23.739686",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.07.23.739686"
+ },
+ "doi:10.1073/pnas.2607571123": {
+  "date": "2026-07-28",
+  "title": "Discovery of a phenazine-thiol conjugase from sparse data using genome-informed machine learning.",
+  "doi": "10.1073/pnas.2607571123",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42507936/"
+ },
+ "doi:10.1177/10430342261466407": {
+  "date": "2026-07-28",
+  "title": "Systematic Benchmarking of CRISPR-Cas9 Off-Target Prediction Tools Reveals Limitations and Implications for Preclinical Assessment.",
+  "doi": "10.1177/10430342261466407",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42503868/"
+ },
+ "doi:10.1111/pbi.70730": {
+  "date": "2026-07-28",
+  "title": "Haplotypes and Machine Learning Improve Genomic Prediction in Brassica napus.",
+  "doi": "10.1111/pbi.70730",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42503843/"
  }
 }

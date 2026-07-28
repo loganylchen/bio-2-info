@@ -1,0 +1,101 @@
+{
+ "date": "2026-07-28",
+ "papers": [
+  {
+   "title": "IDEAL-Age: an interpretable deep learning framework for single-cell resolution profiling of immunological aging.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42503507/",
+   "doi": "10.1186/s13059-026-04188-7",
+   "journal": "Genome biology",
+   "date": "2026 Jul 27",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "提出可解释深度学习框架，在单细胞尺度刻画免疫衰老状态与关键特征。",
+   "relevance_cn": "适合借鉴到单细胞表观转录组状态建模。"
+  },
+  {
+   "title": "Spatium: A Protein Language Foundation Model for Spatial Proteomics",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.07.23.740264",
+   "doi": "10.64898/2026.07.23.740264",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-07-26",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "构建空间蛋白组语言基础模型，学习受限蛋白面板下的稳定细胞表征。",
+   "relevance_cn": "对组学基础模型和空间多组学表征有参考价值。"
+  },
+  {
+   "title": "Perturbation response decomposition enables biologically aligned generalization to unseen perturbations and cellular contexts",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.07.24.740459",
+   "doi": "10.64898/2026.07.24.740459",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-07-27",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "将单细胞扰动响应分解为全局、扰动和上下文成分，提升未见扰动泛化。",
+   "relevance_cn": "有助于设计可泛化的转录组扰动预测模型。"
+  },
+  {
+   "title": "A Reproducible MFASS Benchmark of Splice-Disruption Predictors Reveals a Shared Exon-Interior Blind Spot",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.07.21.739871",
+   "doi": "10.64898/2026.07.21.739871",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-07-26",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "用MFASS实验数据系统评测剪接破坏预测器，揭示外显子内部盲区。",
+   "relevance_cn": "为序列模型和变异效应benchmark设计提供范例。"
+  },
+  {
+   "title": "Spaceland: Histology-Guided Reconstruction of High-Resolution Whole-Organ 3D Molecular Atlases from Sparse Spatial Transcriptomics",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.07.23.739686",
+   "doi": "10.64898/2026.07.23.739686",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-07-27",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "结合稀疏空间转录组与连续H&E切片，重建高分辨率全器官3D分子图谱。",
+   "relevance_cn": "对空间转录组补全和多模态建模有借鉴意义。"
+  },
+  {
+   "title": "Discovery of a phenazine-thiol conjugase from sparse data using genome-informed machine learning.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42507936/",
+   "doi": "10.1073/pnas.2607571123",
+   "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+   "date": "2026 Aug 4",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "用基因组信息增强机器学习，在稀疏数据下发现phenazine-thiol结合酶。",
+   "relevance_cn": "是AI驱动酶功能发现的落地应用案例。"
+  },
+  {
+   "title": "Systematic Benchmarking of CRISPR-Cas9 Off-Target Prediction Tools Reveals Limitations and Implications for Preclinical Assessment.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42503868/",
+   "doi": "10.1177/10430342261466407",
+   "journal": "Human gene therapy",
+   "date": "2026 Jul 26",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "系统评测CRISPR-Cas9脱靶预测工具，指出性能局限与临床前评估影响。",
+   "relevance_cn": "对基因组AI工具benchmark和误差分析有价值。"
+  },
+  {
+   "title": "Haplotypes and Machine Learning Improve Genomic Prediction in Brassica napus.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42503843/",
+   "doi": "10.1111/pbi.70730",
+   "journal": "Plant biotechnology journal",
+   "date": "2026 Jul 26",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "整合单倍型信息与机器学习，提高油菜复杂性状的基因组预测表现。",
+   "relevance_cn": "展示ML在基因组选择和农作物组学中的应用。"
+  }
+ ],
+ "no_core": true,
+ "summary_zh": "今日无核心新方法论文；精选以单细胞/空间组学AI方法和分子组学AI应用为主。",
+ "_meta": {
+  "model": "gpt-5.5",
+  "base_url": "https://api.tfclab-logan.xyz/v1",
+  "candidates_in": 74,
+  "papers_out": 8
+ }
+}
