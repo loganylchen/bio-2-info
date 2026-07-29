@@ -832,5 +832,47 @@
   "title": "Haplotypes and Machine Learning Improve Genomic Prediction in Brassica napus.",
   "doi": "10.1111/pbi.70730",
   "link": "https://pubmed.ncbi.nlm.nih.gov/42503843/"
+ },
+ "doi:10.1021/acs.analchem.6c02746": {
+  "date": "2026-07-29",
+  "title": "Light-Regulated Iontronic Sensing for Resolving the Charge-Steric Trade-Off in the Detection of Exosomal m5C-Modified miR-21.",
+  "doi": "10.1021/acs.analchem.6c02746",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42464915/"
+ },
+ "doi:10.64898/2026.07.27.740859": {
+  "date": "2026-07-29",
+  "title": "Chromatin state shapes site-specific A-to-I RNA editing",
+  "doi": "10.64898/2026.07.27.740859",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.07.27.740859"
+ },
+ "doi:10.1038/s41588-026-02670-3": {
+  "date": "2026-07-29",
+  "title": "Toward generalizable and interpretable AI in regulatory genomics.",
+  "doi": "10.1038/s41588-026-02670-3",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42509369/"
+ },
+ "doi:10.1093/gpbjnl/qzag072": {
+  "date": "2026-07-29",
+  "title": "scReGAT: Leveraging Knowledge of Regulatory Interactions to Predict Long-range Gene Regulation at Single-cell Resolution.",
+  "doi": "10.1093/gpbjnl/qzag072",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42517821/"
+ },
+ "doi:10.1016/j.crmeth.2026.101539": {
+  "date": "2026-07-29",
+  "title": "Trajectory-informed gene feature selection in single-cell analysis with SEEK-VFI.",
+  "doi": "10.1016/j.crmeth.2026.101539",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42508407/"
+ },
+ "doi:10.64898/2026.07.27.741045": {
+  "date": "2026-07-29",
+  "title": "PG-LLM: Benchmarking General-Purpose Language Models for Protein Variant Ranking",
+  "doi": "10.64898/2026.07.27.741045",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.07.27.741045"
+ },
+ "doi:10.64898/2026.06.30.735492": {
+  "date": "2026-07-29",
+  "title": "SQUARNA: stem maximization for accurate de novo RNA secondary structure prediction",
+  "doi": "10.64898/2026.06.30.735492",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.06.30.735492"
  }
 }

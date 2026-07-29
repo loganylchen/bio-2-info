@@ -1,0 +1,90 @@
+{
+ "date": "2026-07-29",
+ "papers": [
+  {
+   "title": "Light-Regulated Iontronic Sensing for Resolving the Charge-Steric Trade-Off in the Detection of Exosomal m5C-Modified miR-21.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42464915/",
+   "doi": "10.1021/acs.analchem.6c02746",
+   "journal": "Analytical chemistry",
+   "date": "2026 Jul 28",
+   "_bucket": "rna_mod",
+   "priority": "🥇",
+   "summary_cn": "提出光调控离子传感策略，提升外泌体m5C修饰miR-21检测灵敏度。",
+   "relevance_cn": "属于RNA修饰检测新技术，可借鉴于低丰度修饰标志物检测。"
+  },
+  {
+   "title": "Chromatin state shapes site-specific A-to-I RNA editing",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.07.27.740859",
+   "doi": "10.64898/2026.07.27.740859",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-07-27",
+   "_bucket": "core",
+   "priority": "🥇",
+   "summary_cn": "整合跨物种多组学并建模，揭示H3K36me3等染色质状态影响A-to-I编辑效率。",
+   "relevance_cn": "为RNA编辑位点预测和表观转录组调控建模提供特征线索。"
+  },
+  {
+   "title": "Toward generalizable and interpretable AI in regulatory genomics.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42509369/",
+   "doi": "10.1038/s41588-026-02670-3",
+   "journal": "Nature genetics",
+   "date": "2026 Jul 27",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "讨论监管基因组AI模型的泛化与可解释性，强调稳健评测和生物机制解释。",
+   "relevance_cn": "对构建可解释的序列/调控模型及RNA调控AI有参考价值。"
+  },
+  {
+   "title": "scReGAT: Leveraging Knowledge of Regulatory Interactions to Predict Long-range Gene Regulation at Single-cell Resolution.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42517821/",
+   "doi": "10.1093/gpbjnl/qzag072",
+   "journal": "Genomics, proteomics & bioinformatics",
+   "date": "2026 Jul 28",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "提出结合调控先验的图注意力模型，在单细胞分辨率预测远程基因调控。",
+   "relevance_cn": "展示AI融合调控网络与单细胞组学的落地方法。"
+  },
+  {
+   "title": "Trajectory-informed gene feature selection in single-cell analysis with SEEK-VFI.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42508407/",
+   "doi": "10.1016/j.crmeth.2026.101539",
+   "journal": "Cell reports methods",
+   "date": "2026 Jul 27",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "SEEK-VFI利用细胞轨迹信息进行基因特征选择，提升单细胞动态过程解析。",
+   "relevance_cn": "可借鉴于RNA修饰扰动或DRS单细胞相关特征筛选。"
+  },
+  {
+   "title": "PG-LLM: Benchmarking General-Purpose Language Models for Protein Variant Ranking",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.07.27.741045",
+   "doi": "10.64898/2026.07.27.741045",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-07-28",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "构建PG-LLM基准，评测通用语言模型在217个蛋白变异排序任务中的表现。",
+   "relevance_cn": "为生物LLM基准设计和变异效应评估提供范式。"
+  },
+  {
+   "title": "SQUARNA: stem maximization for accurate de novo RNA secondary structure prediction",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.06.30.735492",
+   "doi": "10.64898/2026.06.30.735492",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-07-28",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "提出基于茎区最大化的RNA二级结构从头预测方法，兼顾假结等复杂结构。",
+   "relevance_cn": "RNA结构预测对理解修饰位点可及性和DRS信号解释有帮助。"
+  }
+ ],
+ "no_core": false,
+ "summary_zh": "今日核心方向以RNA修饰检测与A-to-I编辑调控建模为主，AI侧重点在可解释监管基因组、单细胞方法和生物LLM基准。",
+ "_meta": {
+  "model": "gpt-5.5",
+  "base_url": "https://api.tfclab-logan.xyz/v1",
+  "candidates_in": 73,
+  "papers_out": 7
+ }
+}
