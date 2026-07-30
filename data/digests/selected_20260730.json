@@ -1,0 +1,101 @@
+{
+ "date": "2026-07-30",
+ "papers": [
+  {
+   "title": "A contextual activity score (CAS) for inferring ADAR-associated transcriptional activity across RNA-seq, single-cell, and spatial transcriptomics.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42526067/",
+   "doi": "10.1016/j.cmpb.2026.109563",
+   "journal": "Computer methods and programs in biomedicine",
+   "date": "2026 Jul 21",
+   "_bucket": "rna_mod",
+   "priority": "🥇",
+   "summary_cn": "提出CAS评分，从bulk、单细胞和空间转录组推断ADAR相关A-to-I编辑活性。",
+   "relevance_cn": "RNA编辑活性量化工具，可用于表观转录组数据再分析。"
+  },
+  {
+   "title": "Amplification-free detection of N6-Methyladenosine (m6A) based on droplet digital CRISPR-Cas13a.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42520632/",
+   "doi": "10.1016/j.talanta.2026.130370",
+   "journal": "Talanta",
+   "date": "2026 Jul 26",
+   "_bucket": "rna_mod",
+   "priority": "🥇",
+   "summary_cn": "开发免扩增ddCRISPR-Cas13a体系，实现m6A的数字化高灵敏检测。",
+   "relevance_cn": "提供非测序m6A定量方案，可作DRS验证互补技术。"
+  },
+  {
+   "title": "T4 phage RNA is NAD-capped and alters the NAD-cap epitranscriptome of Escherichia coli during infection",
+   "link": "https://www.biorxiv.org/content/10.1101/2024.04.04.588121",
+   "doi": "10.1101/2024.04.04.588121",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-07-28",
+   "_bucket": "core",
+   "priority": "🥇",
+   "summary_cn": "解析T4噬菌体感染中病毒RNA的NAD加帽及其对宿主NAD-RNA谱的重塑。",
+   "relevance_cn": "扩展RNA加帽修饰图谱，适合关注新型RNA修饰检测。"
+  },
+  {
+   "title": "MetaSplice: an ensemble pathogenicity predictor for intronic splice variants",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.07.23.740393",
+   "doi": "10.64898/2026.07.23.740393",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-07-27",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "MetaSplice整合深度剪接预测、进化约束和调控motif评估内含子变异致病性。",
+   "relevance_cn": "AI集成模型用于变异解释，对转录调控建模有借鉴。"
+  },
+  {
+   "title": "Polus: A context-aware enhancement framework for DNA storage via Transformer-based soft-decision decoding.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42517819/",
+   "doi": "10.1093/bioinformatics/btag563",
+   "journal": "Bioinformatics (Oxford, England)",
+   "date": "2026 Jul 28",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "Polus用Transformer上下文建模改进DNA存储的软判决解码与错误校正。",
+   "relevance_cn": "序列信号纠错思路可迁移到测序读段与basecalling。"
+  },
+  {
+   "title": "PanTEon: a cross-kingdom framework to guide the design of transposable element classifiers",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.04.01.715927",
+   "doi": "10.64898/2026.04.01.715927",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-07-28",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "PanTEon构建跨界TE数据库与深度学习benchmark，指导可复现转座子分类器设计。",
+   "relevance_cn": "提供基因组序列AI分类框架和benchmark范式。"
+  },
+  {
+   "title": "Machine learning reveals biocontrol agents shaping disease outcome in natural Arabidopsis populations.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42521687/",
+   "doi": "10.1038/s41467-026-75789-w",
+   "journal": "Nature communications",
+   "date": "2026 Jul 28",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "利用机器学习解析天然拟南芥群体中影响病害结局的生防微生物因子。",
+   "relevance_cn": "组学/微生物组AI落地案例，展示可解释特征筛选。"
+  },
+  {
+   "title": "A novel support vector regression approach for detecting gene-environment interactions and predicting trait values.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42520402/",
+   "doi": "10.1093/genetics/iyag192",
+   "journal": "Genetics",
+   "date": "2026 Jul 28",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "提出支持向量回归方法检测基因-环境互作并预测复杂性状表型值。",
+   "relevance_cn": "机器学习遗传互作建模，可借鉴到多组学性状预测。"
+  }
+ ],
+ "no_core": false,
+ "summary_zh": "今日核心方向有ADAR活性评分、m6A免扩增检测和NAD加帽图谱，AI侧以序列模型、变异解释与组学应用为主。",
+ "_meta": {
+  "model": "gpt-5.5",
+  "base_url": "https://api.tfclab-logan.xyz/v1",
+  "candidates_in": 74,
+  "papers_out": 8
+ }
+}

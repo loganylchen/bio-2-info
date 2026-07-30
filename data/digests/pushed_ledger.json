@@ -874,5 +874,53 @@
   "title": "SQUARNA: stem maximization for accurate de novo RNA secondary structure prediction",
   "doi": "10.64898/2026.06.30.735492",
   "link": "https://www.biorxiv.org/content/10.64898/2026.06.30.735492"
+ },
+ "doi:10.1016/j.cmpb.2026.109563": {
+  "date": "2026-07-30",
+  "title": "A contextual activity score (CAS) for inferring ADAR-associated transcriptional activity across RNA-seq, single-cell, and spatial transcriptomics.",
+  "doi": "10.1016/j.cmpb.2026.109563",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42526067/"
+ },
+ "doi:10.1016/j.talanta.2026.130370": {
+  "date": "2026-07-30",
+  "title": "Amplification-free detection of N6-Methyladenosine (m6A) based on droplet digital CRISPR-Cas13a.",
+  "doi": "10.1016/j.talanta.2026.130370",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42520632/"
+ },
+ "doi:10.1101/2024.04.04.588121": {
+  "date": "2026-07-30",
+  "title": "T4 phage RNA is NAD-capped and alters the NAD-cap epitranscriptome of Escherichia coli during infection",
+  "doi": "10.1101/2024.04.04.588121",
+  "link": "https://www.biorxiv.org/content/10.1101/2024.04.04.588121"
+ },
+ "doi:10.64898/2026.07.23.740393": {
+  "date": "2026-07-30",
+  "title": "MetaSplice: an ensemble pathogenicity predictor for intronic splice variants",
+  "doi": "10.64898/2026.07.23.740393",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.07.23.740393"
+ },
+ "doi:10.1093/bioinformatics/btag563": {
+  "date": "2026-07-30",
+  "title": "Polus: A context-aware enhancement framework for DNA storage via Transformer-based soft-decision decoding.",
+  "doi": "10.1093/bioinformatics/btag563",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42517819/"
+ },
+ "doi:10.64898/2026.04.01.715927": {
+  "date": "2026-07-30",
+  "title": "PanTEon: a cross-kingdom framework to guide the design of transposable element classifiers",
+  "doi": "10.64898/2026.04.01.715927",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.04.01.715927"
+ },
+ "doi:10.1038/s41467-026-75789-w": {
+  "date": "2026-07-30",
+  "title": "Machine learning reveals biocontrol agents shaping disease outcome in natural Arabidopsis populations.",
+  "doi": "10.1038/s41467-026-75789-w",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42521687/"
+ },
+ "doi:10.1093/genetics/iyag192": {
+  "date": "2026-07-30",
+  "title": "A novel support vector regression approach for detecting gene-environment interactions and predicting trait values.",
+  "doi": "10.1093/genetics/iyag192",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42520402/"
  }
 }
