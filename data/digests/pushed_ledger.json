@@ -922,5 +922,53 @@
   "title": "A novel support vector regression approach for detecting gene-environment interactions and predicting trait values.",
   "doi": "10.1093/genetics/iyag192",
   "link": "https://pubmed.ncbi.nlm.nih.gov/42520402/"
+ },
+ "doi:10.64898/2026.07.30.741163": {
+  "date": "2026-07-31",
+  "title": "Transcript-Specific Site-Directed RNA Editing Reveals Principles for Splice-aware guide RNA Design",
+  "doi": "10.64898/2026.07.30.741163",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.07.30.741163"
+ },
+ "doi:10.64898/2026.04.24.720536": {
+  "date": "2026-07-31",
+  "title": "Accurate ab initio gene prediction in eukaryotes with Tiberius in multiple clades",
+  "doi": "10.64898/2026.04.24.720536",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.04.24.720536"
+ },
+ "doi:10.64898/2026.07.24.740656": {
+  "date": "2026-07-31",
+  "title": "Prioritizing Non-coding Variants in Rice GWAS Loci with a Chromatin-Informed DNA Language Model",
+  "doi": "10.64898/2026.07.24.740656",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.07.24.740656"
+ },
+ "doi:10.64898/2026.07.27.740807": {
+  "date": "2026-07-31",
+  "title": "Single-cell foundation modeling with species-nativeprotein tokens links regenerative competence across frog and mouse",
+  "doi": "10.64898/2026.07.27.740807",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.07.27.740807"
+ },
+ "doi:10.64898/2026.07.27.741117": {
+  "date": "2026-07-31",
+  "title": "LLM-powered Functional Gene Set Summarization with genesetGPT",
+  "doi": "10.64898/2026.07.27.741117",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.07.27.741117"
+ },
+ "doi:10.1038/s41586-026-10842-8": {
+  "date": "2026-07-31",
+  "title": "Miniaturizing and modifying natural proteins with Raygun.",
+  "doi": "10.1038/s41586-026-10842-8",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42527603/"
+ },
+ "doi:10.1002/advs.76464": {
+  "date": "2026-07-31",
+  "title": "A Generative Neuro-Symbolic AI for Protein Sequence Design.",
+  "doi": "10.1002/advs.76464",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42531048/"
+ },
+ "doi:10.64898/2026.07.30.741542": {
+  "date": "2026-07-31",
+  "title": "The Human Bindome: A Proteome-scale Atlas of Designed Binder Candidates",
+  "doi": "10.64898/2026.07.30.741542",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.07.30.741542"
  }
 }
