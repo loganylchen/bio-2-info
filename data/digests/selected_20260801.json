@@ -1,0 +1,101 @@
+{
+ "date": "2026-08-01",
+ "papers": [
+  {
+   "title": "PUS7 mRNA pseudouridylation is driven by RNA sequence, structure, and cell-type-specific features.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42532042/",
+   "doi": "10.1016/j.xgen.2026.101332",
+   "journal": "Cell genomics",
+   "date": "2026 Jul 30",
+   "_bucket": "nanopore_drs",
+   "priority": "🥇",
+   "summary_cn": "系统解析PUS7介导mRNA假尿苷化的序列、结构与细胞类型特异特征。",
+   "relevance_cn": "直接关联假尿苷修饰位点规律与表观转录组建模。"
+  },
+  {
+   "title": "A module-based approach for post-omics, post-GWAS network-based gene classification.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42536422/",
+   "doi": "10.1093/bioinformatics/btag571",
+   "journal": "Bioinformatics (Oxford, England)",
+   "date": "2026 Jul 31",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "提出基于网络模块的post-omics/post-GWAS基因分类框架。",
+   "relevance_cn": "可借鉴于多组学候选基因优先级与功能解释。"
+  },
+  {
+   "title": "Structure-aware prediction of functional non-synonymous variants in a maize EMS mutant library.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42528130/",
+   "doi": "10.1016/j.molp.2026.07.024",
+   "journal": "Molecular plant",
+   "date": "2026 Jul 29",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "结合蛋白结构信息预测玉米EMS突变库中功能性非同义变异。",
+   "relevance_cn": "展示结构感知AI用于变异功能注释的思路。"
+  },
+  {
+   "title": "Cross-modal mapping of cancer stem-like cell plasticity using deep learning.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42516214/",
+   "doi": "10.1093/narcan/zcag015",
+   "journal": "NAR cancer",
+   "date": "2026 Sep",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "用深度学习进行跨模态映射，刻画癌症干样细胞可塑性。",
+   "relevance_cn": "对单细胞/多模态表征学习和状态映射有参考价值。"
+  },
+  {
+   "title": "LNGCN: a distance-aware continuous-time graph framework for PPI prioritization in experimental screening",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.04.30.721835",
+   "doi": "10.64898/2026.04.30.721835",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-07-29",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "提出距离感知连续时间图框架，用结构图和液态动力学排序PPI候选。",
+   "relevance_cn": "提供结构图神经网络用于PPI筛选的新范式。"
+  },
+  {
+   "title": "Mavchen 1: A Conformational Ensemble Platform for Protein Ligand Pose Prediction That Substantially Outperforms Static Structure Prediction in a Category-Stratified Benchmark",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.07.26.740840",
+   "doi": "10.64898/2026.07.26.740840",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-07-29",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "构建构象集合平台预测蛋白-配体姿势，并按类别基准优于静态结构。",
+   "relevance_cn": "体现AI结构预测从单构象走向柔性集合建模。"
+  },
+  {
+   "title": "Evaluating the adaptive hypothesis of A-to-I RNA editing in filamentous ascomycete fungi.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42478661/",
+   "doi": "10.1093/molbev/msag179",
+   "journal": "Molecular biology and evolution",
+   "date": "2026 Jul 21",
+   "_bucket": "rna_mod",
+   "priority": "🥉",
+   "summary_cn": "评估丝状子囊菌A-to-I RNA编辑的适应性假说与进化约束。",
+   "relevance_cn": "补充RNA编辑功能与进化选择层面的背景知识。"
+  },
+  {
+   "title": "KRAS Mutations Reprogram RNA m6A Modifications to Drive CD73-Dependent Immune Evasion in Colorectal Cancer.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42525957/",
+   "doi": "10.1158/0008-5472.CAN-26-0403",
+   "journal": "Cancer research",
+   "date": "2026 Jul 29",
+   "_bucket": "rna_mod",
+   "priority": "🥉",
+   "summary_cn": "揭示KRAS突变重塑m6A修饰并通过CD73促进结直肠癌免疫逃逸。",
+   "relevance_cn": "较高质量m6A疾病机制，可关注其修饰重编程证据。"
+  }
+ ],
+ "no_core": false,
+ "summary_zh": "今日核心仅一篇假尿苷化特征研究，AI方向以组学网络分类、结构感知变异预测和图/结构深度学习方法为主。",
+ "_meta": {
+  "model": "gpt-5.5",
+  "base_url": "https://api.tfclab-logan.xyz/v1",
+  "candidates_in": 66,
+  "papers_out": 8
+ }
+}

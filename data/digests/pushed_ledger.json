@@ -970,5 +970,53 @@
   "title": "The Human Bindome: A Proteome-scale Atlas of Designed Binder Candidates",
   "doi": "10.64898/2026.07.30.741542",
   "link": "https://www.biorxiv.org/content/10.64898/2026.07.30.741542"
+ },
+ "doi:10.1016/j.xgen.2026.101332": {
+  "date": "2026-08-01",
+  "title": "PUS7 mRNA pseudouridylation is driven by RNA sequence, structure, and cell-type-specific features.",
+  "doi": "10.1016/j.xgen.2026.101332",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42532042/"
+ },
+ "doi:10.1093/bioinformatics/btag571": {
+  "date": "2026-08-01",
+  "title": "A module-based approach for post-omics, post-GWAS network-based gene classification.",
+  "doi": "10.1093/bioinformatics/btag571",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42536422/"
+ },
+ "doi:10.1016/j.molp.2026.07.024": {
+  "date": "2026-08-01",
+  "title": "Structure-aware prediction of functional non-synonymous variants in a maize EMS mutant library.",
+  "doi": "10.1016/j.molp.2026.07.024",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42528130/"
+ },
+ "doi:10.1093/narcan/zcag015": {
+  "date": "2026-08-01",
+  "title": "Cross-modal mapping of cancer stem-like cell plasticity using deep learning.",
+  "doi": "10.1093/narcan/zcag015",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42516214/"
+ },
+ "doi:10.64898/2026.04.30.721835": {
+  "date": "2026-08-01",
+  "title": "LNGCN: a distance-aware continuous-time graph framework for PPI prioritization in experimental screening",
+  "doi": "10.64898/2026.04.30.721835",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.04.30.721835"
+ },
+ "doi:10.64898/2026.07.26.740840": {
+  "date": "2026-08-01",
+  "title": "Mavchen 1: A Conformational Ensemble Platform for Protein Ligand Pose Prediction That Substantially Outperforms Static Structure Prediction in a Category-Stratified Benchmark",
+  "doi": "10.64898/2026.07.26.740840",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.07.26.740840"
+ },
+ "doi:10.1093/molbev/msag179": {
+  "date": "2026-08-01",
+  "title": "Evaluating the adaptive hypothesis of A-to-I RNA editing in filamentous ascomycete fungi.",
+  "doi": "10.1093/molbev/msag179",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42478661/"
+ },
+ "doi:10.1158/0008-5472.can-26-0403": {
+  "date": "2026-08-01",
+  "title": "KRAS Mutations Reprogram RNA m6A Modifications to Drive CD73-Dependent Immune Evasion in Colorectal Cancer.",
+  "doi": "10.1158/0008-5472.CAN-26-0403",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42525957/"
  }
 }
