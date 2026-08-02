@@ -1,0 +1,90 @@
+{
+ "date": "2026-08-02",
+ "papers": [
+  {
+   "title": "A hybrid deep learning framework for accurate N6,2'-O-Dimethyladenosine site prediction.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42054815/",
+   "doi": "10.1016/j.bpc.2026.107639",
+   "journal": "Biophysical chemistry",
+   "date": "2026 Aug",
+   "_bucket": "rna_mod",
+   "priority": "🥇",
+   "summary_cn": "提出混合深度学习模型预测Nm位点，整合序列特征提升识别精度。",
+   "relevance_cn": "直接服务RNA修饰位点计算检测与模型设计。"
+  },
+  {
+   "title": "Cross-Attention Over RNA And Protein Sequences Enables Generalizable Interaction Prediction",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.04.22.720174",
+   "doi": "10.64898/2026.04.22.720174",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-07-31",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "CORAL用RNA/蛋白预训练模型与双向交叉注意力预测RPI并强化泛化评测。",
+   "relevance_cn": "对RNA结合蛋白、修饰酶靶标预测有方法借鉴。"
+  },
+  {
+   "title": "pLM representations unlock metagenomic space beyond homology",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.07.28.739874",
+   "doi": "10.64898/2026.07.28.739874",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-07-30",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "评估并改进蛋白语言模型训练数据，用RED指标拓展宏基因组蛋白功能空间。",
+   "relevance_cn": "展示foundation model在远同源注释中的可迁移策略。"
+  },
+  {
+   "title": "General-purpose language models integrate structured biological evidence for explainable biological interaction prediction",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.06.10.727770",
+   "doi": "10.64898/2026.06.10.727770",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-07-30",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "用通用语言模型整合结构化证据，做可解释生物互作预测并处理冲突证据。",
+   "relevance_cn": "为LLM整合多源组学证据提供可解释范式。"
+  },
+  {
+   "title": "Machine learning analysis of the human initiator region reveals key features of different types of core promoters.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42538289/",
+   "doi": "10.1101/gad.353623.125",
+   "journal": "Genes & development",
+   "date": "2026 Jul 31",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "机器学习解析人类Inr启动子区域，揭示不同核心启动子类别的关键序列特征。",
+   "relevance_cn": "落地展示ML解释顺式调控元件与转录起始机制。"
+  },
+  {
+   "title": "AI-driven discovery and validation of a GIPC1 PDZ domain inhibitor for pancreatic ductal adenocarcinoma.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42537645/",
+   "doi": "10.1016/j.celrep.2026.117777",
+   "journal": "Cell reports",
+   "date": "2026 Jul 31",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "AI筛选并实验验证GIPC1 PDZ结构域抑制剂，用于胰腺癌候选药物发现。",
+   "relevance_cn": "体现AI分子筛选到湿实验验证的闭环应用。"
+  },
+  {
+   "title": "Liquid-Liquid Phase Separation of the m6A RNA ALKBH9B Demethylase: An IDR-dependent Mechanism driving the Alfalfa Mosaic Virus Infection",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.07.30.741775",
+   "doi": "10.64898/2026.07.30.741775",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-07-30",
+   "_bucket": "core",
+   "priority": "🥉",
+   "summary_cn": "揭示植物m6A去甲基化酶ALKBH9B通过IDR介导LLPS促进病毒感染。",
+   "relevance_cn": "补充m6A调控因子相分离与病毒互作机制。"
+  }
+ ],
+ "no_core": false,
+ "summary_zh": "今日核心方法以RNA修饰位点深度学习预测为主，AI部分覆盖RNA-蛋白互作、蛋白语言模型、LLM证据整合与分子应用。",
+ "_meta": {
+  "model": "gpt-5.5",
+  "base_url": "https://api.tfclab-logan.xyz/v1",
+  "candidates_in": 96,
+  "papers_out": 7
+ }
+}

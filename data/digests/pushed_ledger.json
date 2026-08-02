@@ -1018,5 +1018,47 @@
   "title": "KRAS Mutations Reprogram RNA m6A Modifications to Drive CD73-Dependent Immune Evasion in Colorectal Cancer.",
   "doi": "10.1158/0008-5472.CAN-26-0403",
   "link": "https://pubmed.ncbi.nlm.nih.gov/42525957/"
+ },
+ "doi:10.1016/j.bpc.2026.107639": {
+  "date": "2026-08-02",
+  "title": "A hybrid deep learning framework for accurate N6,2'-O-Dimethyladenosine site prediction.",
+  "doi": "10.1016/j.bpc.2026.107639",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42054815/"
+ },
+ "doi:10.64898/2026.04.22.720174": {
+  "date": "2026-08-02",
+  "title": "Cross-Attention Over RNA And Protein Sequences Enables Generalizable Interaction Prediction",
+  "doi": "10.64898/2026.04.22.720174",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.04.22.720174"
+ },
+ "doi:10.64898/2026.07.28.739874": {
+  "date": "2026-08-02",
+  "title": "pLM representations unlock metagenomic space beyond homology",
+  "doi": "10.64898/2026.07.28.739874",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.07.28.739874"
+ },
+ "doi:10.64898/2026.06.10.727770": {
+  "date": "2026-08-02",
+  "title": "General-purpose language models integrate structured biological evidence for explainable biological interaction prediction",
+  "doi": "10.64898/2026.06.10.727770",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.06.10.727770"
+ },
+ "doi:10.1101/gad.353623.125": {
+  "date": "2026-08-02",
+  "title": "Machine learning analysis of the human initiator region reveals key features of different types of core promoters.",
+  "doi": "10.1101/gad.353623.125",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42538289/"
+ },
+ "doi:10.1016/j.celrep.2026.117777": {
+  "date": "2026-08-02",
+  "title": "AI-driven discovery and validation of a GIPC1 PDZ domain inhibitor for pancreatic ductal adenocarcinoma.",
+  "doi": "10.1016/j.celrep.2026.117777",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42537645/"
+ },
+ "doi:10.64898/2026.07.30.741775": {
+  "date": "2026-08-02",
+  "title": "Liquid-Liquid Phase Separation of the m6A RNA ALKBH9B Demethylase: An IDR-dependent Mechanism driving the Alfalfa Mosaic Virus Infection",
+  "doi": "10.64898/2026.07.30.741775",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.07.30.741775"
  }
 }
