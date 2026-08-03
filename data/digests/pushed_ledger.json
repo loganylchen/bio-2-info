@@ -1060,5 +1060,47 @@
   "title": "Liquid-Liquid Phase Separation of the m6A RNA ALKBH9B Demethylase: An IDR-dependent Mechanism driving the Alfalfa Mosaic Virus Infection",
   "doi": "10.64898/2026.07.30.741775",
   "link": "https://www.biorxiv.org/content/10.64898/2026.07.30.741775"
+ },
+ "doi:10.64898/2026.07.28.741267": {
+  "date": "2026-08-03",
+  "title": "A curated human lactylome and protein language model framework enable accurate prediction and reveal local determinants of lysine lactylation",
+  "doi": "10.64898/2026.07.28.741267",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.07.28.741267"
+ },
+ "doi:10.1093/bioadv/vbag122": {
+  "date": "2026-08-03",
+  "title": "Refining sequence-to-activity models by increasing model resolution.",
+  "doi": "10.1093/bioadv/vbag122",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42542664/"
+ },
+ "doi:10.1038/s41594-026-01846-z": {
+  "date": "2026-08-03",
+  "title": "Variant characterization in the intrinsically disordered human proteome.",
+  "doi": "10.1038/s41594-026-01846-z",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42538434/"
+ },
+ "doi:10.64898/2026.07.31.742099": {
+  "date": "2026-08-03",
+  "title": "Evaluating Protein Language Model Embeddingsfor Structural Similarity in the Protein-Sequence Twilight Zone",
+  "doi": "10.64898/2026.07.31.742099",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.07.31.742099"
+ },
+ "doi:10.1016/j.compbiolchem.2026.109064": {
+  "date": "2026-08-03",
+  "title": "SCTGE infers transformer-based graph embeddings to improve cell-cell interaction identification and cell identity annotations.",
+  "doi": "10.1016/j.compbiolchem.2026.109064",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/41967428/"
+ },
+ "doi:10.1016/j.tig.2026.07.005": {
+  "date": "2026-08-03",
+  "title": "Post-transcriptional regulation of allele-specific expression.",
+  "doi": "10.1016/j.tig.2026.07.005",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42532776/"
+ },
+ "doi:10.1002/ctm2.70750": {
+  "date": "2026-08-03",
+  "title": "ZC3H13-mediated m6A stabilization of CCND1 promotes malignant progression and is associated with poor anti-PD-1 response in HNSCC.",
+  "doi": "10.1002/ctm2.70750",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42504531/"
  }
 }

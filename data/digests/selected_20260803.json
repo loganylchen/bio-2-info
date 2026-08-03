@@ -1,0 +1,90 @@
+{
+ "date": "2026-08-03",
+ "papers": [
+  {
+   "title": "A curated human lactylome and protein language model framework enable accurate prediction and reveal local determinants of lysine lactylation",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.07.28.741267",
+   "doi": "10.64898/2026.07.28.741267",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-07-31",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "构建人类赖氨酸乳酰化基准集，并用蛋白语言模型预测位点。",
+   "relevance_cn": "PTM位点预测框架可借鉴到RNA修饰建模。"
+  },
+  {
+   "title": "Refining sequence-to-activity models by increasing model resolution.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42542664/",
+   "doi": "10.1093/bioadv/vbag122",
+   "journal": "Bioinformatics advances",
+   "date": "2026",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "提出提高模型分辨率来改进序列到活性预测，面向调控序列建模。",
+   "relevance_cn": "对序列功能预测和修饰位点效应建模有参考价值。"
+  },
+  {
+   "title": "Variant characterization in the intrinsically disordered human proteome.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42538434/",
+   "doi": "10.1038/s41594-026-01846-z",
+   "journal": "Nature structural & molecular biology",
+   "date": "2026 Jul 31",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "系统刻画人类无序蛋白组变异，解析无序区变异的结构功能影响。",
+   "relevance_cn": "顶刊分子层面AI/蛋白组应用，拓展变异解释思路。"
+  },
+  {
+   "title": "Evaluating Protein Language Model Embeddingsfor Structural Similarity in the Protein-Sequence Twilight Zone",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.07.31.742099",
+   "doi": "10.64898/2026.07.31.742099",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-07-31",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "评测多种蛋白语言模型嵌入在低同源蛋白结构相似性估计中的表现。",
+   "relevance_cn": "提供生物大模型嵌入评测范式，可迁移到RNA模型。"
+  },
+  {
+   "title": "SCTGE infers transformer-based graph embeddings to improve cell-cell interaction identification and cell identity annotations.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/41967428/",
+   "doi": "10.1016/j.compbiolchem.2026.109064",
+   "journal": "Computational biology and chemistry",
+   "date": "2026 Aug",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "提出Transformer图嵌入方法，提升单细胞互作识别和细胞类型注释。",
+   "relevance_cn": "单细胞图学习工具，对组学AI pipeline有借鉴。"
+  },
+  {
+   "title": "Post-transcriptional regulation of allele-specific expression.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42532776/",
+   "doi": "10.1016/j.tig.2026.07.005",
+   "journal": "Trends in genetics : TIG",
+   "date": "2026 Jul 30",
+   "_bucket": "rna_mod",
+   "priority": "🥉",
+   "summary_cn": "综述转录后层面对等位基因特异表达的调控机制和研究策略。",
+   "relevance_cn": "连接RNA加工、修饰与等位基因表达调控。"
+  },
+  {
+   "title": "ZC3H13-mediated m6A stabilization of CCND1 promotes malignant progression and is associated with poor anti-PD-1 response in HNSCC.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42504531/",
+   "doi": "10.1002/ctm2.70750",
+   "journal": "Clinical and translational medicine",
+   "date": "2026 Aug",
+   "_bucket": "rna_mod",
+   "priority": "🥉",
+   "summary_cn": "揭示ZC3H13通过m6A稳定CCND1促进HNSCC进展并关联PD-1疗效差。",
+   "relevance_cn": "较高水平m6A疾病机制，可关注免疫治疗相关修饰轴。"
+  }
+ ],
+ "no_core": true,
+ "summary_zh": "今日无核心新方法论文；精选AI序列/蛋白/单细胞方法应用，并补充少量高相关RNA调控与m6A机制研究。",
+ "_meta": {
+  "model": "gpt-5.5",
+  "base_url": "https://api.tfclab-logan.xyz/v1",
+  "candidates_in": 86,
+  "papers_out": 7
+ }
+}
