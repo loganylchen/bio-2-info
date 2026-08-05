@@ -1,0 +1,90 @@
+{
+ "date": "2026-08-05",
+ "papers": [
+  {
+   "title": "DeepGeSeq: Deep learning library for Genomic Sequence modeling and analysis.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42549891/",
+   "doi": "10.1093/bioinformatics/btag584",
+   "journal": "Bioinformatics (Oxford, England)",
+   "date": "2026 Aug 4",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "提出用于基因组序列建模与分析的深度学习库，封装常用模型与流程。",
+   "relevance_cn": "可作为序列模型和调控/修饰位点预测的开发基础。"
+  },
+  {
+   "title": "Elucidating enzyme-substrate specificity through co-folding foundation model",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.07.30.741672",
+   "doi": "10.64898/2026.07.30.741672",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-08-02",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "Boltz2ESI用共折叠基础模型端到端预测酶-底物相互作用。",
+   "relevance_cn": "展示结构基础模型在分子功能预测中的落地范式。"
+  },
+  {
+   "title": "PG-MLD: Physics-Guided Molecular Representation Learning via Dynamic 3D Trajectory Distillation",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.07.29.741404",
+   "doi": "10.64898/2026.07.29.741404",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-08-02",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "通过动态3D轨迹蒸馏把物理构象知识注入1D分子表示学习。",
+   "relevance_cn": "有助理解多模态蒸馏在分子AI中的设计思路。"
+  },
+  {
+   "title": "DNA-binding domain-aware classification enables systematic annotation of the regulatory genome",
+   "link": "https://www.biorxiv.org/content/10.1101/2024.12.20.629625",
+   "doi": "10.1101/2024.12.20.629625",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-08-03",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "引入DNA结合域感知分类框架，系统解析TF竞争结合与调控基因组注释。",
+   "relevance_cn": "对序列调控模型和可解释特征设计有参考价值。"
+  },
+  {
+   "title": "Do Geometric Outliers Identify Important Genes in Single-Cell Foundation Models?",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.06.22.733850",
+   "doi": "10.64898/2026.06.22.733850",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-08-03",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "比较Geneformer、scGPT和scFoundation基因嵌入异常点的一致性与生物意义。",
+   "relevance_cn": "有助评估单细胞基础模型嵌入的稳健性和可解释性。"
+  },
+  {
+   "title": "Accurate prediction of gain- and loss-of-function missense variants in GABA(A) receptors.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42546502/",
+   "doi": "10.1016/j.ebiom.2026.106417",
+   "journal": "EBioMedicine",
+   "date": "2026 Aug 3",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "构建模型预测GABA(A)受体错义突变的功能获得或缺失效应。",
+   "relevance_cn": "是AI用于分子变异功能解释的较好应用案例。"
+  },
+  {
+   "title": "METTL14-dependent N(6)-methyladenosine modification of FGF16 participates in IGFBP5 deficiency-enhanced angiogenesis.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42547815/",
+   "doi": "10.1038/s12276-026-01788-y",
+   "journal": "Experimental & molecular medicine",
+   "date": "2026 Aug 4",
+   "_bucket": "rna_mod",
+   "priority": "🥉",
+   "summary_cn": "揭示IGFBP5缺失通过METTL14介导FGF16 m6A修饰增强血管生成。",
+   "relevance_cn": "补充m6A写入酶在血管生成调控中的机制线索。"
+  }
+ ],
+ "no_core": true,
+ "summary_zh": "今日无核心新方法论文；精选以基因组/单细胞/分子AI方法和一个变异功能预测应用为主。",
+ "_meta": {
+  "model": "gpt-5.5",
+  "base_url": "https://api.tfclab-logan.xyz/v1",
+  "candidates_in": 91,
+  "papers_out": 7
+ }
+}

@@ -1150,5 +1150,47 @@
   "title": "Unraveling the roles of DKK1 and S100P in pancreatic ductal adenocarcinoma: Insights from machine learning, single-cell/spatial transcriptomics, and functional validation.",
   "doi": "10.1016/j.tranon.2026.102949",
   "link": "https://pubmed.ncbi.nlm.nih.gov/42537428/"
+ },
+ "doi:10.1093/bioinformatics/btag584": {
+  "date": "2026-08-05",
+  "title": "DeepGeSeq: Deep learning library for Genomic Sequence modeling and analysis.",
+  "doi": "10.1093/bioinformatics/btag584",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42549891/"
+ },
+ "doi:10.64898/2026.07.30.741672": {
+  "date": "2026-08-05",
+  "title": "Elucidating enzyme-substrate specificity through co-folding foundation model",
+  "doi": "10.64898/2026.07.30.741672",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.07.30.741672"
+ },
+ "doi:10.64898/2026.07.29.741404": {
+  "date": "2026-08-05",
+  "title": "PG-MLD: Physics-Guided Molecular Representation Learning via Dynamic 3D Trajectory Distillation",
+  "doi": "10.64898/2026.07.29.741404",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.07.29.741404"
+ },
+ "doi:10.1101/2024.12.20.629625": {
+  "date": "2026-08-05",
+  "title": "DNA-binding domain-aware classification enables systematic annotation of the regulatory genome",
+  "doi": "10.1101/2024.12.20.629625",
+  "link": "https://www.biorxiv.org/content/10.1101/2024.12.20.629625"
+ },
+ "doi:10.64898/2026.06.22.733850": {
+  "date": "2026-08-05",
+  "title": "Do Geometric Outliers Identify Important Genes in Single-Cell Foundation Models?",
+  "doi": "10.64898/2026.06.22.733850",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.06.22.733850"
+ },
+ "doi:10.1016/j.ebiom.2026.106417": {
+  "date": "2026-08-05",
+  "title": "Accurate prediction of gain- and loss-of-function missense variants in GABA(A) receptors.",
+  "doi": "10.1016/j.ebiom.2026.106417",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42546502/"
+ },
+ "doi:10.1038/s12276-026-01788-y": {
+  "date": "2026-08-05",
+  "title": "METTL14-dependent N(6)-methyladenosine modification of FGF16 participates in IGFBP5 deficiency-enhanced angiogenesis.",
+  "doi": "10.1038/s12276-026-01788-y",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42547815/"
  }
 }
