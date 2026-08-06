@@ -1,0 +1,90 @@
+{
+ "date": "2026-08-06",
+ "papers": [
+  {
+   "title": "TSTScope Unifies Single-Cell Multi-Omics to Identify Functional T Cell States Predictive of Immunotherapy Response.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42555209/",
+   "doi": "10.1002/advs.76983",
+   "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+   "date": "2026 Aug 5",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "提出TSTScope整合单细胞多组学，识别可预测免疫治疗响应的T细胞状态。",
+   "relevance_cn": "单细胞多组学建模方法，对组学AI整合分析有参考价值。"
+  },
+  {
+   "title": "TM-Vec 2s: Accelerated Protein Remote Homology Detection",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.02.05.704073",
+   "doi": "10.64898/2026.02.05.704073",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-08-03",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "升级TM-Vec用于加速蛋白远缘同源检测，面向大规模序列功能注释瓶颈。",
+   "relevance_cn": "蛋白表征学习与检索框架，可借鉴到序列基础模型评估。"
+  },
+  {
+   "title": "PGST: A Prototype-Guided Parameter-Efficient Network for Spatial Transcriptomics Prediction.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/41701590/",
+   "doi": "10.1109/JBHI.2026.3666148",
+   "journal": "IEEE journal of biomedical and health informatics",
+   "date": "2026 Aug",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "提出原型引导的参数高效网络PGST，用于空间转录组表达或特征预测。",
+   "relevance_cn": "贴近空间组学AI建模，适合关注多模态组学预测。"
+  },
+  {
+   "title": "What limits local ancestry inference at low divergence: a feasibility threshold, a metric that conceals failure, and a deficit of input more than architecture",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.07.30.741148",
+   "doi": "10.64898/2026.07.30.741148",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-08-03",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "系统评测低分化场景局部祖源推断，指出输入信息不足比模型架构更限制性能。",
+   "relevance_cn": "是基因组AI benchmark范例，强调可行性边界与指标陷阱。"
+  },
+  {
+   "title": "Decoding splicing variants in high-throughput sequencing: a functional validation approach integrating deep learning tools.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42362801/",
+   "doi": "10.1038/s41431-026-02162-2",
+   "journal": "European journal of human genetics : EJHG",
+   "date": "2026 Aug",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "结合深度学习工具与功能验证解析高通量测序中的剪接变异效应。",
+   "relevance_cn": "剪接变异AI解释与验证流程，对转录组变异分析有借鉴。"
+  },
+  {
+   "title": "Mul-PheG2P: decoupled learning and prediction-space fusion enables robust and interpretable multi-phenotype genomic prediction.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42552668/",
+   "doi": "10.1111/nph.71461",
+   "journal": "The New phytologist",
+   "date": "2026 Aug 4",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "提出Mul-PheG2P，通过解耦学习和预测空间融合实现多表型基因组预测。",
+   "relevance_cn": "落地的基因型到表型AI应用，兼顾鲁棒性与可解释性。"
+  },
+  {
+   "title": "Population genomics reveals ginseng domestication and ginsenoside biosynthesis.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42555637/",
+   "doi": "10.1073/pnas.2535250123",
+   "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+   "date": "2026 Aug 11",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "利用群体基因组学解析人参驯化历史，并定位人参皂苷生物合成相关遗传基础。",
+   "relevance_cn": "高质量组学应用案例，可参考其群体基因组分析设计。"
+  }
+ ],
+ "no_core": true,
+ "summary_zh": "今日无核心新方法论文；精选以单细胞/空间组学、蛋白序列学习、基因组预测与benchmark为主的AI生信论文。",
+ "_meta": {
+  "model": "gpt-5.5",
+  "base_url": "https://api.tfclab-logan.xyz/v1",
+  "candidates_in": 84,
+  "papers_out": 7
+ }
+}

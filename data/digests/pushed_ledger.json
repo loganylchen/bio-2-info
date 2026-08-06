@@ -1192,5 +1192,47 @@
   "title": "METTL14-dependent N(6)-methyladenosine modification of FGF16 participates in IGFBP5 deficiency-enhanced angiogenesis.",
   "doi": "10.1038/s12276-026-01788-y",
   "link": "https://pubmed.ncbi.nlm.nih.gov/42547815/"
+ },
+ "doi:10.1002/advs.76983": {
+  "date": "2026-08-06",
+  "title": "TSTScope Unifies Single-Cell Multi-Omics to Identify Functional T Cell States Predictive of Immunotherapy Response.",
+  "doi": "10.1002/advs.76983",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42555209/"
+ },
+ "doi:10.64898/2026.02.05.704073": {
+  "date": "2026-08-06",
+  "title": "TM-Vec 2s: Accelerated Protein Remote Homology Detection",
+  "doi": "10.64898/2026.02.05.704073",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.02.05.704073"
+ },
+ "doi:10.1109/jbhi.2026.3666148": {
+  "date": "2026-08-06",
+  "title": "PGST: A Prototype-Guided Parameter-Efficient Network for Spatial Transcriptomics Prediction.",
+  "doi": "10.1109/JBHI.2026.3666148",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/41701590/"
+ },
+ "doi:10.64898/2026.07.30.741148": {
+  "date": "2026-08-06",
+  "title": "What limits local ancestry inference at low divergence: a feasibility threshold, a metric that conceals failure, and a deficit of input more than architecture",
+  "doi": "10.64898/2026.07.30.741148",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.07.30.741148"
+ },
+ "doi:10.1038/s41431-026-02162-2": {
+  "date": "2026-08-06",
+  "title": "Decoding splicing variants in high-throughput sequencing: a functional validation approach integrating deep learning tools.",
+  "doi": "10.1038/s41431-026-02162-2",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42362801/"
+ },
+ "doi:10.1111/nph.71461": {
+  "date": "2026-08-06",
+  "title": "Mul-PheG2P: decoupled learning and prediction-space fusion enables robust and interpretable multi-phenotype genomic prediction.",
+  "doi": "10.1111/nph.71461",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42552668/"
+ },
+ "doi:10.1073/pnas.2535250123": {
+  "date": "2026-08-06",
+  "title": "Population genomics reveals ginseng domestication and ginsenoside biosynthesis.",
+  "doi": "10.1073/pnas.2535250123",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42555637/"
  }
 }
