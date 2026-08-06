@@ -438,5 +438,40 @@
   "date": "2026-07-22",
   "pdf": false,
   "title": "Classification models for KCNQ1 variants distinguish functional and trafficking effects to enhance pathogenicity interpretation."
+ },
+ "doi:10.1002/advs.76983": {
+  "date": "2026-08-06",
+  "pdf": false,
+  "title": "TSTScope Unifies Single-Cell Multi-Omics to Identify Functional T Cell States Predictive of Immunotherapy Response."
+ },
+ "doi:10.64898/2026.02.05.704073": {
+  "date": "2026-08-06",
+  "pdf": false,
+  "title": "TM-Vec 2s: Accelerated Protein Remote Homology Detection"
+ },
+ "doi:10.1109/jbhi.2026.3666148": {
+  "date": "2026-08-06",
+  "pdf": false,
+  "title": "PGST: A Prototype-Guided Parameter-Efficient Network for Spatial Transcriptomics Prediction."
+ },
+ "doi:10.64898/2026.07.30.741148": {
+  "date": "2026-08-06",
+  "pdf": false,
+  "title": "What limits local ancestry inference at low divergence: a feasibility threshold, a metric that conceals failure, and a deficit of input more than architecture"
+ },
+ "doi:10.1038/s41431-026-02162-2": {
+  "date": "2026-08-06",
+  "pdf": false,
+  "title": "Decoding splicing variants in high-throughput sequencing: a functional validation approach integrating deep learning tools."
+ },
+ "doi:10.1111/nph.71461": {
+  "date": "2026-08-06",
+  "pdf": false,
+  "title": "Mul-PheG2P: decoupled learning and prediction-space fusion enables robust and interpretable multi-phenotype genomic prediction."
+ },
+ "doi:10.1073/pnas.2535250123": {
+  "date": "2026-08-06",
+  "pdf": false,
+  "title": "Population genomics reveals ginseng domestication and ginsenoside biosynthesis."
  }
 }
