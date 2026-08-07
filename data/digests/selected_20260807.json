@@ -1,0 +1,101 @@
+{
+ "date": "2026-08-07",
+ "papers": [
+  {
+   "title": "MethylBench: A comprehensive benchmark of DNA methylation profiling methods across diverse sequencing platforms",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.04.28.721268",
+   "doi": "10.64898/2026.04.28.721268",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-08-06",
+   "_bucket": "core",
+   "priority": "🥇",
+   "summary_cn": "系统比较多平台DNA甲基化测序方法，覆盖ONT等长读长化学。",
+   "relevance_cn": "可借鉴其多平台mod profiling benchmark设计。"
+  },
+  {
+   "title": "ClairS: a deep-learning method for long-read tumor-normal pair somatic small variant calling.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42387002/",
+   "doi": "10.1038/s41592-026-03152-4",
+   "journal": "Nature methods",
+   "date": "2026 Aug",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "提出长读长肿瘤-正常配对体细胞小变异深度学习caller。",
+   "relevance_cn": "长读长AI变异检测范式对Nanopore分析有参考。"
+  },
+  {
+   "title": "Multi-scale modeling of human tissues from spatial transcriptomics with TERRA",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.07.29.741565",
+   "doi": "10.64898/2026.07.29.741565",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-08-04",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "TERRA在1.12亿空间转录组细胞上预训练组织多尺度表示。",
+   "relevance_cn": "代表空间组学foundation model的新方向。"
+  },
+  {
+   "title": "RVQ-Alpha: Bridging Single-Cell Transcriptomics and Large Language Models via Hierarchical Discrete Tokenization and Fact-Aware Reinforcement Learning",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.04.20.719773",
+   "doi": "10.64898/2026.04.20.719773",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-08-06",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "用层级离散token化和事实感知RL把单细胞数据接入LLM。",
+   "relevance_cn": "为单细胞组学与LLM融合提供可借鉴框架。"
+  },
+  {
+   "title": "Pervasive Backdoor Vulnerabilities in Genomic Foundation Models",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.07.30.741642",
+   "doi": "10.64898/2026.07.30.741642",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-08-04",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "系统评估基因组foundation model在18项任务中的后门投毒风险。",
+   "relevance_cn": "提醒序列大模型训练数据安全与鲁棒性问题。"
+  },
+  {
+   "title": "Kukulu: Diffusion-Based Reconstruction of Antibody CDR Loops using a Structure-Aware Joint Embedding Predictive Architecture",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.08.03.742168",
+   "doi": "10.64898/2026.08.03.742168",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-08-04",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "结合结构感知JEPA与条件扩散模型重建抗体CDR环。",
+   "relevance_cn": "展示扩散模型在蛋白序列-结构设计中的应用。"
+  },
+  {
+   "title": "Machine learning-based prediction of SARS-CoV-2 bioactivity: integrating IC(50) regression and activity classification using multi-task neural networks.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42557548/",
+   "doi": "10.1186/s12859-026-06573-2",
+   "journal": "BMC bioinformatics",
+   "date": "2026 Aug 5",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "用多任务神经网络同时预测SARS-CoV-2化合物IC50与活性类别。",
+   "relevance_cn": "分子活性预测落地案例，可借鉴多任务建模。"
+  },
+  {
+   "title": "m6A pathway suppression reprograms gene expression during the integrated stress response",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.08.05.742933",
+   "doi": "10.64898/2026.08.05.742933",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-08-05",
+   "_bucket": "core",
+   "priority": "🥉",
+   "summary_cn": "发现ISR通过稳定含m6A且通常不稳定的mRNA重塑转录组。",
+   "relevance_cn": "提供m6A调控应激转录组的机制线索。"
+  }
+ ],
+ "no_core": false,
+ "summary_zh": "今日核心方法以甲基化多平台benchmark为主，AI侧集中在长读长caller、组学foundation model与分子活性预测。",
+ "_meta": {
+  "model": "gpt-5.5",
+  "base_url": "https://api.tfclab-logan.xyz/v1",
+  "candidates_in": 106,
+  "papers_out": 8
+ }
+}

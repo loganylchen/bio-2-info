@@ -2,89 +2,111 @@
  "date": "2026-08-06",
  "papers": [
   {
-   "title": "TSTScope Unifies Single-Cell Multi-Omics to Identify Functional T Cell States Predictive of Immunotherapy Response.",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42555209/",
-   "doi": "10.1002/advs.76983",
+   "title": "Tunable Expression of an AAV Payload Using ADAR-mediated RNA Editing",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.08.04.742838",
+   "doi": "10.64898/2026.08.04.742838",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-08-05",
+   "_bucket": "core",
+   "priority": "🥇",
+   "summary_cn": "构建ADAR介导的RNA编辑开关，实现AAV载荷表达的体内外可调控。",
+   "relevance_cn": "提供RNA编辑型基因调控技术，拓展表观转录组工程思路。"
+  },
+  {
+   "title": "Multi-scale modeling of human tissues from spatial transcriptomics with TERRA",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.07.29.741565",
+   "doi": "10.64898/2026.07.29.741565",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-08-04",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "提出TERRA，在1.12亿空间转录组细胞上预训练，生成可迁移组织表征。",
+   "relevance_cn": "代表空间组学foundation model，对单细胞/空间分析有参考价值。"
+  },
+  {
+   "title": "Pervasive Backdoor Vulnerabilities in Genomic Foundation Models",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.07.30.741642",
+   "doi": "10.64898/2026.07.30.741642",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-08-04",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "系统评估基因组foundation model后门投毒，覆盖多模型尺度和18项任务。",
+   "relevance_cn": "提醒序列大模型训练数据安全风险，适合生信AI模型质控。"
+  },
+  {
+   "title": "MolX: A Geometric Foundation Model for Protein-Ligand Modelling",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.02.26.708362",
+   "doi": "10.64898/2026.02.26.708362",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-08-05",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "提出蛋白-配体几何foundation model，显式建模结合界面三维互作。",
+   "relevance_cn": "展示结构生物AI建模范式，可借鉴多模态分子表示设计。"
+  },
+  {
+   "title": "HERMES: Holographic Equivariant neuRal network model for Mutational Effect and Stability prediction",
+   "link": "https://www.biorxiv.org/content/10.1101/2024.07.09.602403",
+   "doi": "10.1101/2024.07.09.602403",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-08-05",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "提出结构等变模型HERMES，从局部原子环境预测突变效应和稳定性。",
+   "relevance_cn": "对蛋白变异解释和结构AI特征设计有方法学借鉴。"
+  },
+  {
+   "title": "Pretrained deep-learning ITS classifiers read the flanking regions, not the ITS2 barcode, and so fail on the amplicon that environmental fungal surveys sequence",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.07.29.741510",
+   "doi": "10.64898/2026.07.29.741510",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-08-04",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "基准测试发现真菌ITS深度模型依赖侧翼区域，难泛化到常用ITS2扩增子。",
+   "relevance_cn": "是序列AI模型数据泄漏与泛化评估的典型反例。"
+  },
+  {
+   "title": "UCtracker: A Deep Learning-Based DNA Methylation Model for Noninvasive Diagnosis and Recurrence Surveillance of Urothelial Carcinoma in a Prospective Study.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42545181/",
+   "doi": "10.1002/advs.76710",
    "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
-   "date": "2026 Aug 5",
+   "date": "2026 Aug 3",
    "_bucket": "ai_bioinfo",
    "priority": "🥈",
-   "summary_cn": "提出TSTScope整合单细胞多组学，识别可预测免疫治疗响应的T细胞状态。",
-   "relevance_cn": "单细胞多组学建模方法，对组学AI整合分析有参考价值。"
+   "summary_cn": "开发DNA甲基化深度学习模型UCtracker，并在前瞻性队列验证诊断和复发监测。",
+   "relevance_cn": "展示表观组学AI模型从标志物到临床验证的完整路径。"
   },
   {
-   "title": "TM-Vec 2s: Accelerated Protein Remote Homology Detection",
-   "link": "https://www.biorxiv.org/content/10.64898/2026.02.05.704073",
-   "doi": "10.64898/2026.02.05.704073",
-   "journal": "bioRxiv (preprint)",
-   "date": "2026-08-03",
-   "_bucket": "ai_bioinfo",
-   "priority": "🥈",
-   "summary_cn": "升级TM-Vec用于加速蛋白远缘同源检测，面向大规模序列功能注释瓶颈。",
-   "relevance_cn": "蛋白表征学习与检索框架，可借鉴到序列基础模型评估。"
-  },
-  {
-   "title": "PGST: A Prototype-Guided Parameter-Efficient Network for Spatial Transcriptomics Prediction.",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/41701590/",
-   "doi": "10.1109/JBHI.2026.3666148",
-   "journal": "IEEE journal of biomedical and health informatics",
-   "date": "2026 Aug",
-   "_bucket": "ai_bioinfo",
-   "priority": "🥈",
-   "summary_cn": "提出原型引导的参数高效网络PGST，用于空间转录组表达或特征预测。",
-   "relevance_cn": "贴近空间组学AI建模，适合关注多模态组学预测。"
-  },
-  {
-   "title": "What limits local ancestry inference at low divergence: a feasibility threshold, a metric that conceals failure, and a deficit of input more than architecture",
-   "link": "https://www.biorxiv.org/content/10.64898/2026.07.30.741148",
-   "doi": "10.64898/2026.07.30.741148",
-   "journal": "bioRxiv (preprint)",
-   "date": "2026-08-03",
-   "_bucket": "ai_bioinfo",
-   "priority": "🥈",
-   "summary_cn": "系统评测低分化场景局部祖源推断，指出输入信息不足比模型架构更限制性能。",
-   "relevance_cn": "是基因组AI benchmark范例，强调可行性边界与指标陷阱。"
-  },
-  {
-   "title": "Decoding splicing variants in high-throughput sequencing: a functional validation approach integrating deep learning tools.",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42362801/",
-   "doi": "10.1038/s41431-026-02162-2",
-   "journal": "European journal of human genetics : EJHG",
-   "date": "2026 Aug",
-   "_bucket": "ai_bioinfo",
-   "priority": "🥈",
-   "summary_cn": "结合深度学习工具与功能验证解析高通量测序中的剪接变异效应。",
-   "relevance_cn": "剪接变异AI解释与验证流程，对转录组变异分析有借鉴。"
-  },
-  {
-   "title": "Mul-PheG2P: decoupled learning and prediction-space fusion enables robust and interpretable multi-phenotype genomic prediction.",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42552668/",
-   "doi": "10.1111/nph.71461",
-   "journal": "The New phytologist",
+   "title": "Artificial intelligence-based diagnostic model for identifying PTPRZ1-MET fusion in a clinically defined secondary glioblastoma cohort.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42547688/",
+   "doi": "10.1186/s43556-026-00529-x",
+   "journal": "Molecular biomedicine",
    "date": "2026 Aug 4",
    "_bucket": "ai_application",
    "priority": "🥈",
-   "summary_cn": "提出Mul-PheG2P，通过解耦学习和预测空间融合实现多表型基因组预测。",
-   "relevance_cn": "落地的基因型到表型AI应用，兼顾鲁棒性与可解释性。"
+   "summary_cn": "构建AI诊断模型识别继发胶质母细胞瘤中的PTPRZ1-MET融合事件。",
+   "relevance_cn": "属于分子融合检测的AI落地应用，对生信诊断建模有借鉴。"
   },
   {
-   "title": "Population genomics reveals ginseng domestication and ginsenoside biosynthesis.",
-   "link": "https://pubmed.ncbi.nlm.nih.gov/42555637/",
-   "doi": "10.1073/pnas.2535250123",
-   "journal": "Proceedings of the National Academy of Sciences of the United States of America",
-   "date": "2026 Aug 11",
-   "_bucket": "ai_application",
-   "priority": "🥈",
-   "summary_cn": "利用群体基因组学解析人参驯化历史，并定位人参皂苷生物合成相关遗传基础。",
-   "relevance_cn": "高质量组学应用案例，可参考其群体基因组分析设计。"
+   "title": "m6A pathway suppression reprograms gene expression during the integrated stress response",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.08.05.742933",
+   "doi": "10.64898/2026.08.05.742933",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-08-05",
+   "_bucket": "core",
+   "priority": "🥉",
+   "summary_cn": "揭示ISR通过稳定含m6A转录本重塑表达谱，而非主要依赖转录激活。",
+   "relevance_cn": "深化m6A调控mRNA稳定性和应激转录组重编程机制理解。"
   }
  ],
- "no_core": true,
- "summary_zh": "今日无核心新方法论文；精选以单细胞/空间组学、蛋白序列学习、基因组预测与benchmark为主的AI生信论文。",
+ "no_core": false,
+ "summary_zh": "今日有1篇RNA编辑技术向核心论文，AI方向集中在空间组学大模型、基因组模型安全、结构AI与分子诊断应用。",
  "_meta": {
   "model": "gpt-5.5",
   "base_url": "https://api.tfclab-logan.xyz/v1",
-  "candidates_in": 84,
-  "papers_out": 7
+  "candidates_in": 98,
+  "papers_out": 9
  }
 }
