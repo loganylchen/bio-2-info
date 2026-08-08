@@ -1282,5 +1282,53 @@
   "title": "m6A pathway suppression reprograms gene expression during the integrated stress response",
   "doi": "10.64898/2026.08.05.742933",
   "link": "https://www.biorxiv.org/content/10.64898/2026.08.05.742933"
+ },
+ "doi:10.1016/j.cmpb.2026.109581": {
+  "date": "2026-08-08",
+  "title": "Meta-PseU: A meta-classifier for robust prediction of RNA pseudouridine modification sites from long sequences.",
+  "doi": "10.1016/j.cmpb.2026.109581",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42561589/"
+ },
+ "doi:10.64898/2026.08.04.742838": {
+  "date": "2026-08-08",
+  "title": "Tunable Expression of an AAV Payload Using ADAR-mediated RNA Editing",
+  "doi": "10.64898/2026.08.04.742838",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.08.04.742838"
+ },
+ "doi:10.1186/s13040-026-00582-w": {
+  "date": "2026-08-08",
+  "title": "Clifti-GPT: privacy-preserving federated fine-tuning and transferable inference of foundation models on clinical single-cell data.",
+  "doi": "10.1186/s13040-026-00582-w",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42557585/"
+ },
+ "doi:10.1093/bioinformatics/btag101": {
+  "date": "2026-08-08",
+  "title": "Literature-derived, context-aware gene regulatory networks improve biological predictions and mathematical modeling.",
+  "doi": "10.1093/bioinformatics/btag101",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/41746283/"
+ },
+ "doi:10.64898/2026.02.26.708362": {
+  "date": "2026-08-08",
+  "title": "MolX: A Geometric Foundation Model for Protein-Ligand Modelling",
+  "doi": "10.64898/2026.02.26.708362",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.02.26.708362"
+ },
+ "doi:10.1080/1062936x.2026.2709353": {
+  "date": "2026-08-08",
+  "title": "An integrated deep learning and molecular dynamics pipeline for the discovery of novel CDK8 inhibitors against acute myeloid leukaemia.",
+  "doi": "10.1080/1062936X.2026.2709353",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42565435/"
+ },
+ "doi:10.1186/s40104-026-01473-0": {
+  "date": "2026-08-08",
+  "title": "Integrating landscape genomics and machine learning to analyze the genetic structure and specific molecular markers of Chinese dairy goats (Capra hircus).",
+  "doi": "10.1186/s40104-026-01473-0",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42557580/"
+ },
+ "doi:10.1038/s41392-026-02880-5": {
+  "date": "2026-08-08",
+  "title": "RNA methyltransferase 3 drives pancreatic acinar cell carcinoma growth and is a therapeutic target.",
+  "doi": "10.1038/s41392-026-02880-5",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42562816/"
  }
 }

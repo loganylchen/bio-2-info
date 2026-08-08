@@ -1,0 +1,101 @@
+{
+ "date": "2026-08-08",
+ "papers": [
+  {
+   "title": "Meta-PseU: A meta-classifier for robust prediction of RNA pseudouridine modification sites from long sequences.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42561589/",
+   "doi": "10.1016/j.cmpb.2026.109581",
+   "journal": "Computer methods and programs in biomedicine",
+   "date": "2026 Aug 1",
+   "_bucket": "rna_mod",
+   "priority": "🥇",
+   "summary_cn": "提出Meta-PseU元分类器，用于长RNA序列中Ψ位点稳健预测。",
+   "relevance_cn": "直接服务假尿苷位点计算检测与模型基线比较。"
+  },
+  {
+   "title": "Tunable Expression of an AAV Payload Using ADAR-mediated RNA Editing",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.08.04.742838",
+   "doi": "10.64898/2026.08.04.742838",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-08-05",
+   "_bucket": "core",
+   "priority": "🥇",
+   "summary_cn": "构建ADAR介导RNA编辑开关，实现AAV转基因表达的可调控开启。",
+   "relevance_cn": "展示RNA编辑工程化调控策略，拓展表观转录组应用。"
+  },
+  {
+   "title": "Clifti-GPT: privacy-preserving federated fine-tuning and transferable inference of foundation models on clinical single-cell data.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42557585/",
+   "doi": "10.1186/s13040-026-00582-w",
+   "journal": "BioData mining",
+   "date": "2026 Aug 5",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "提出Clifti-GPT，在临床单细胞数据上做联邦微调和可迁移推断。",
+   "relevance_cn": "对单细胞基础模型隐私训练与跨队列泛化有借鉴。"
+  },
+  {
+   "title": "Literature-derived, context-aware gene regulatory networks improve biological predictions and mathematical modeling.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/41746283/",
+   "doi": "10.1093/bioinformatics/btag101",
+   "journal": "Bioinformatics (Oxford, England)",
+   "date": "2026 Aug 3",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "从文献抽取上下文感知GRN，提升生物预测和数学建模效果。",
+   "relevance_cn": "体现LLM/文本知识注入组学网络建模的实用路线。"
+  },
+  {
+   "title": "MolX: A Geometric Foundation Model for Protein-Ligand Modelling",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.02.26.708362",
+   "doi": "10.64898/2026.02.26.708362",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-08-05",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "提出蛋白-配体几何基础模型，联合建模界面三维空间互作。",
+   "relevance_cn": "代表结构生物AI基础模型，可启发分子互作建模。"
+  },
+  {
+   "title": "An integrated deep learning and molecular dynamics pipeline for the discovery of novel CDK8 inhibitors against acute myeloid leukaemia.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42565435/",
+   "doi": "10.1080/1062936X.2026.2709353",
+   "journal": "SAR and QSAR in environmental research",
+   "date": "2026 Aug 7",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "整合深度学习筛选与分子动力学验证，发现潜在CDK8抑制剂。",
+   "relevance_cn": "是AI+MD药物发现落地流程，可借鉴其验证闭环。"
+  },
+  {
+   "title": "Integrating landscape genomics and machine learning to analyze the genetic structure and specific molecular markers of Chinese dairy goats (Capra hircus).",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42557580/",
+   "doi": "10.1186/s40104-026-01473-0",
+   "journal": "Journal of animal science and biotechnology",
+   "date": "2026 Aug 6",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "结合景观基因组学与机器学习解析奶山羊遗传结构和特异标记。",
+   "relevance_cn": "提供ML用于群体基因组标记挖掘的组学应用范例。"
+  },
+  {
+   "title": "RNA methyltransferase 3 drives pancreatic acinar cell carcinoma growth and is a therapeutic target.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42562816/",
+   "doi": "10.1038/s41392-026-02880-5",
+   "journal": "Signal transduction and targeted therapy",
+   "date": "2026 Aug 6",
+   "_bucket": "rna_mod",
+   "priority": "🥉",
+   "summary_cn": "报道METTL3驱动胰腺腺泡细胞癌生长，并验证其治疗靶点潜力。",
+   "relevance_cn": "高影响RNA修饰疾病机制，可关注靶点转化价值。"
+  }
+ ],
+ "no_core": false,
+ "summary_zh": "今日核心以Ψ位点预测和ADAR编辑开关为主，AI侧覆盖单细胞基础模型、知识驱动GRN、结构模型与药物/基因组应用。",
+ "_meta": {
+  "model": "gpt-5.5",
+  "base_url": "https://api.tfclab-logan.xyz/v1",
+  "candidates_in": 94,
+  "papers_out": 8
+ }
+}
