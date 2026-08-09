@@ -1330,5 +1330,53 @@
   "title": "RNA methyltransferase 3 drives pancreatic acinar cell carcinoma growth and is a therapeutic target.",
   "doi": "10.1038/s41392-026-02880-5",
   "link": "https://pubmed.ncbi.nlm.nih.gov/42562816/"
+ },
+ "doi:10.1016/j.xgen.2026.101329": {
+  "date": "2026-08-09",
+  "title": "PlantCAD2: A DNA foundation model for interpreting genomes across flowering plants.",
+  "doi": "10.1016/j.xgen.2026.101329",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42567165/"
+ },
+ "doi:10.1016/j.xgen.2026.101328": {
+  "date": "2026-08-09",
+  "title": "scXpand: Pan-cancer detection of T cell clonal expansion from single-cell RNA sequencing without paired single-cell TCR sequencing.",
+  "doi": "10.1016/j.xgen.2026.101328",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42567166/"
+ },
+ "doi:10.64898/2026.07.31.741265": {
+  "date": "2026-08-09",
+  "title": "Multi-modal foundation model with whole-slide attention enables transferrable digital pathology at single-cell resolution",
+  "doi": "10.64898/2026.07.31.741265",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.07.31.741265"
+ },
+ "doi:10.64898/2026.08.03.739553": {
+  "date": "2026-08-09",
+  "title": "Benchmarking single-cell foundation models in a zero-shot setting",
+  "doi": "10.64898/2026.08.03.739553",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.08.03.739553"
+ },
+ "doi:10.64898/2026.08.04.732812": {
+  "date": "2026-08-09",
+  "title": "A confound-diagnostic toolkit for in silico perturbation with single-cell foundation models",
+  "doi": "10.64898/2026.08.04.732812",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.08.04.732812"
+ },
+ "doi:10.64898/2026.08.03.742406": {
+  "date": "2026-08-09",
+  "title": "REFCON: Reference-free and robust copy number inference in single-cell tumor transcriptomes",
+  "doi": "10.64898/2026.08.03.742406",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.08.03.742406"
+ },
+ "doi:10.64898/2026.08.03.742524": {
+  "date": "2026-08-09",
+  "title": "RiboRep: Replicate-Aware Cross-Modal Transformers for Codon-Resolved Ribosome Density Prediction",
+  "doi": "10.64898/2026.08.03.742524",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.08.03.742524"
+ },
+ "doi:10.64898/2026.08.03.742514": {
+  "date": "2026-08-09",
+  "title": "AI semantics for biomedical data integration",
+  "doi": "10.64898/2026.08.03.742514",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.08.03.742514"
  }
 }
