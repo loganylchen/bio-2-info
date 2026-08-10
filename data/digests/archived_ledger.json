@@ -593,5 +593,45 @@
   "date": "2026-08-09",
   "pdf": false,
   "title": "AI semantics for biomedical data integration"
+ },
+ "doi:10.64898/2026.01.20.700456": {
+  "date": "2026-08-10",
+  "pdf": false,
+  "title": "Optimizing broadly neutralizing antibodies via all-atom interaction modeling and pre-trained language models"
+ },
+ "doi:10.64898/2026.08.04.740855": {
+  "date": "2026-08-10",
+  "pdf": false,
+  "title": "Safety First: Input Screening for Protein Design Tools"
+ },
+ "doi:10.1038/s41573-026-01496-2": {
+  "date": "2026-08-10",
+  "pdf": false,
+  "title": "Artificial intelligence in drug discovery - what it is, where we stand and the path forward."
+ },
+ "doi:10.1186/s40104-026-01476-x": {
+  "date": "2026-08-10",
+  "pdf": false,
+  "title": "Integrating multi-layer perceptron and random forest in an ensemble framework for improved genomic prediction accuracy and SHAP-derived interpretability of residual feed intake in cattle."
+ },
+ "doi:10.1186/s43556-026-00497-2": {
+  "date": "2026-08-10",
+  "pdf": false,
+  "title": "Integrative cfDNA profiling from low-pass whole-genome sequencing enables tissue-of-origin prediction in cancer."
+ },
+ "doi:10.1002/advs.76710": {
+  "date": "2026-08-10",
+  "pdf": false,
+  "title": "UCtracker: A Deep Learning-Based DNA Methylation Model for Noninvasive Diagnosis and Recurrence Surveillance of Urothelial Carcinoma in a Prospective Study."
+ },
+ "doi:10.1136/gutjnl-2025-336541": {
+  "date": "2026-08-10",
+  "pdf": false,
+  "title": "NSUN6 deficiency drives immune suppression in pancreatic cancer via the KDM5A-CCL2-macrophage axis."
+ },
+ "doi:10.1038/s41388-026-03933-3": {
+  "date": "2026-08-10",
+  "pdf": false,
+  "title": "IGF2BP3-mediated regulation of the RNA isoform and modification landscape in pancreatic cancer."
  }
 }
