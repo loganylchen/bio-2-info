@@ -1,0 +1,90 @@
+{
+ "date": "2026-08-11",
+ "papers": [
+  {
+   "title": "Mandatory use of mock communities highlighted by the descriptive comparison of Epi2Me 16S and EMU bioinformatic workflows for full-length 16S rRNA Nanopore sequencing.",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.08.04.742759",
+   "doi": "10.64898/2026.08.04.742759",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-08-09",
+   "_bucket": "core",
+   "priority": "🥇",
+   "summary_cn": "比较 Epi2Me 16S 与 EMU 处理全长16S纳米孔数据，强调mock质控必要性。",
+   "relevance_cn": "直接涉及Nanopore长读长分析流程评测与质控。"
+  },
+  {
+   "title": "Verification of nanopore sequencing technology for clinical carbapenem-resistant Enterobacterales surveillance",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.08.04.742736",
+   "doi": "10.64898/2026.08.04.742736",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-08-09",
+   "_bucket": "core",
+   "priority": "🥇",
+   "summary_cn": "验证纳米孔WGS用于CRE监测，可解析耐药基因、质粒背景与传播事件。",
+   "relevance_cn": "有助于借鉴Nanopore临床级流程验证框架。"
+  },
+  {
+   "title": "Nanopore-based sequence deconvolution of diverse glycosaminoglycans",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.08.08.743666",
+   "doi": "10.64898/2026.08.08.743666",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-08-10",
+   "_bucket": "core",
+   "priority": "🥇",
+   "summary_cn": "提出纳米孔单分子策略，对复杂GAG寡糖进行分辨、计数与序列解卷积。",
+   "relevance_cn": "展示非核酸纳米孔信号解卷积的新思路。"
+  },
+  {
+   "title": "GSSCMI: Efficient Co-Attention and Multimodal Contrastive Learning for Enhanced circRNA-miRNA Interaction Prediction.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42574408/",
+   "doi": "10.1109/JBHI.2026.3721951",
+   "journal": "IEEE journal of biomedical and health informatics",
+   "date": "2026 Aug 10",
+   "_bucket": "rna_mod",
+   "priority": "🥇",
+   "summary_cn": "构建协同注意力与多模态对比学习模型，提升circRNA-miRNA互作预测。",
+   "relevance_cn": "可借鉴于RNA序列互作与修饰位点建模。"
+  },
+  {
+   "title": "Biasing Conformational Sampling in AlphaFold 3 and Boltz-2 via Pair Representation Scaling",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.01.23.701250",
+   "doi": "10.64898/2026.01.23.701250",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-08-09",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "提出推理时缩放pair representation，无需重训即可偏置AF3/Boltz-2构象采样。",
+   "relevance_cn": "体现结构生成模型可控推理的实用技巧。"
+  },
+  {
+   "title": "Decoding Prokaryotic Whole Genomes with a Product-Contextualized Large Language Model",
+   "link": "https://www.biorxiv.org/content/10.64898/2025.12.03.692003",
+   "doi": "10.64898/2025.12.03.692003",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-08-09",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "提出GenSyntax，将基因产物描述作为语义单元建模原核全基因组功能上下文。",
+   "relevance_cn": "代表基因组foundation model从序列到功能语义的扩展。"
+  },
+  {
+   "title": "Scalable and Generalizable Analog Design via Learning Medicinal Chemistry Intuition from Matched Molecular Pair Transformations.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42573396/",
+   "doi": "10.1021/acs.jcim.6c01032",
+   "journal": "Journal of chemical information and modeling",
+   "date": "2026 Aug 10",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "从匹配分子对转换中学习药化直觉，实现可扩展且泛化的分子类似物设计。",
+   "relevance_cn": "是AI在分子设计落地应用的可借鉴案例。"
+  }
+ ],
+ "no_core": false,
+ "summary_zh": "今日核心以Nanopore流程评测、临床验证和单分子解卷积为主，AI方向覆盖结构模型控制、基因组LLM与分子设计应用。",
+ "_meta": {
+  "model": "gpt-5.5",
+  "base_url": "https://api.tfclab-logan.xyz/v1",
+  "candidates_in": 77,
+  "papers_out": 7
+ }
+}

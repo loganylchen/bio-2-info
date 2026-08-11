@@ -1426,5 +1426,47 @@
   "title": "IGF2BP3-mediated regulation of the RNA isoform and modification landscape in pancreatic cancer.",
   "doi": "10.1038/s41388-026-03933-3",
   "link": "https://pubmed.ncbi.nlm.nih.gov/42567885/"
+ },
+ "doi:10.64898/2026.08.04.742759": {
+  "date": "2026-08-11",
+  "title": "Mandatory use of mock communities highlighted by the descriptive comparison of Epi2Me 16S and EMU bioinformatic workflows for full-length 16S rRNA Nanopore sequencing.",
+  "doi": "10.64898/2026.08.04.742759",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.08.04.742759"
+ },
+ "doi:10.64898/2026.08.04.742736": {
+  "date": "2026-08-11",
+  "title": "Verification of nanopore sequencing technology for clinical carbapenem-resistant Enterobacterales surveillance",
+  "doi": "10.64898/2026.08.04.742736",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.08.04.742736"
+ },
+ "doi:10.64898/2026.08.08.743666": {
+  "date": "2026-08-11",
+  "title": "Nanopore-based sequence deconvolution of diverse glycosaminoglycans",
+  "doi": "10.64898/2026.08.08.743666",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.08.08.743666"
+ },
+ "doi:10.1109/jbhi.2026.3721951": {
+  "date": "2026-08-11",
+  "title": "GSSCMI: Efficient Co-Attention and Multimodal Contrastive Learning for Enhanced circRNA-miRNA Interaction Prediction.",
+  "doi": "10.1109/JBHI.2026.3721951",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42574408/"
+ },
+ "doi:10.64898/2026.01.23.701250": {
+  "date": "2026-08-11",
+  "title": "Biasing Conformational Sampling in AlphaFold 3 and Boltz-2 via Pair Representation Scaling",
+  "doi": "10.64898/2026.01.23.701250",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.01.23.701250"
+ },
+ "doi:10.64898/2025.12.03.692003": {
+  "date": "2026-08-11",
+  "title": "Decoding Prokaryotic Whole Genomes with a Product-Contextualized Large Language Model",
+  "doi": "10.64898/2025.12.03.692003",
+  "link": "https://www.biorxiv.org/content/10.64898/2025.12.03.692003"
+ },
+ "doi:10.1021/acs.jcim.6c01032": {
+  "date": "2026-08-11",
+  "title": "Scalable and Generalizable Analog Design via Learning Medicinal Chemistry Intuition from Matched Molecular Pair Transformations.",
+  "doi": "10.1021/acs.jcim.6c01032",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42573396/"
  }
 }
