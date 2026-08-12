@@ -668,5 +668,45 @@
   "date": "2026-08-11",
   "pdf": false,
   "title": "Scalable and Generalizable Analog Design via Learning Medicinal Chemistry Intuition from Matched Molecular Pair Transformations."
+ },
+ "doi:10.1038/s44319-026-00840-2": {
+  "date": "2026-08-12",
+  "pdf": false,
+  "title": "Validation of the mRNA epitranscriptome: SCARPET reveals that mapped m(1)A sites are inosine."
+ },
+ "doi:10.64898/2026.08.10.743918": {
+  "date": "2026-08-12",
+  "pdf": false,
+  "title": "Integrated sequencing approach to probe rRNA modification landscape during human embryonic stem cell differentiation"
+ },
+ "doi:10.64898/2026.08.09.743773": {
+  "date": "2026-08-12",
+  "pdf": false,
+  "title": "Pseudouridines in the U2 Branch Site Recognition Region Differentially Contribute to Branch Site Recognition during Pre-mRNA Splicing"
+ },
+ "doi:10.64898/2026.02.19.706811": {
+  "date": "2026-08-12",
+  "pdf": false,
+  "title": "GFMBench-API: A Standardized Interface for Benchmarking Genomic Foundation Models"
+ },
+ "doi:10.1101/2025.06.28.662167": {
+  "date": "2026-08-12",
+  "pdf": false,
+  "title": "Spliformer-V2 enables multi-tissue prediction and interpretation of splice-altering genetic variants"
+ },
+ "doi:10.1101/gr.281341.125": {
+  "date": "2026-08-12",
+  "pdf": false,
+  "title": "High-accuracy SNV calling for bacterial isolates using deep learning with AccuSNV."
+ },
+ "doi:10.1093/genetics/iyag204": {
+  "date": "2026-08-12",
+  "pdf": false,
+  "title": "Structured Multimodal Deep Learning improves Genomic Prediction in Future Environments."
+ },
+ "doi:10.1038/s41576-026-00992-w": {
+  "date": "2026-08-12",
+  "pdf": false,
+  "title": "AI-based multimodal integration of genomics and electronic health records."
  }
 }
