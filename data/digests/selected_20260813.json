@@ -1,0 +1,90 @@
+{
+ "date": "2026-08-13",
+ "papers": [
+  {
+   "title": "Quantitative single-base m(6)A profiling reveals dynamic reprogramming, evolutionary conservation and transcriptional regulation in bacteria.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42585022/",
+   "doi": "10.1016/j.celrep.2026.117831",
+   "journal": "Cell reports",
+   "date": "2026 Aug 12",
+   "_bucket": "rna_mod",
+   "priority": "🥇",
+   "summary_cn": "建立细菌单碱基定量m6A图谱，解析动态重编程、保守性与转录调控。",
+   "relevance_cn": "直接关联RNA修饰位点检测与定量图谱构建。"
+  },
+  {
+   "title": "Iterative Self-Supervised Signal Curation Enables High-Fidelity Peptide Profiling in Parallel Nanopore Sensing.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42581496/",
+   "doi": "10.1002/smtd.70949",
+   "journal": "Small methods",
+   "date": "2026 Aug 11",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "提出迭代自监督信号清洗策略，提升并行纳米孔肽段谱分析保真度。",
+   "relevance_cn": "对纳米孔原始信号降噪和事件识别有借鉴价值。"
+  },
+  {
+   "title": "Generalizable cancer detection from ultra-low-pass WGS via deep contextual modeling of cfDNA sequences.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42584731/",
+   "doi": "10.1186/s43556-026-00538-w",
+   "journal": "Molecular biomedicine",
+   "date": "2026 Aug 12",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "用深度上下文模型从超低深度WGS cfDNA序列实现泛化癌症检测。",
+   "relevance_cn": "展示序列基础模型在低信号组学任务中的应用。"
+  },
+  {
+   "title": "Using the DNA language model, GROVER, to parse effects of sequence, chromatin and regulatory features on genome stability.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42581590/",
+   "doi": "10.1093/bioinformatics/btag602",
+   "journal": "Bioinformatics (Oxford, England)",
+   "date": "2026 Aug 11",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "应用DNA语言模型GROVER解析序列、染色质与调控特征对基因组稳定性的影响。",
+   "relevance_cn": "是序列语言模型落地解释基因组功能的好范例。"
+  },
+  {
+   "title": "HyperMolFusion: A Hypergraph-Enhanced Multi-Modal Fusion Framework for Accurate Molecular Property Prediction.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42585048/",
+   "doi": "10.1109/JBHI.2026.3719870",
+   "journal": "IEEE journal of biomedical and health informatics",
+   "date": "2026 Aug 12",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "提出超图增强的多模态融合框架，用于更准确的分子性质预测。",
+   "relevance_cn": "可借鉴其多模态图学习建模分子与组学特征。"
+  },
+  {
+   "title": "Mechanosensitive Endothelial METTL7A Regulates Internal m(7)G mRNA Methylation and Protects Against Atherosclerosis.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42578282/",
+   "doi": "10.1161/CIRCULATIONAHA.125.075682",
+   "journal": "Circulation",
+   "date": "2026 Aug 11",
+   "_bucket": "rna_mod",
+   "priority": "🥉",
+   "summary_cn": "揭示机械敏感内皮METTL7A调控mRNA内部m7G甲基化并保护动脉粥样硬化。",
+   "relevance_cn": "拓展m7G表观转录组在血管疾病中的机制认识。"
+  },
+  {
+   "title": "Selective recruitment of NAT10-catalyzed ac(4)C-modified mRNAs into stress granules by poly(A)-binding protein promotes mRNA stability and plant heat stress tolerance.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42576382/",
+   "doi": "10.1016/j.molp.2026.08.004",
+   "journal": "Molecular plant",
+   "date": "2026 Aug 10",
+   "_bucket": "rna_mod",
+   "priority": "🥉",
+   "summary_cn": "发现PAB蛋白选择性招募NAT10催化的ac4C mRNA进入胁迫颗粒以稳定转录本。",
+   "relevance_cn": "提供ac4C修饰影响RNA命运与应激响应的机制线索。"
+  }
+ ],
+ "no_core": false,
+ "summary_zh": "今日核心亮点是单碱基m6A定量图谱，AI部分侧重纳米孔信号自监督、DNA语言模型与分子图学习应用。",
+ "_meta": {
+  "model": "gpt-5.5",
+  "base_url": "https://api.tfclab-logan.xyz/v1",
+  "candidates_in": 57,
+  "papers_out": 7
+ }
+}

@@ -1516,5 +1516,47 @@
   "title": "AI-based multimodal integration of genomics and electronic health records.",
   "doi": "10.1038/s41576-026-00992-w",
   "link": "https://pubmed.ncbi.nlm.nih.gov/42576006/"
+ },
+ "doi:10.1016/j.celrep.2026.117831": {
+  "date": "2026-08-13",
+  "title": "Quantitative single-base m(6)A profiling reveals dynamic reprogramming, evolutionary conservation and transcriptional regulation in bacteria.",
+  "doi": "10.1016/j.celrep.2026.117831",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42585022/"
+ },
+ "doi:10.1002/smtd.70949": {
+  "date": "2026-08-13",
+  "title": "Iterative Self-Supervised Signal Curation Enables High-Fidelity Peptide Profiling in Parallel Nanopore Sensing.",
+  "doi": "10.1002/smtd.70949",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42581496/"
+ },
+ "doi:10.1186/s43556-026-00538-w": {
+  "date": "2026-08-13",
+  "title": "Generalizable cancer detection from ultra-low-pass WGS via deep contextual modeling of cfDNA sequences.",
+  "doi": "10.1186/s43556-026-00538-w",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42584731/"
+ },
+ "doi:10.1093/bioinformatics/btag602": {
+  "date": "2026-08-13",
+  "title": "Using the DNA language model, GROVER, to parse effects of sequence, chromatin and regulatory features on genome stability.",
+  "doi": "10.1093/bioinformatics/btag602",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42581590/"
+ },
+ "doi:10.1109/jbhi.2026.3719870": {
+  "date": "2026-08-13",
+  "title": "HyperMolFusion: A Hypergraph-Enhanced Multi-Modal Fusion Framework for Accurate Molecular Property Prediction.",
+  "doi": "10.1109/JBHI.2026.3719870",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42585048/"
+ },
+ "doi:10.1161/circulationaha.125.075682": {
+  "date": "2026-08-13",
+  "title": "Mechanosensitive Endothelial METTL7A Regulates Internal m(7)G mRNA Methylation and Protects Against Atherosclerosis.",
+  "doi": "10.1161/CIRCULATIONAHA.125.075682",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42578282/"
+ },
+ "doi:10.1016/j.molp.2026.08.004": {
+  "date": "2026-08-13",
+  "title": "Selective recruitment of NAT10-catalyzed ac(4)C-modified mRNAs into stress granules by poly(A)-binding protein promotes mRNA stability and plant heat stress tolerance.",
+  "doi": "10.1016/j.molp.2026.08.004",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42576382/"
  }
 }
