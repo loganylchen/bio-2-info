@@ -743,5 +743,40 @@
   "date": "2026-08-13",
   "pdf": false,
   "title": "Selective recruitment of NAT10-catalyzed ac(4)C-modified mRNAs into stress granules by poly(A)-binding protein promotes mRNA stability and plant heat stress tolerance."
+ },
+ "doi:10.1038/s41587-026-03261-7": {
+  "date": "2026-08-14",
+  "pdf": false,
+  "title": "Mechanistic machine learning for prediction of prime editing outcomes."
+ },
+ "doi:10.1371/journal.pone.0354669": {
+  "date": "2026-08-14",
+  "pdf": false,
+  "title": "Drug sensitivity prediction across cancer types using graph isomorphism networks and biological pathway features: A dual-branch deep learning approach."
+ },
+ "doi:10.1021/acs.jcim.6c01061": {
+  "date": "2026-08-14",
+  "pdf": false,
+  "title": "Deep Learning-Driven Anticancer Drug Discovery: Emodepside as a Potential Therapeutic Candidate for Triple-Negative Breast Cancer."
+ },
+ "doi:10.1007/s11030-026-11692-2": {
+  "date": "2026-08-14",
+  "pdf": false,
+  "title": "Multimodal deep learning with a joint uncertainty quantification scheme for drug-target interaction prediction."
+ },
+ "doi:10.1038/s41588-026-02692-x": {
+  "date": "2026-08-14",
+  "pdf": false,
+  "title": "Prevalence and chronology of colibactin-associated mutational processes and their microbiome spectra in Japanese colorectal cancer."
+ },
+ "doi:10.1002/advs.77094": {
+  "date": "2026-08-14",
+  "pdf": false,
+  "title": "Livestock Multi-Omics Integration: A Systematic Framework From Statistical Association to Causal Interpretation."
+ },
+ "doi:10.1016/j.xplc.2026.101817": {
+  "date": "2026-08-14",
+  "pdf": false,
+  "title": "Ncl1-dependent m(5)C RNA methylation promotes appressorial autophagy and pathogenicity in the rice blast fungus."
  }
 }

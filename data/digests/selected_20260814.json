@@ -1,0 +1,90 @@
+{
+ "date": "2026-08-14",
+ "papers": [
+  {
+   "title": "Mechanistic machine learning for prediction of prime editing outcomes.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42587136/",
+   "doi": "10.1038/s41587-026-03261-7",
+   "journal": "Nature biotechnology",
+   "date": "2026 Aug 12",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "提出机制驱动机器学习模型，预测prime editing产物与效率。",
+   "relevance_cn": "顶刊基因编辑AI范例，可借鉴序列建模与机制特征融合。"
+  },
+  {
+   "title": "Drug sensitivity prediction across cancer types using graph isomorphism networks and biological pathway features: A dual-branch deep learning approach.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42579673/",
+   "doi": "10.1371/journal.pone.0354669",
+   "journal": "PloS one",
+   "date": "2026",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "构建GIN与通路特征双分支模型，跨癌种预测药物敏感性。",
+   "relevance_cn": "体现图神经网络结合组学通路特征的生信建模思路。"
+  },
+  {
+   "title": "Deep Learning-Driven Anticancer Drug Discovery: Emodepside as a Potential Therapeutic Candidate for Triple-Negative Breast Cancer.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42486779/",
+   "doi": "10.1021/acs.jcim.6c01061",
+   "journal": "Journal of chemical information and modeling",
+   "date": "2026 Aug 10",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "用深度学习药物发现流程筛出emodepside作为TNBC候选药物。",
+   "relevance_cn": "JCIM药物AI案例，适合参考分子表征与筛选pipeline。"
+  },
+  {
+   "title": "Multimodal deep learning with a joint uncertainty quantification scheme for drug-target interaction prediction.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42584520/",
+   "doi": "10.1007/s11030-026-11692-2",
+   "journal": "Molecular diversity",
+   "date": "2026 Aug 12",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "提出带联合不确定性量化的多模态深度学习DTI预测框架。",
+   "relevance_cn": "对生物序列/分子多模态建模与可信预测有借鉴价值。"
+  },
+  {
+   "title": "Prevalence and chronology of colibactin-associated mutational processes and their microbiome spectra in Japanese colorectal cancer.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42576026/",
+   "doi": "10.1038/s41588-026-02692-x",
+   "journal": "Nature genetics",
+   "date": "2026 Aug 10",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "解析日本结直肠癌中colibactin相关突变过程及微生物组谱。",
+   "relevance_cn": "顶刊癌症基因组与微生物组整合分析，方法学参考价值高。"
+  },
+  {
+   "title": "Livestock Multi-Omics Integration: A Systematic Framework From Statistical Association to Causal Interpretation.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42584423/",
+   "doi": "10.1002/advs.77094",
+   "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+   "date": "2026 Aug 12",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "综述畜牧多组学整合框架，从统计关联推进到因果解释。",
+   "relevance_cn": "多组学因果整合框架可迁移到转录组与修饰组分析。"
+  },
+  {
+   "title": "Ncl1-dependent m(5)C RNA methylation promotes appressorial autophagy and pathogenicity in the rice blast fungus.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/41821317/",
+   "doi": "10.1016/j.xplc.2026.101817",
+   "journal": "Plant communications",
+   "date": "2026 Aug 10",
+   "_bucket": "rna_mod",
+   "priority": "🥉",
+   "summary_cn": "揭示Ncl1依赖m5C RNA甲基化促进附着胞自噬与稻瘟菌致病性。",
+   "relevance_cn": "提供m5C功能机制案例，可关注其修饰检测与验证策略。"
+  }
+ ],
+ "no_core": true,
+ "summary_zh": "今日无核心新方法论文；精选以AI基因编辑、药物发现、多组学应用为主，并补充一篇m5C机制研究。",
+ "_meta": {
+  "model": "gpt-5.5",
+  "base_url": "https://api.tfclab-logan.xyz/v1",
+  "candidates_in": 53,
+  "papers_out": 7
+ }
+}
