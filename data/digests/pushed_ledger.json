@@ -1600,5 +1600,47 @@
   "title": "Ncl1-dependent m(5)C RNA methylation promotes appressorial autophagy and pathogenicity in the rice blast fungus.",
   "doi": "10.1016/j.xplc.2026.101817",
   "link": "https://pubmed.ncbi.nlm.nih.gov/41821317/"
+ },
+ "doi:10.1371/journal.pcbi.1014649": {
+  "date": "2026-08-15",
+  "title": "Structure-aware deep learning enhances m6A prediction and reveals cell type-associated RNA structural signatures.",
+  "doi": "10.1371/journal.pcbi.1014649",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42599984/"
+ },
+ "doi:10.1371/journal.pcbi.1014607": {
+  "date": "2026-08-15",
+  "title": "scKanFormer: A Transformer-KAN framework with biologically informed attention for cell type annotation in large-scale scRNA-seq data.",
+  "doi": "10.1371/journal.pcbi.1014607",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42599963/"
+ },
+ "doi:10.1093/bioinformatics/btag611": {
+  "date": "2026-08-15",
+  "title": "Hierarchical Discrete Representations for Coarse-to-Fine Protein Conformation Generation.",
+  "doi": "10.1093/bioinformatics/btag611",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42599200/"
+ },
+ "doi:10.1016/j.crmeth.2026.101549": {
+  "date": "2026-08-15",
+  "title": "Modeling microbiome modulation of tumor metabolic networks to predict synergistic therapies.",
+  "doi": "10.1016/j.crmeth.2026.101549",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42594868/"
+ },
+ "doi:10.34133/csbj.0190": {
+  "date": "2026-08-15",
+  "title": "Predicting Strain-Specific Metabolic Capabilities in the Genus Pseudomonas with a Flux-to-AI Approach Reveals Hidden Cell Envelope Properties.",
+  "doi": "10.34133/csbj.0190",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42597399/"
+ },
+ "doi:10.1007/s10822-026-00917-z": {
+  "date": "2026-08-15",
+  "title": "Targeting WEE1 kinase: an integrated machine learning-cheminformatics framework for ultra-large-scale virtual screening and novel inhibitor discovery.",
+  "doi": "10.1007/s10822-026-00917-z",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42599595/"
+ },
+ "doi:10.1161/circresaha.126.327339": {
+  "date": "2026-08-15",
+  "title": "WTAP Deficiency Promotes Podocyte PANoptosis and FSGS via SPP1 Signaling.",
+  "doi": "10.1161/CIRCRESAHA.126.327339",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42411285/"
  }
 }
