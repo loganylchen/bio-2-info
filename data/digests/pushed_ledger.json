@@ -1642,5 +1642,47 @@
   "title": "WTAP Deficiency Promotes Podocyte PANoptosis and FSGS via SPP1 Signaling.",
   "doi": "10.1161/CIRCRESAHA.126.327339",
   "link": "https://pubmed.ncbi.nlm.nih.gov/42411285/"
+ },
+ "doi:10.1093/nargab/lqag092": {
+  "date": "2026-08-16",
+  "title": "Integrating heterogeneity into topologically associating domain boundary prediction in large genomic context in human.",
+  "doi": "10.1093/nargab/lqag092",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42602395/"
+ },
+ "doi:10.34133/csbj.0206": {
+  "date": "2026-08-16",
+  "title": "UNKAI: A Protein Functional Identity Prediction Model Based on ESM-C Latent Representations and the Attention Mechanism.",
+  "doi": "10.34133/csbj.0206",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42602309/"
+ },
+ "doi:10.1016/j.compbiomed.2026.111843": {
+  "date": "2026-08-16",
+  "title": "An AI-driven deep learning pipeline for taxonomic classification and biodiversity assessment of deep-sea environmental DNA.",
+  "doi": "10.1016/j.compbiomed.2026.111843",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42391735/"
+ },
+ "doi:10.1016/j.compbiolchem.2026.109325": {
+  "date": "2026-08-16",
+  "title": "Mitochondrial RNA modification in colorectal cancer: From single-cell analysis to machine learning-based risk modeling.",
+  "doi": "10.1016/j.compbiolchem.2026.109325",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42600521/"
+ },
+ "doi:10.1096/fj.202600755rrr": {
+  "date": "2026-08-16",
+  "title": "CPTCs Drive Somatic-Visceral Communication via the Wnt Axis in Somatic Mechanotherapy: A Single-Cell Deep Learning Study.",
+  "doi": "10.1096/fj.202600755RRR",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42570318/"
+ },
+ "doi:10.1016/j.compbiomed.2026.111826": {
+  "date": "2026-08-16",
+  "title": "Integrating stemness and epithelial-mesenchymal transition signatures with machine learning identifies RUNX1 as a therapeutic vulnerability in colorectal cancer.",
+  "doi": "10.1016/j.compbiomed.2026.111826",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42372471/"
+ },
+ "doi:10.1111/all.70476": {
+  "date": "2026-08-16",
+  "title": "m6A-Related Regulation of Ferroptosis Contributes to Nasal Epithelial Barrier Dysfunction in Allergic Rhinitis.",
+  "doi": "10.1111/all.70476",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42572166/"
  }
 }

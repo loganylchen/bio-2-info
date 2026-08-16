@@ -1,0 +1,90 @@
+{
+ "date": "2026-08-16",
+ "papers": [
+  {
+   "title": "Integrating heterogeneity into topologically associating domain boundary prediction in large genomic context in human.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42602395/",
+   "doi": "10.1093/nargab/lqag092",
+   "journal": "NAR genomics and bioinformatics",
+   "date": "2026 Sep",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "提出整合异质性的长上下文人类TAD边界预测模型，提升基因组结构识别。",
+   "relevance_cn": "可借鉴于长序列建模与调控组学AI分析。"
+  },
+  {
+   "title": "UNKAI: A Protein Functional Identity Prediction Model Based on ESM-C Latent Representations and the Attention Mechanism.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42602309/",
+   "doi": "10.34133/csbj.0206",
+   "journal": "Computational and structural biotechnology journal",
+   "date": "2026",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "基于ESM-C潜表示和注意力机制构建蛋白功能身份预测模型UNKAI。",
+   "relevance_cn": "展示蛋白语言模型特征迁移的实用范式。"
+  },
+  {
+   "title": "An AI-driven deep learning pipeline for taxonomic classification and biodiversity assessment of deep-sea environmental DNA.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42391735/",
+   "doi": "10.1016/j.compbiomed.2026.111843",
+   "journal": "Computers in biology and medicine",
+   "date": "2026 Aug 15",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "开发深度学习流程用于深海eDNA分类与生物多样性评估。",
+   "relevance_cn": "对序列分类、宏基因组AI pipeline有参考价值。"
+  },
+  {
+   "title": "Mitochondrial RNA modification in colorectal cancer: From single-cell analysis to machine learning-based risk modeling.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42600521/",
+   "doi": "10.1016/j.compbiolchem.2026.109325",
+   "journal": "Computational biology and chemistry",
+   "date": "2026 Aug 11",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "结合单细胞分析和机器学习构建结直肠癌线粒体RNA修饰风险模型。",
+   "relevance_cn": "连接RNA修饰、单细胞与ML建模，方向相关。"
+  },
+  {
+   "title": "CPTCs Drive Somatic-Visceral Communication via the Wnt Axis in Somatic Mechanotherapy: A Single-Cell Deep Learning Study.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42570318/",
+   "doi": "10.1096/fj.202600755RRR",
+   "journal": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
+   "date": "2026 Aug 15",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "用单细胞深度学习解析CPTCs经Wnt轴介导体-脏器通讯。",
+   "relevance_cn": "提供单细胞深度学习解释细胞通讯的案例。"
+  },
+  {
+   "title": "Integrating stemness and epithelial-mesenchymal transition signatures with machine learning identifies RUNX1 as a therapeutic vulnerability in colorectal cancer.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42372471/",
+   "doi": "10.1016/j.compbiomed.2026.111826",
+   "journal": "Computers in biology and medicine",
+   "date": "2026 Aug 15",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "整合干性与EMT特征并用机器学习锁定结直肠癌RUNX1靶点。",
+   "relevance_cn": "是组学特征工程与靶点发现的落地AI案例。"
+  },
+  {
+   "title": "m6A-Related Regulation of Ferroptosis Contributes to Nasal Epithelial Barrier Dysfunction in Allergic Rhinitis.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42572166/",
+   "doi": "10.1111/all.70476",
+   "journal": "Allergy",
+   "date": "2026 Aug 9",
+   "_bucket": "rna_mod",
+   "priority": "🥉",
+   "summary_cn": "揭示m6A相关铁死亡调控参与过敏性鼻炎鼻上皮屏障功能障碍。",
+   "relevance_cn": "高质量疾病机制文，可补充m6A功能场景。"
+  }
+ ],
+ "no_core": true,
+ "summary_zh": "今日无核心新方法论文；精选AI基因组/蛋白/单细胞应用，并补充1篇高质量m6A机制研究。",
+ "_meta": {
+  "model": "gpt-5.5",
+  "base_url": "https://api.tfclab-logan.xyz/v1",
+  "candidates_in": 52,
+  "papers_out": 7
+ }
+}

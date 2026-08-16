@@ -813,5 +813,40 @@
   "date": "2026-08-15",
   "pdf": false,
   "title": "WTAP Deficiency Promotes Podocyte PANoptosis and FSGS via SPP1 Signaling."
+ },
+ "doi:10.1093/nargab/lqag092": {
+  "date": "2026-08-16",
+  "pdf": false,
+  "title": "Integrating heterogeneity into topologically associating domain boundary prediction in large genomic context in human."
+ },
+ "doi:10.34133/csbj.0206": {
+  "date": "2026-08-16",
+  "pdf": false,
+  "title": "UNKAI: A Protein Functional Identity Prediction Model Based on ESM-C Latent Representations and the Attention Mechanism."
+ },
+ "doi:10.1016/j.compbiomed.2026.111843": {
+  "date": "2026-08-16",
+  "pdf": false,
+  "title": "An AI-driven deep learning pipeline for taxonomic classification and biodiversity assessment of deep-sea environmental DNA."
+ },
+ "doi:10.1016/j.compbiolchem.2026.109325": {
+  "date": "2026-08-16",
+  "pdf": false,
+  "title": "Mitochondrial RNA modification in colorectal cancer: From single-cell analysis to machine learning-based risk modeling."
+ },
+ "doi:10.1096/fj.202600755rrr": {
+  "date": "2026-08-16",
+  "pdf": false,
+  "title": "CPTCs Drive Somatic-Visceral Communication via the Wnt Axis in Somatic Mechanotherapy: A Single-Cell Deep Learning Study."
+ },
+ "doi:10.1016/j.compbiomed.2026.111826": {
+  "date": "2026-08-16",
+  "pdf": false,
+  "title": "Integrating stemness and epithelial-mesenchymal transition signatures with machine learning identifies RUNX1 as a therapeutic vulnerability in colorectal cancer."
+ },
+ "doi:10.1111/all.70476": {
+  "date": "2026-08-16",
+  "pdf": false,
+  "title": "m6A-Related Regulation of Ferroptosis Contributes to Nasal Epithelial Barrier Dysfunction in Allergic Rhinitis."
  }
 }
