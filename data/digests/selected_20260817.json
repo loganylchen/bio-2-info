@@ -1,0 +1,90 @@
+{
+ "date": "2026-08-17",
+ "papers": [
+  {
+   "title": "Label-free electrochemical aptasensor for sensitive and selective recognition of N(6)-Methyladenosine: Applicability in human urine.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42603357/",
+   "doi": "10.1016/j.talanta.2026.130454",
+   "journal": "Talanta",
+   "date": "2026 Aug 14",
+   "_bucket": "rna_mod",
+   "priority": "🥇",
+   "summary_cn": "开发免标记电化学适配体传感器，可灵敏选择性识别人尿中m6A。",
+   "relevance_cn": "提供RNA修饰低成本检测思路，可补充测序类mod calling。"
+  },
+  {
+   "title": "Nanopore sequencing with proteins: synchronization and dischronization of molecular dynamics simulations with laboratory and industrial developments.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42389912/",
+   "doi": "10.1039/d6sm00125d",
+   "journal": "Soft matter",
+   "date": "2026 Aug 12",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "综述蛋白纳米孔测序中分子动力学模拟与实验产业进展的耦合与偏差。",
+   "relevance_cn": "有助理解纳米孔信号物理机制和模拟策略。"
+  },
+  {
+   "title": "Multi-Omics Integration Identifies a CDH3-Associated Malignant Epithelial State and Immunosuppressive Niche to Predict Prognosis in Thymic Epithelial Tumors.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42603286/",
+   "doi": "10.1002/advs.77153",
+   "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+   "date": "2026 Aug 15",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "整合多组学解析胸腺上皮肿瘤CDH3相关恶性状态与免疫抑制生态位。",
+   "relevance_cn": "展示多组学状态识别与预后建模的可复用框架。"
+  },
+  {
+   "title": "Systems-level multi-omics dissection of syndromic and idiopathic autism reveals distinct regulatory architectures, candidate molecular signatures, and potential therapeutic targets.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42330854/",
+   "doi": "10.1016/j.compbiomed.2026.111822",
+   "journal": "Computers in biology and medicine",
+   "date": "2026 Aug 15",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "用系统级多组学比较综合征型与特发性自闭症的调控结构和靶点。",
+   "relevance_cn": "可借鉴于复杂表型的组学整合与候选标志物筛选。"
+  },
+  {
+   "title": "Integration of single-cell transcriptomics and genomic mutation analysis identifies an immunotherapy-resistant tumor subcluster and validates ARNTL2 as a malignant driver in lung adenocarcinoma.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42603344/",
+   "doi": "10.1016/j.tranon.2026.102971",
+   "journal": "Translational oncology",
+   "date": "2026 Aug 15",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "整合单细胞转录组与突变数据，定位肺腺癌免疫治疗耐受亚群并验证ARNTL2。",
+   "relevance_cn": "是单细胞与基因组联合建模的落地应用案例。"
+  },
+  {
+   "title": "Identifying candidate therapeutic targets in amyotrophic lateral sclerosis through a transcriptome-wide machine-learning consensus approach for drug repurposing.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42600917/",
+   "doi": "10.1016/j.neuroscience.2026.08.017",
+   "journal": "Neuroscience",
+   "date": "2026 Aug 14",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "基于转录组全局机器学习共识策略，为ALS药物重定位筛选候选治疗靶点。",
+   "relevance_cn": "体现ML在转录组靶点优先级排序中的实用流程。"
+  },
+  {
+   "title": "Model Gateway: Management platform for model-driven drug discovery.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42600735/",
+   "doi": "10.1016/j.drudis.2026.104767",
+   "journal": "Drug discovery today",
+   "date": "2026 Aug 14",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "提出面向模型驱动药物发现的管理平台，支持模型组织、调用与协作。",
+   "relevance_cn": "对生信AI模型治理、复用和pipeline工程有参考价值。"
+  }
+ ],
+ "no_core": false,
+ "summary_zh": "今日核心RNA修饰方法较少，主要补充纳米孔模拟、多组学整合与AI落地应用案例。",
+ "_meta": {
+  "model": "gpt-5.5",
+  "base_url": "https://api.tfclab-logan.xyz/v1",
+  "candidates_in": 47,
+  "papers_out": 7
+ }
+}

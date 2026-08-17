@@ -848,5 +848,40 @@
   "date": "2026-08-16",
   "pdf": false,
   "title": "m6A-Related Regulation of Ferroptosis Contributes to Nasal Epithelial Barrier Dysfunction in Allergic Rhinitis."
+ },
+ "doi:10.1016/j.talanta.2026.130454": {
+  "date": "2026-08-17",
+  "pdf": false,
+  "title": "Label-free electrochemical aptasensor for sensitive and selective recognition of N(6)-Methyladenosine: Applicability in human urine."
+ },
+ "doi:10.1039/d6sm00125d": {
+  "date": "2026-08-17",
+  "pdf": false,
+  "title": "Nanopore sequencing with proteins: synchronization and dischronization of molecular dynamics simulations with laboratory and industrial developments."
+ },
+ "doi:10.1002/advs.77153": {
+  "date": "2026-08-17",
+  "pdf": false,
+  "title": "Multi-Omics Integration Identifies a CDH3-Associated Malignant Epithelial State and Immunosuppressive Niche to Predict Prognosis in Thymic Epithelial Tumors."
+ },
+ "doi:10.1016/j.compbiomed.2026.111822": {
+  "date": "2026-08-17",
+  "pdf": false,
+  "title": "Systems-level multi-omics dissection of syndromic and idiopathic autism reveals distinct regulatory architectures, candidate molecular signatures, and potential therapeutic targets."
+ },
+ "doi:10.1016/j.tranon.2026.102971": {
+  "date": "2026-08-17",
+  "pdf": false,
+  "title": "Integration of single-cell transcriptomics and genomic mutation analysis identifies an immunotherapy-resistant tumor subcluster and validates ARNTL2 as a malignant driver in lung adenocarcinoma."
+ },
+ "doi:10.1016/j.neuroscience.2026.08.017": {
+  "date": "2026-08-17",
+  "pdf": false,
+  "title": "Identifying candidate therapeutic targets in amyotrophic lateral sclerosis through a transcriptome-wide machine-learning consensus approach for drug repurposing."
+ },
+ "doi:10.1016/j.drudis.2026.104767": {
+  "date": "2026-08-17",
+  "pdf": false,
+  "title": "Model Gateway: Management platform for model-driven drug discovery."
  }
 }
