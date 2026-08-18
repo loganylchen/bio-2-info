@@ -1726,5 +1726,53 @@
   "title": "Model Gateway: Management platform for model-driven drug discovery.",
   "doi": "10.1016/j.drudis.2026.104767",
   "link": "https://pubmed.ncbi.nlm.nih.gov/42600735/"
+ },
+ "doi:10.64898/2026.08.10.741180": {
+  "date": "2026-08-18",
+  "title": "Long-read sequencing quantifies synthetic mRNA abundance, integrity and host response in vivo",
+  "doi": "10.64898/2026.08.10.741180",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.08.10.741180"
+ },
+ "doi:10.64898/2026.08.10.743719": {
+  "date": "2026-08-18",
+  "title": "Hybrid transcriptome assembly and annotation of Japanese macaque prefrontal cortex",
+  "doi": "10.64898/2026.08.10.743719",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.08.10.743719"
+ },
+ "doi:10.1039/d6cp01428c": {
+  "date": "2026-08-18",
+  "title": "Quantum chemical profiling of the electronic structure and hydrolytic stability of modified ribonucleosides.",
+  "doi": "10.1039/d6cp01428c",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42606910/"
+ },
+ "doi:10.1093/bioinformatics/btag610": {
+  "date": "2026-08-18",
+  "title": "scDAU: a disentangled representation learning method for cross-modal translation in single-cell multi-omics data.",
+  "doi": "10.1093/bioinformatics/btag610",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42605072/"
+ },
+ "doi:10.64898/2026.08.11.744228": {
+  "date": "2026-08-18",
+  "title": "Sparse Autoencoders Reveal Structural and Family-level Features in BiRNA-BERT",
+  "doi": "10.64898/2026.08.11.744228",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.08.11.744228"
+ },
+ "doi:10.64898/2026.08.11.744178": {
+  "date": "2026-08-18",
+  "title": "Assessing Codon Language Models for Context-Aware Codon Optimization in Nucleic Acid-Based Medicines",
+  "doi": "10.64898/2026.08.11.744178",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.08.11.744178"
+ },
+ "doi:10.1093/gpbjnl/qzag080": {
+  "date": "2026-08-18",
+  "title": "MOFUN-CCC: A Multi-omics Intermediate Fusion Network for Digital White Blood Cell Count Prediction.",
+  "doi": "10.1093/gpbjnl/qzag080",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42606575/"
+ },
+ "doi:10.1093/bioinformatics/btag559": {
+  "date": "2026-08-18",
+  "title": "Fine-Grained Structural Classification of Biosynthetic Gene Cluster-Encoded Products.",
+  "doi": "10.1093/bioinformatics/btag559",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42606533/"
  }
 }
