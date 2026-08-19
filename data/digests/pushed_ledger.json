@@ -1774,5 +1774,41 @@
   "title": "Fine-Grained Structural Classification of Biosynthetic Gene Cluster-Encoded Products.",
   "doi": "10.1093/bioinformatics/btag559",
   "link": "https://pubmed.ncbi.nlm.nih.gov/42606533/"
+ },
+ "doi:10.1093/gpbjnl/qzag083": {
+  "date": "2026-08-19",
+  "title": "SPCC: Inferring Spatial Cell-Cell Interaction by Integrating Single-cell and Spatial Transcriptomics.",
+  "doi": "10.1093/gpbjnl/qzag083",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42608830/"
+ },
+ "doi:10.1016/j.cels.2026.101701": {
+  "date": "2026-08-19",
+  "title": "Interpretable biophysical neural networks of transcriptional activation domains separate roles of protein abundance and coactivator binding.",
+  "doi": "10.1016/j.cels.2026.101701",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42607673/"
+ },
+ "doi:10.1109/tcbbio.2026.3724278": {
+  "date": "2026-08-19",
+  "title": "Quantum-Enhanced Transfer Learning for IDR Binding Partner Prediction.",
+  "doi": "10.1109/TCBBIO.2026.3724278",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42606981/"
+ },
+ "doi:10.1111/imb.70061": {
+  "date": "2026-08-19",
+  "title": "Integrative transcriptomic and machine learning approaches reveal candidate genes for silk and venom production in Bibionomorpha (Diptera).",
+  "doi": "10.1111/imb.70061",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42610280/"
+ },
+ "doi:10.1007/s00406-026-02350-7": {
+  "date": "2026-08-19",
+  "title": "Integrative TWAS and multi-omics analyses prioritize HSPE1 as a candidate risk gene for bipolar disorder with immune cell-specific regulatory evidence.",
+  "doi": "10.1007/s00406-026-02350-7",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42608581/"
+ },
+ "doi:10.1007/s10822-026-00911-5": {
+  "date": "2026-08-19",
+  "title": "A survey of transformer and LLM-based architectures, workflows, and systems in drug discovery.",
+  "doi": "10.1007/s10822-026-00911-5",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42611136/"
  }
 }
