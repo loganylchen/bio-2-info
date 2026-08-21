@@ -1846,5 +1846,47 @@
   "title": "Integrating machine learning and multi-omics analysis to identify and validate key genes associated with periodontitis.",
   "doi": "10.2340/aos.v85.46662",
   "link": "https://pubmed.ncbi.nlm.nih.gov/42615493/"
+ },
+ "doi:10.64898/2026.08.15.745035": {
+  "date": "2026-08-21",
+  "title": "Nanopore sequencing measures chromosome end-specific telomere lengths in human cells",
+  "doi": "10.64898/2026.08.15.745035",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.08.15.745035"
+ },
+ "doi:10.64898/2026.08.17.745278": {
+  "date": "2026-08-21",
+  "title": "Long-read single cell transcriptomics uncovers isoform preferences in developing human retina",
+  "doi": "10.64898/2026.08.17.745278",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.08.17.745278"
+ },
+ "doi:10.1101/2025.07.21.665832": {
+  "date": "2026-08-21",
+  "title": "Modality-chain reasoning enables multimodal protein modelling and design",
+  "doi": "10.1101/2025.07.21.665832",
+  "link": "https://www.biorxiv.org/content/10.1101/2025.07.21.665832"
+ },
+ "doi:10.1016/j.ncrna.2026.06.004": {
+  "date": "2026-08-21",
+  "title": "LncPNdeep: A long non-coding RNA classifier based on large language model with peptide and nucleotide embedding.",
+  "doi": "10.1016/j.ncrna.2026.06.004",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42621896/"
+ },
+ "doi:10.1016/j.mimet.2026.107653": {
+  "date": "2026-08-21",
+  "title": "Investigating cross-organism prediction of prokaryotic essential proteins using unsupervised language model and ensemble strategy.",
+  "doi": "10.1016/j.mimet.2026.107653",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42617920/"
+ },
+ "doi:10.1038/s41392-026-02815-0": {
+  "date": "2026-08-21",
+  "title": "Biallelic loss of RB1 in hepatocellular carcinoma as synthetic lethal target for artificial intelligence-guided therapy.",
+  "doi": "10.1038/s41392-026-02815-0",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42618565/"
+ },
+ "doi:10.64898/2026.08.13.744412": {
+  "date": "2026-08-21",
+  "title": "RTTN moonlights beyond the centrosome to control ribosome biogenesis and tRNA modification in human brain organoids",
+  "doi": "10.64898/2026.08.13.744412",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.08.13.744412"
  }
 }

@@ -1,0 +1,90 @@
+{
+ "date": "2026-08-21",
+ "papers": [
+  {
+   "title": "Nanopore sequencing measures chromosome end-specific telomere lengths in human cells",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.08.15.745035",
+   "doi": "10.64898/2026.08.15.745035",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-08-18",
+   "_bucket": "core",
+   "priority": "🥇",
+   "summary_cn": "提出ONT端粒分析流程，实现人类细胞染色体末端特异端粒长度测量。",
+   "relevance_cn": "ONT长读长实验与分析流程，对DRS/信号方法有借鉴。"
+  },
+  {
+   "title": "Long-read single cell transcriptomics uncovers isoform preferences in developing human retina",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.08.17.745278",
+   "doi": "10.64898/2026.08.17.745278",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-08-18",
+   "_bucket": "core",
+   "priority": "🥇",
+   "summary_cn": "用长读长单细胞转录组解析发育视网膜细胞类型的异构体偏好。",
+   "relevance_cn": "长读长RNA分析场景，利于DRS转录本/异构体pipeline参考。"
+  },
+  {
+   "title": "Modality-chain reasoning enables multimodal protein modelling and design",
+   "link": "https://www.biorxiv.org/content/10.1101/2025.07.21.665832",
+   "doi": "10.1101/2025.07.21.665832",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-08-18",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "提出ProteinReasoner，以模态链推理串联序列、进化约束和结构生成。",
+   "relevance_cn": "代表科学基础模型新范式，可启发组学多模态建模。"
+  },
+  {
+   "title": "LncPNdeep: A long non-coding RNA classifier based on large language model with peptide and nucleotide embedding.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42621896/",
+   "doi": "10.1016/j.ncrna.2026.06.004",
+   "journal": "Non-coding RNA research",
+   "date": "2026 Oct",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "构建结合肽与核苷酸嵌入的大语言模型lncRNA分类器LncPNdeep。",
+   "relevance_cn": "序列LLM用于ncRNA判别，贴近转录组AI工具开发。"
+  },
+  {
+   "title": "Investigating cross-organism prediction of prokaryotic essential proteins using unsupervised language model and ensemble strategy.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42617920/",
+   "doi": "10.1016/j.mimet.2026.107653",
+   "journal": "Journal of microbiological methods",
+   "date": "2026 Aug 19",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "利用无监督蛋白语言模型与集成策略预测跨物种原核必需蛋白。",
+   "relevance_cn": "蛋白语言模型落地到序列功能预测，具生信应用参考。"
+  },
+  {
+   "title": "Biallelic loss of RB1 in hepatocellular carcinoma as synthetic lethal target for artificial intelligence-guided therapy.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42618565/",
+   "doi": "10.1038/s41392-026-02815-0",
+   "journal": "Signal transduction and targeted therapy",
+   "date": "2026 Aug 20",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "用AI引导治疗策略发现RB1双等位缺失肝癌的合成致死靶点。",
+   "relevance_cn": "分子分型驱动AI药物发现，是组学AI应用范例。"
+  },
+  {
+   "title": "RTTN moonlights beyond the centrosome to control ribosome biogenesis and tRNA modification in human brain organoids",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.08.13.744412",
+   "doi": "10.64898/2026.08.13.744412",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-08-18",
+   "_bucket": "core",
+   "priority": "🥉",
+   "summary_cn": "在人脑类器官中发现RTTN参与核糖体生物发生并影响tRNA假尿苷化。",
+   "relevance_cn": "涉及tRNA修饰测序与表观转录组机制，可作为方法应用案例。"
+  }
+ ],
+ "no_core": false,
+ "summary_zh": "今日核心以ONT/长读长测序应用为主，AI部分覆盖蛋白基础模型、序列LLM和分子组学落地应用。",
+ "_meta": {
+  "model": "gpt-5.5",
+  "base_url": "https://api.tfclab-logan.xyz/v1",
+  "candidates_in": 47,
+  "papers_out": 7
+ }
+}
