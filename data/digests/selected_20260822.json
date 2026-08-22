@@ -1,0 +1,79 @@
+{
+ "date": "2026-08-22",
+ "papers": [
+  {
+   "title": "Modtector: Ultra-Fast Modification Signal Mining on Mapped Sequencing Reads.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42625378/",
+   "doi": "10.1093/bioinformatics/btag627",
+   "journal": "Bioinformatics (Oxford, England)",
+   "date": "2026 Aug 20",
+   "_bucket": "rna_mod",
+   "priority": "🥇",
+   "summary_cn": "提出Modtector，可在已比对测序reads上超快速挖掘修饰相关信号。",
+   "relevance_cn": "直接面向RNA修饰信号挖掘，适合纳入mod calling流程。"
+  },
+  {
+   "title": "CRISPR technologies for detecting DNA and RNA methylation: Mechanisms, platforms, and translational opportunities.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42626210/",
+   "doi": "10.1002/btm2.70174",
+   "journal": "Bioengineering & translational medicine",
+   "date": "2026 Aug 19",
+   "_bucket": "rna_mod",
+   "priority": "🥇",
+   "summary_cn": "综述CRISPR检测DNA/RNA甲基化的机制、平台设计与转化应用机会。",
+   "relevance_cn": "梳理RNA甲基化检测新平台，可启发靶向验证方法。"
+  },
+  {
+   "title": "A systematic assessment of single-cell language model configurations.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42626084/",
+   "doi": "10.1093/nargab/lqag095",
+   "journal": "NAR genomics and bioinformatics",
+   "date": "2026 Sep",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "系统评估单细胞语言模型的配置选择及其对下游任务表现的影响。",
+   "relevance_cn": "为构建和选择单细胞foundation model提供基准参考。"
+  },
+  {
+   "title": "Geneformer-guided multiomics integration identifies Pbx1 as a network hub of hematopoietic stem cell aging.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42627902/",
+   "doi": "10.1126/sciadv.aeb1346",
+   "journal": "Science advances",
+   "date": "2026 Aug 21",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "利用Geneformer引导多组学整合，定位HSC衰老网络枢纽Pbx1。",
+   "relevance_cn": "展示基因语言模型在多组学机制发现中的落地用法。"
+  },
+  {
+   "title": "Interpretable distillation reveals that deep learning splicing models suffer from pervasive confounders and blind spots.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42625183/",
+   "doi": "10.1186/s13059-026-04124-9",
+   "journal": "Genome biology",
+   "date": "2026 Aug 21",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "用可解释蒸馏剖析深度学习剪接模型，揭示普遍混杂因素与盲点。",
+   "relevance_cn": "对序列模型评估、解释性和可靠性验证很有借鉴价值。"
+  },
+  {
+   "title": "Development and validation of cell-free RNA-based predictive models for preeclampsia using placental single-cell transcriptomic data.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42623724/",
+   "doi": "10.1016/j.jri.2026.104952",
+   "journal": "Journal of reproductive immunology",
+   "date": "2026 Aug 17",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "结合胎盘单细胞转录组构建并验证基于cfRNA的子痫前期预测模型。",
+   "relevance_cn": "体现cfRNA与单细胞参考图谱结合的组学建模范式。"
+  }
+ ],
+ "no_core": false,
+ "summary_zh": "今日有RNA修饰信号挖掘工具与甲基化检测综述，AI侧以单细胞语言模型、Geneformer多组学和序列模型可解释性为重点。",
+ "_meta": {
+  "model": "gpt-5.5",
+  "base_url": "https://api.tfclab-logan.xyz/v1",
+  "candidates_in": 47,
+  "papers_out": 6
+ }
+}
