@@ -1,0 +1,101 @@
+{
+ "date": "2026-08-24",
+ "papers": [
+  {
+   "title": "Selective oxidation and quantification of m5C in ribonucleosides and RNA in an epigenetic context.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42630647/",
+   "doi": "10.1039/d6cb00203j",
+   "journal": "RSC chemical biology",
+   "date": "2026 Aug 21",
+   "_bucket": "rna_mod",
+   "priority": "🥇",
+   "summary_cn": "提出选择性氧化策略定量核苷和RNA中的m5C，服务表观转录组分析。",
+   "relevance_cn": "直接面向m5C检测与定量，契合RNA修饰方法方向。"
+  },
+  {
+   "title": "Atlas of stress-induced changes in yeast tRNA modification levels",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.08.17.745200",
+   "doi": "10.64898/2026.08.17.745200",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-08-21",
+   "_bucket": "core",
+   "priority": "🥇",
+   "summary_cn": "系统绘制酵母长期胁迫下tRNA修饰水平变化图谱，覆盖多类环境压力。",
+   "relevance_cn": "提供tRNA修饰动态基准数据，可启发修饰检测验证。"
+  },
+  {
+   "title": "GRASSP: RNA Language Model-Enhanced Graph Attention with Adaptive Gating for RNA-Small Molecule Binding Site Prediction.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42633564/",
+   "doi": "10.1093/bioinformatics/btag638",
+   "journal": "Bioinformatics (Oxford, England)",
+   "date": "2026 Aug 22",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "融合RNA语言模型、图注意力和自适应门控预测RNA-小分子结合位点。",
+   "relevance_cn": "RNA结构功能AI应用，对RNA靶向和工具开发很相关。"
+  },
+  {
+   "title": "RIFT-VAE: grammar-conditioned pretraining and latent-space optimization for RNA inverse folding",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.08.12.744415",
+   "doi": "10.64898/2026.08.12.744415",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-08-21",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "提出语法条件Transformer VAE，通过潜空间优化实现RNA逆折叠设计。",
+   "relevance_cn": "RNA生成式建模方法，可借鉴到修饰RNA序列设计。"
+  },
+  {
+   "title": "RegFM: an interpretable context-aware foundation model for human transcriptional regulation",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.08.17.744355",
+   "doi": "10.64898/2026.08.17.744355",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-08-21",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "构建可解释上下文感知基础模型，联合建模顺式元件与转录调控因子。",
+   "relevance_cn": "代表调控组学foundation model，适合关注AI生信框架。"
+  },
+  {
+   "title": "Pretraining Enhances Megabase-Scale Gene Expression Prediction with GeneUnet",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.08.13.744387",
+   "doi": "10.64898/2026.08.13.744387",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-08-22",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "提出837M参数Transformer U-Net，在1Mb尺度预测基因表达并利用多物种预训练。",
+   "relevance_cn": "长上下文基因组建模思路可迁移到转录组AI任务。"
+  },
+  {
+   "title": "MetabolEx: Platform for Small-Molecule Metabolites Generation and Metabolic Pathway Prediction.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42630857/",
+   "doi": "10.1021/acsmeasuresciau.6c00019",
+   "journal": "ACS measurement science au",
+   "date": "2026 Aug 19",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "发布小分子代谢物生成与代谢通路预测平台，面向代谢组学探索。",
+   "relevance_cn": "是组学层面AI落地应用，对多组学分析有参考价值。"
+  },
+  {
+   "title": "LifeSciBench: Evaluating Language Models on Realistic, Expert-Level Tasks in the Life Sciences",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.08.13.744657",
+   "doi": "10.64898/2026.08.13.744657",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-08-22",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "构建750个专家任务的生命科学LLM评测集，强调真实研究场景与复杂判断。",
+   "relevance_cn": "有助于评估LLM在生信科研自动化中的可靠性。"
+  }
+ ],
+ "no_core": false,
+ "summary_zh": "今日核心方向以m5C定量方法和tRNA修饰图谱为主，AI部分覆盖RNA建模、调控基础模型与组学应用。",
+ "_meta": {
+  "model": "gpt-5.5",
+  "base_url": "https://api.tfclab-logan.xyz/v1",
+  "candidates_in": 57,
+  "papers_out": 8
+ }
+}

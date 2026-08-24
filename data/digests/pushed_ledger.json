@@ -1924,5 +1924,53 @@
   "title": "Development and validation of cell-free RNA-based predictive models for preeclampsia using placental single-cell transcriptomic data.",
   "doi": "10.1016/j.jri.2026.104952",
   "link": "https://pubmed.ncbi.nlm.nih.gov/42623724/"
+ },
+ "doi:10.1039/d6cb00203j": {
+  "date": "2026-08-24",
+  "title": "Selective oxidation and quantification of m5C in ribonucleosides and RNA in an epigenetic context.",
+  "doi": "10.1039/d6cb00203j",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42630647/"
+ },
+ "doi:10.64898/2026.08.17.745200": {
+  "date": "2026-08-24",
+  "title": "Atlas of stress-induced changes in yeast tRNA modification levels",
+  "doi": "10.64898/2026.08.17.745200",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.08.17.745200"
+ },
+ "doi:10.1093/bioinformatics/btag638": {
+  "date": "2026-08-24",
+  "title": "GRASSP: RNA Language Model-Enhanced Graph Attention with Adaptive Gating for RNA-Small Molecule Binding Site Prediction.",
+  "doi": "10.1093/bioinformatics/btag638",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42633564/"
+ },
+ "doi:10.64898/2026.08.12.744415": {
+  "date": "2026-08-24",
+  "title": "RIFT-VAE: grammar-conditioned pretraining and latent-space optimization for RNA inverse folding",
+  "doi": "10.64898/2026.08.12.744415",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.08.12.744415"
+ },
+ "doi:10.64898/2026.08.17.744355": {
+  "date": "2026-08-24",
+  "title": "RegFM: an interpretable context-aware foundation model for human transcriptional regulation",
+  "doi": "10.64898/2026.08.17.744355",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.08.17.744355"
+ },
+ "doi:10.64898/2026.08.13.744387": {
+  "date": "2026-08-24",
+  "title": "Pretraining Enhances Megabase-Scale Gene Expression Prediction with GeneUnet",
+  "doi": "10.64898/2026.08.13.744387",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.08.13.744387"
+ },
+ "doi:10.1021/acsmeasuresciau.6c00019": {
+  "date": "2026-08-24",
+  "title": "MetabolEx: Platform for Small-Molecule Metabolites Generation and Metabolic Pathway Prediction.",
+  "doi": "10.1021/acsmeasuresciau.6c00019",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42630857/"
+ },
+ "doi:10.64898/2026.08.13.744657": {
+  "date": "2026-08-24",
+  "title": "LifeSciBench: Evaluating Language Models on Realistic, Expert-Level Tasks in the Life Sciences",
+  "doi": "10.64898/2026.08.13.744657",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.08.13.744657"
  }
 }
