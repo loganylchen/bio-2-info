@@ -1,0 +1,90 @@
+{
+ "date": "2026-08-25",
+ "papers": [
+  {
+   "title": "A single-cell transcriptome atlas reveals paradoxical monoallelic expression of RNA editing and heterozygous SNPs.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42635128/",
+   "doi": "10.1093/nar/gkag846",
+   "journal": "Nucleic acids research",
+   "date": "2026 Aug 24",
+   "_bucket": "rna_mod",
+   "priority": "🥇",
+   "summary_cn": "构建单细胞转录组图谱，解析RNA编辑与杂合SNP的单等位表达现象。",
+   "relevance_cn": "RNA编辑资源与单细胞层面调控分析，贴近表观转录组方向。"
+  },
+  {
+   "title": "Limits of deep-learning-based RNA prediction methods.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42635124/",
+   "doi": "10.1093/nar/gkag813",
+   "journal": "Nucleic acids research",
+   "date": "2026 Aug 24",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "系统评估深度学习RNA预测方法的能力边界，指出泛化与可靠性限制。",
+   "relevance_cn": "直接关联RNA结构/功能AI预测，对RNA算法评测有参考价值。"
+  },
+  {
+   "title": "Scaling genome annotation across the eukaryotic tree of life with OrionGeno",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.04.26.720859",
+   "doi": "10.64898/2026.04.26.720859",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-08-24",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "提出OrionGeno，结合系统发育与长程建模实现真核基因组端到端注释。",
+   "relevance_cn": "代表序列基础模型在大规模基因组注释中的方法进展。"
+  },
+  {
+   "title": "A mechanism-annotated benchmark reveals limited fidelity to drug-response signatures in single-cell perturbation models",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.08.19.745729",
+   "doi": "10.64898/2026.08.19.745729",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-08-24",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "发布机制注释单细胞药物扰动基准，揭示现有模型难保留关键响应签名。",
+   "relevance_cn": "对单细胞基础模型和扰动预测评测体系很有借鉴意义。"
+  },
+  {
+   "title": "On the robustness of scRNA-seq foundation models for plant perturbation response prediction under cross-experiment shift",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.08.21.746324",
+   "doi": "10.64898/2026.08.21.746324",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-08-22",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "构建植物scRNA基础模型并在跨实验扰动预测中检验鲁棒性。",
+   "relevance_cn": "聚焦单细胞基础模型泛化问题，适合关注AI组学建模。"
+  },
+  {
+   "title": "A novel benchmark dataset for enzyme function prediction reveals the limitations of state-of-the-art models",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.08.21.746242",
+   "doi": "10.64898/2026.08.21.746242",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-08-22",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "提出EnzymARC酶功能预测基准，用活性位点扰动诱饵揭示模型局限。",
+   "relevance_cn": "为蛋白语言模型和功能注释模型提供更严格评测思路。"
+  },
+  {
+   "title": "Integrating deep learning and pangenomics to recover missing heritability from wild structural variations.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42629596/",
+   "doi": "10.1186/s12864-026-13274-w",
+   "journal": "BMC genomics",
+   "date": "2026 Aug 22",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "结合深度学习与泛基因组学，从野生结构变异中挖掘缺失遗传力。",
+   "relevance_cn": "展示AI处理泛基因组SV与复杂性状关联的落地范例。"
+  }
+ ],
+ "no_core": false,
+ "summary_zh": "今日核心方向以RNA编辑单细胞资源为主，AI侧集中在RNA预测、单细胞基础模型与组学基准评测。",
+ "_meta": {
+  "model": "gpt-5.5",
+  "base_url": "https://api.tfclab-logan.xyz/v1",
+  "candidates_in": 47,
+  "papers_out": 7
+ }
+}

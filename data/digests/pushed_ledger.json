@@ -1972,5 +1972,47 @@
   "title": "LifeSciBench: Evaluating Language Models on Realistic, Expert-Level Tasks in the Life Sciences",
   "doi": "10.64898/2026.08.13.744657",
   "link": "https://www.biorxiv.org/content/10.64898/2026.08.13.744657"
+ },
+ "doi:10.1093/nar/gkag846": {
+  "date": "2026-08-25",
+  "title": "A single-cell transcriptome atlas reveals paradoxical monoallelic expression of RNA editing and heterozygous SNPs.",
+  "doi": "10.1093/nar/gkag846",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42635128/"
+ },
+ "doi:10.1093/nar/gkag813": {
+  "date": "2026-08-25",
+  "title": "Limits of deep-learning-based RNA prediction methods.",
+  "doi": "10.1093/nar/gkag813",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42635124/"
+ },
+ "doi:10.64898/2026.04.26.720859": {
+  "date": "2026-08-25",
+  "title": "Scaling genome annotation across the eukaryotic tree of life with OrionGeno",
+  "doi": "10.64898/2026.04.26.720859",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.04.26.720859"
+ },
+ "doi:10.64898/2026.08.19.745729": {
+  "date": "2026-08-25",
+  "title": "A mechanism-annotated benchmark reveals limited fidelity to drug-response signatures in single-cell perturbation models",
+  "doi": "10.64898/2026.08.19.745729",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.08.19.745729"
+ },
+ "doi:10.64898/2026.08.21.746324": {
+  "date": "2026-08-25",
+  "title": "On the robustness of scRNA-seq foundation models for plant perturbation response prediction under cross-experiment shift",
+  "doi": "10.64898/2026.08.21.746324",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.08.21.746324"
+ },
+ "doi:10.64898/2026.08.21.746242": {
+  "date": "2026-08-25",
+  "title": "A novel benchmark dataset for enzyme function prediction reveals the limitations of state-of-the-art models",
+  "doi": "10.64898/2026.08.21.746242",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.08.21.746242"
+ },
+ "doi:10.1186/s12864-026-13274-w": {
+  "date": "2026-08-25",
+  "title": "Integrating deep learning and pangenomics to recover missing heritability from wild structural variations.",
+  "doi": "10.1186/s12864-026-13274-w",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42629596/"
  }
 }
