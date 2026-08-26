@@ -2014,5 +2014,53 @@
   "title": "Integrating deep learning and pangenomics to recover missing heritability from wild structural variations.",
   "doi": "10.1186/s12864-026-13274-w",
   "link": "https://pubmed.ncbi.nlm.nih.gov/42629596/"
+ },
+ "doi:10.1038/s41551-026-01754-z": {
+  "date": "2026-08-26",
+  "title": "HisToSpatialCNV: an interpretable deep learning method predicting spatial copy number variations from histopathology images.",
+  "doi": "10.1038/s41551-026-01754-z",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42637837/"
+ },
+ "doi:10.1111/cpr.70274": {
+  "date": "2026-08-26",
+  "title": "A Comprehensive Comparative Analysis of Sequence-Based Deep Learning Models for Single-Cell Genomics.",
+  "doi": "10.1111/cpr.70274",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42633766/"
+ },
+ "doi:10.64898/2026.08.20.746077": {
+  "date": "2026-08-26",
+  "title": "Sparse autoencoder features from InterPLM predict neuropeptide precursors among secreted proteins",
+  "doi": "10.64898/2026.08.20.746077",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.08.20.746077"
+ },
+ "doi:10.64898/2026.08.11.743858": {
+  "date": "2026-08-26",
+  "title": "Integration of proteomic data from cell lines and tumors",
+  "doi": "10.64898/2026.08.11.743858",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.08.11.743858"
+ },
+ "doi:10.1002/advs.77269": {
+  "date": "2026-08-26",
+  "title": "Uncoupling Type I Interferon Benefits From Inflammatory Toxicity: Transformer-Prioritized Precision Agonists for Potent and Safer Cancer Immunotherapy.",
+  "doi": "10.1002/advs.77269",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42635620/"
+ },
+ "doi:10.1186/s13059-026-04245-1": {
+  "date": "2026-08-26",
+  "title": "Determinants of mutation susceptibility along the genome are largely invariant across human tissues.",
+  "doi": "10.1186/s13059-026-04245-1",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42638110/"
+ },
+ "doi:10.1186/s40364-026-00988-y": {
+  "date": "2026-08-26",
+  "title": "Multidimensional 5-hydroxymethylcytosine features in cell-free DNA enable the detection, staging and subtyping of pancreatic ductal adenocarcinoma.",
+  "doi": "10.1186/s40364-026-00988-y",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42638133/"
+ },
+ "doi:10.1161/circulationaha.126.079407": {
+  "date": "2026-08-26",
+  "title": "METTL7B Mitigates Hypertension and Vascular Remodeling.",
+  "doi": "10.1161/CIRCULATIONAHA.126.079407",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42639676/"
  }
 }
