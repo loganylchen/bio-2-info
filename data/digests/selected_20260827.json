@@ -1,0 +1,101 @@
+{
+ "date": "2026-08-27",
+ "papers": [
+  {
+   "title": "High-coverage DNA sequence and modification profiling of targeted genomic elements using Nanopore-based Cas12a Targeted Ligation and Enrichment Sequencing (nCasTLES).",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.08.25.747114",
+   "doi": "10.64898/2026.08.25.747114",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-08-26",
+   "_bucket": "core",
+   "priority": "🥇",
+   "summary_cn": "提出nCasTLES，用Cas12a靶向富集提高纳米孔测序与修饰谱覆盖度。",
+   "relevance_cn": "直接关联纳米孔靶向测序和核酸修饰检测方法。"
+  },
+  {
+   "title": "Predictive design of tissue-specific mammalian enhancers that function in the mouse embryo.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42642514/",
+   "doi": "10.1038/s41588-026-02729-1",
+   "journal": "Nature genetics",
+   "date": "2026 Aug 25",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "利用预测模型设计小鼠胚胎中可工作的组织特异性哺乳动物增强子。",
+   "relevance_cn": "展示序列生成模型在调控元件设计中的顶刊范例。"
+  },
+  {
+   "title": "CodonMamba: a foundation model for programmable mRNA coding sequence design",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.08.24.746601",
+   "doi": "10.64898/2026.08.24.746601",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-08-24",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "提出CodonMamba，预训练密码子语言模型用于mRNA预测和可编程CDS设计。",
+   "relevance_cn": "与mRNA设计、翻译调控和RNA工程高度相关。"
+  },
+  {
+   "title": "Predicting Protein-RNA Binding Affinity Changes via Spatial Coupling-Aware State Space Modeling",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.08.23.745486",
+   "doi": "10.64898/2026.08.23.745486",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-08-24",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "提出iSCALE，用空间耦合状态空间建模预测突变导致的蛋白-RNA亲和力变化。",
+   "relevance_cn": "有助于RNA结合蛋白变异效应和调控机制建模。"
+  },
+  {
+   "title": "Robustness to nuisance perturbations enables unsupervised evaluation of single-cell foundation models",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.08.22.746357",
+   "doi": "10.64898/2026.08.22.746357",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-08-26",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "提出基于扰动鲁棒性的无监督框架，评估单细胞基础模型嵌入稳定性。",
+   "relevance_cn": "为组学基础模型benchmark提供可借鉴评价思路。"
+  },
+  {
+   "title": "CytoGate-Bench: an LLM benchmark for cross-panel cell gating in cytometry",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.08.24.746336",
+   "doi": "10.64898/2026.08.24.746336",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-08-26",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "构建CytoGate-Bench，将跨面板细胞门控转化为LLM零样本评测任务。",
+   "relevance_cn": "体现LLM在单细胞免疫数据注释中的benchmark价值。"
+  },
+  {
+   "title": "Model-guided design of defined microbial community reveals interactions underpinning plant growth and stress tolerance.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42644739/",
+   "doi": "10.1093/ismejo/wrag219",
+   "journal": "The ISME journal",
+   "date": "2026 Aug 26",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "用模型指导设计定义微生物群落，解析促进植物生长和耐逆的互作。",
+   "relevance_cn": "是AI/模型驱动组学与微生物群落设计的落地案例。"
+  },
+  {
+   "title": "A Mammalian High-Throughput Screen for AI-Designed Peptide-Guided Protein Degraders",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.08.24.746873",
+   "doi": "10.64898/2026.08.24.746873",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-08-26",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "建立哺乳动物高通量筛选平台，验证AI设计肽导向蛋白降解器。",
+   "relevance_cn": "展示蛋白语言模型设计分子工具并实验验证的路径。"
+  }
+ ],
+ "no_core": false,
+ "summary_zh": "今日核心方法以纳米孔靶向修饰测序为主，AI方向集中在序列设计、RNA互作建模、基础模型评测与组学落地应用。",
+ "_meta": {
+  "model": "gpt-5.5",
+  "base_url": "https://api.tfclab-logan.xyz/v1",
+  "candidates_in": 64,
+  "papers_out": 8
+ }
+}

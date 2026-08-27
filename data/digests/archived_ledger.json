@@ -958,5 +958,45 @@
   "date": "2026-08-26",
   "pdf": false,
   "title": "METTL7B Mitigates Hypertension and Vascular Remodeling."
+ },
+ "doi:10.64898/2026.08.25.747114": {
+  "date": "2026-08-27",
+  "pdf": false,
+  "title": "High-coverage DNA sequence and modification profiling of targeted genomic elements using Nanopore-based Cas12a Targeted Ligation and Enrichment Sequencing (nCasTLES)."
+ },
+ "doi:10.1038/s41588-026-02729-1": {
+  "date": "2026-08-27",
+  "pdf": false,
+  "title": "Predictive design of tissue-specific mammalian enhancers that function in the mouse embryo."
+ },
+ "doi:10.64898/2026.08.24.746601": {
+  "date": "2026-08-27",
+  "pdf": false,
+  "title": "CodonMamba: a foundation model for programmable mRNA coding sequence design"
+ },
+ "doi:10.64898/2026.08.23.745486": {
+  "date": "2026-08-27",
+  "pdf": false,
+  "title": "Predicting Protein-RNA Binding Affinity Changes via Spatial Coupling-Aware State Space Modeling"
+ },
+ "doi:10.64898/2026.08.22.746357": {
+  "date": "2026-08-27",
+  "pdf": false,
+  "title": "Robustness to nuisance perturbations enables unsupervised evaluation of single-cell foundation models"
+ },
+ "doi:10.64898/2026.08.24.746336": {
+  "date": "2026-08-27",
+  "pdf": false,
+  "title": "CytoGate-Bench: an LLM benchmark for cross-panel cell gating in cytometry"
+ },
+ "doi:10.1093/ismejo/wrag219": {
+  "date": "2026-08-27",
+  "pdf": false,
+  "title": "Model-guided design of defined microbial community reveals interactions underpinning plant growth and stress tolerance."
+ },
+ "doi:10.64898/2026.08.24.746873": {
+  "date": "2026-08-27",
+  "pdf": false,
+  "title": "A Mammalian High-Throughput Screen for AI-Designed Peptide-Guided Protein Degraders"
  }
 }
