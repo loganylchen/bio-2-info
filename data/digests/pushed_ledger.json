@@ -2110,5 +2110,53 @@
   "title": "A Mammalian High-Throughput Screen for AI-Designed Peptide-Guided Protein Degraders",
   "doi": "10.64898/2026.08.24.746873",
   "link": "https://www.biorxiv.org/content/10.64898/2026.08.24.746873"
+ },
+ "doi:10.1371/journal.pcbi.1014727": {
+  "date": "2026-08-28",
+  "title": "iDCF: Interpretable deconvolution of cell fractions via biologically-informed deep learning using scRNA-seq data.",
+  "doi": "10.1371/journal.pcbi.1014727",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42658881/"
+ },
+ "doi:10.1093/bioinformatics/btag640": {
+  "date": "2026-08-28",
+  "title": "Finetuning Foundation Models for Temporal Clinical Transcriptomics Data.",
+  "doi": "10.1093/bioinformatics/btag640",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42658019/"
+ },
+ "doi:10.1016/j.compbiolchem.2026.109347": {
+  "date": "2026-08-28",
+  "title": "Deciphering tissue architecture with StKAN: A multi-modal deep learning framework combining morphology and spatial transcriptomics.",
+  "doi": "10.1016/j.compbiolchem.2026.109347",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42641426/"
+ },
+ "doi:10.1093/bioinformatics/btag643": {
+  "date": "2026-08-28",
+  "title": "DeepPathway: Predicting Pathway Expression from Histopathology Images.",
+  "doi": "10.1093/bioinformatics/btag643",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42647188/"
+ },
+ "doi:10.1016/j.jbi.2026.105097": {
+  "date": "2026-08-28",
+  "title": "PAC-Net: A physics-guided multimodal hybrid network for antibody-antigen interaction prediction.",
+  "doi": "10.1016/j.jbi.2026.105097",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42648458/"
+ },
+ "doi:10.1016/j.compbiolchem.2026.109348": {
+  "date": "2026-08-28",
+  "title": "SeqQC-former: A sequence-quality fusion framework for QC-aware review prioritization of candidate somatic SNVs in cancer genomics.",
+  "doi": "10.1016/j.compbiolchem.2026.109348",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42648276/"
+ },
+ "doi:10.1002/anie.6395554": {
+  "date": "2026-08-28",
+  "title": "De Novo Design of a Protein Binder to Probe Gas Channel and Enhance the Oxygen Tolerance of [NiFe]-Hydrogenase.",
+  "doi": "10.1002/anie.6395554",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42655993/"
+ },
+ "doi:10.1126/science.aek4499": {
+  "date": "2026-08-28",
+  "title": "The knotty problem of RNA structure prediction.",
+  "doi": "10.1126/science.aek4499",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42658961/"
  }
 }
