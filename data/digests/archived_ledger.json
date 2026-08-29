@@ -1038,5 +1038,40 @@
   "date": "2026-08-28",
   "pdf": false,
   "title": "The knotty problem of RNA structure prediction."
+ },
+ "doi:10.1101/2023.03.13.532412": {
+  "date": "2026-08-29",
+  "pdf": false,
+  "title": "Analysis of RNA processing directly from spatial transcriptomics data reveals previously unknown regulation"
+ },
+ "doi:10.64898/2026.04.06.716670": {
+  "date": "2026-08-29",
+  "pdf": false,
+  "title": "Benchmarking nanopore-based strategies for antimicrobial resistance prediction"
+ },
+ "doi:10.1371/journal.pcbi.1014725": {
+  "date": "2026-08-29",
+  "pdf": false,
+  "title": "ASPIRE: Accurate alternative splicing prediction from limited RNA sequencing data and a minimal gene set."
+ },
+ "doi:10.64898/2026.08.25.746866": {
+  "date": "2026-08-29",
+  "pdf": false,
+  "title": "A pretrained unified model enables cellular functional profile prediction and multi-objective virtual drug screening"
+ },
+ "doi:10.64898/2026.08.25.747021": {
+  "date": "2026-08-29",
+  "pdf": false,
+  "title": "OmicsFM brings proteomics into the foundation model era"
+ },
+ "doi:10.64898/2026.08.25.746917": {
+  "date": "2026-08-29",
+  "pdf": false,
+  "title": "G2T: Tissue Reconstruction from Gene Expression via Embedding-Distance Flow Matching"
+ },
+ "doi:10.1021/acsomega.6c06012": {
+  "date": "2026-08-29",
+  "pdf": false,
+  "title": "Integrating Machine Learning and Transcriptomics to Enhance β‑Carotene Production in Saccharomyces cerevisiae."
  }
 }
