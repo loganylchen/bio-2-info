@@ -1073,5 +1073,40 @@
   "date": "2026-08-29",
   "pdf": false,
   "title": "Integrating Machine Learning and Transcriptomics to Enhance β‑Carotene Production in Saccharomyces cerevisiae."
+ },
+ "doi:10.1016/j.molcel.2026.08.001": {
+  "date": "2026-08-30",
+  "pdf": false,
+  "title": "dsRNAscan maps human dsRNAome, revealing conservation, intermolecular dsRNA, and correlates of ADAR dependency."
+ },
+ "doi:10.1261/rna.081048.126": {
+  "date": "2026-08-30",
+  "pdf": false,
+  "title": "Identification of cellular double-stranded RNAs in mammalian embryonic stem cells."
+ },
+ "doi:10.64898/2026.08.23.746499": {
+  "date": "2026-08-30",
+  "pdf": false,
+  "title": "PMPNN-DDG: an accurate machine learning-based {triangleup}{triangleup}G prediction pipeline trained on a novel interpretable feature set extracted from ProteinMPNN"
+ },
+ "doi:10.1002/advs.77461": {
+  "date": "2026-08-30",
+  "pdf": false,
+  "title": "Predicting Single-Cell Perturbation Responses Across Biological Contexts With a Deep Generative Model Integrating Optimal Transport."
+ },
+ "doi:10.1038/s41594-026-01869-6": {
+  "date": "2026-08-30",
+  "pdf": false,
+  "title": "Universal pipeline for high-resolution GPCR structure determination."
+ },
+ "doi:10.1016/j.xcrm.2026.103013": {
+  "date": "2026-08-30",
+  "pdf": false,
+  "title": "Pan-tumor spatial transcriptomics reveals conserved properties of tumor organization."
+ },
+ "doi:10.1002/advs.77417": {
+  "date": "2026-08-30",
+  "pdf": false,
+  "title": "Restoration of m6A-Modified circPSMB1 Suppresses Chordoma Progression and Enables Local Nanotherapeutic Intervention."
  }
 }

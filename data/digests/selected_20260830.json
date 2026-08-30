@@ -1,0 +1,90 @@
+{
+ "date": "2026-08-30",
+ "papers": [
+  {
+   "title": "dsRNAscan maps human dsRNAome, revealing conservation, intermolecular dsRNA, and correlates of ADAR dependency.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42664967/",
+   "doi": "10.1016/j.molcel.2026.08.001",
+   "journal": "Molecular cell",
+   "date": "2026 Aug 28",
+   "_bucket": "rna_mod",
+   "priority": "🥇",
+   "summary_cn": "提出dsRNAscan绘制人类dsRNA组，揭示保守性、分子间dsRNA与ADAR依赖关联。",
+   "relevance_cn": "RNA结构/编辑相关图谱工具，具备方法学与资源价值。"
+  },
+  {
+   "title": "Identification of cellular double-stranded RNAs in mammalian embryonic stem cells.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42665368/",
+   "doi": "10.1261/rna.081048.126",
+   "journal": "RNA (New York, N.Y.)",
+   "date": "2026 Aug 28",
+   "_bucket": "rna_mod",
+   "priority": "🥇",
+   "summary_cn": "系统鉴定哺乳动物胚胎干细胞内源双链RNA，提供细胞dsRNA定位与特征资源。",
+   "relevance_cn": "有助于理解ADAR编辑、RNA结构与转录后调控。"
+  },
+  {
+   "title": "PMPNN-DDG: an accurate machine learning-based {triangleup}{triangleup}G prediction pipeline trained on a novel interpretable feature set extracted from ProteinMPNN",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.08.23.746499",
+   "doi": "10.64898/2026.08.23.746499",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-08-27",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "基于ProteinMPNN可解释特征构建PMPNN-DDG，用于预测点突变导致的蛋白稳定性变化。",
+   "relevance_cn": "展示蛋白生成模型特征迁移到生物物理预测的范式。"
+  },
+  {
+   "title": "Predicting Single-Cell Perturbation Responses Across Biological Contexts With a Deep Generative Model Integrating Optimal Transport.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42667121/",
+   "doi": "10.1002/advs.77461",
+   "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+   "date": "2026 Aug 29",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "提出结合最优传输的深度生成模型，跨生物背景预测单细胞扰动转录响应。",
+   "relevance_cn": "对单细胞扰动建模和组学AI应用很有参考价值。"
+  },
+  {
+   "title": "Universal pipeline for high-resolution GPCR structure determination.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42665663/",
+   "doi": "10.1038/s41594-026-01869-6",
+   "journal": "Nature structural & molecular biology",
+   "date": "2026 Aug 28",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "建立通用流程提升GPCR高分辨率结构解析效率，服务难靶标结构生物学研究。",
+   "relevance_cn": "结构预测/解析pipeline对蛋白AI与药靶研究有借鉴。"
+  },
+  {
+   "title": "Pan-tumor spatial transcriptomics reveals conserved properties of tumor organization.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42664957/",
+   "doi": "10.1016/j.xcrm.2026.103013",
+   "journal": "Cell reports. Medicine",
+   "date": "2026 Aug 28",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "利用泛肿瘤空间转录组比较分析，发现肿瘤组织结构中的保守空间特征。",
+   "relevance_cn": "展示空间组学跨队列整合分析的落地应用。"
+  },
+  {
+   "title": "Restoration of m6A-Modified circPSMB1 Suppresses Chordoma Progression and Enables Local Nanotherapeutic Intervention.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42667146/",
+   "doi": "10.1002/advs.77417",
+   "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+   "date": "2026 Aug 29",
+   "_bucket": "rna_mod",
+   "priority": "🥉",
+   "summary_cn": "报道恢复m6A修饰circPSMB1可抑制脊索瘤进展，并结合局部纳米治疗策略。",
+   "relevance_cn": "高水平m6A疾病机制与转化干预案例，可作背景参考。"
+  }
+ ],
+ "no_core": false,
+ "summary_zh": "今日核心方向有dsRNA组图谱工具与资源，AI部分以单细胞扰动生成模型、蛋白稳定性预测和空间组学应用为主。",
+ "_meta": {
+  "model": "gpt-5.5",
+  "base_url": "https://api.tfclab-logan.xyz/v1",
+  "candidates_in": 44,
+  "papers_out": 7
+ }
+}
