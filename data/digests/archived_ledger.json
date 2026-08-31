@@ -1108,5 +1108,40 @@
   "date": "2026-08-30",
   "pdf": false,
   "title": "Restoration of m6A-Modified circPSMB1 Suppresses Chordoma Progression and Enables Local Nanotherapeutic Intervention."
+ },
+ "doi:10.64898/2026.08.25.747080": {
+  "date": "2026-08-31",
+  "pdf": false,
+  "title": "Coupled and independent functions of PABPN1 in RNA processing revealed by direct RNA nanopore sequencing"
+ },
+ "doi:10.64898/2026.02.04.703787": {
+  "date": "2026-08-31",
+  "pdf": false,
+  "title": "Decoding Radiation-Induced Transcriptomic Signatures of Human Leukocytes using Long-Read RNA-Seq: Clinical and Biodosimetric Implications"
+ },
+ "doi:10.64898/2026.02.10.705188": {
+  "date": "2026-08-31",
+  "pdf": false,
+  "title": "Gene expression inference from cell-free DNA using uncertainty-aware deep learning"
+ },
+ "doi:10.64898/2026.08.07.738656": {
+  "date": "2026-08-31",
+  "pdf": false,
+  "title": "FuncSeek: Multi-PLM contrastive learning for protein functional similarity search"
+ },
+ "doi:10.64898/2026.08.25.747158": {
+  "date": "2026-08-31",
+  "pdf": false,
+  "title": "Visual LLM-guided consensus spatial domain detection with L-STAR"
+ },
+ "doi:10.1101/2025.09.10.675443": {
+  "date": "2026-08-31",
+  "pdf": false,
+  "title": "CIViC-Fact: a proof-of-concept framework for AI-assisted verification of cancer variant interpretations"
+ },
+ "doi:10.1038/s41525-026-00611-x": {
+  "date": "2026-08-31",
+  "pdf": false,
+  "title": "aiDIVA - hybrid AI for rare disease diagnostics using evidence-based, machine learning and language models."
  }
 }

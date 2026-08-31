@@ -1,0 +1,90 @@
+{
+ "date": "2026-08-31",
+ "papers": [
+  {
+   "title": "Coupled and independent functions of PABPN1 in RNA processing revealed by direct RNA nanopore sequencing",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.08.25.747080",
+   "doi": "10.64898/2026.08.25.747080",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-08-28",
+   "_bucket": "core",
+   "priority": "🥇",
+   "summary_cn": "结合PABPN1失功能、细胞分馏和纳米孔DRS解析RNA加工功能耦合。",
+   "relevance_cn": "直接使用DRS研究poly(A)、剪接与转录本特异调控。"
+  },
+  {
+   "title": "Decoding Radiation-Induced Transcriptomic Signatures of Human Leukocytes using Long-Read RNA-Seq: Clinical and Biodosimetric Implications",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.02.04.703787",
+   "doi": "10.64898/2026.02.04.703787",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-08-29",
+   "_bucket": "core",
+   "priority": "🥇",
+   "summary_cn": "用ONT长读长RNA-seq解析辐射后白细胞转录组和新异构体信号。",
+   "relevance_cn": "展示纳米孔RNA长读长在异构体和现场转录组分析中的价值。"
+  },
+  {
+   "title": "Gene expression inference from cell-free DNA using uncertainty-aware deep learning",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.02.10.705188",
+   "doi": "10.64898/2026.02.10.705188",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-08-28",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "提出Triton/Proteus框架，从cfDNA WGS特征不确定性感知推断基因表达。",
+   "relevance_cn": "可借鉴其概率建模与跨组学表型重建思路。"
+  },
+  {
+   "title": "FuncSeek: Multi-PLM contrastive learning for protein functional similarity search",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.08.07.738656",
+   "doi": "10.64898/2026.08.07.738656",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-08-29",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "整合多个蛋白语言模型并用对比学习进行低同源蛋白功能相似搜索。",
+   "relevance_cn": "代表PLM多模态表征与功能检索的新型AI方法。"
+  },
+  {
+   "title": "Visual LLM-guided consensus spatial domain detection with L-STAR",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.08.25.747158",
+   "doi": "10.64898/2026.08.25.747158",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-08-29",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "L-STAR用视觉LLM自适应排序并整合空间转录组域检测方法。",
+   "relevance_cn": "展示LLM参与组学图像与空间转录组流程集成。"
+  },
+  {
+   "title": "CIViC-Fact: a proof-of-concept framework for AI-assisted verification of cancer variant interpretations",
+   "link": "https://www.biorxiv.org/content/10.1101/2025.09.10.675443",
+   "doi": "10.1101/2025.09.10.675443",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-08-29",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "构建LLM辅助框架，对CIViC癌症变异解读证据进行标准化验证。",
+   "relevance_cn": "对生信知识库质控和可复现LLM评估有借鉴价值。"
+  },
+  {
+   "title": "aiDIVA - hybrid AI for rare disease diagnostics using evidence-based, machine learning and language models.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42668306/",
+   "doi": "10.1038/s41525-026-00611-x",
+   "journal": "NPJ genomic medicine",
+   "date": "2026 Aug 29",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "aiDIVA融合证据规则、机器学习和语言模型辅助罕见病基因诊断。",
+   "relevance_cn": "落地到基因组诊断流程，适合参考AI+变异解读设计。"
+  }
+ ],
+ "no_core": false,
+ "summary_zh": "今日核心方向以纳米孔RNA长读长/DRS应用为主，AI部分覆盖cfDNA表达推断、蛋白PLM、空间转录组LLM和基因诊断落地。",
+ "_meta": {
+  "model": "gpt-5.5",
+  "base_url": "https://api.tfclab-logan.xyz/v1",
+  "candidates_in": 51,
+  "papers_out": 7
+ }
+}
