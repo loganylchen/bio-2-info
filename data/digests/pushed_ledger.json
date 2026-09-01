@@ -2284,5 +2284,41 @@
   "title": "aiDIVA - hybrid AI for rare disease diagnostics using evidence-based, machine learning and language models.",
   "doi": "10.1038/s41525-026-00611-x",
   "link": "https://pubmed.ncbi.nlm.nih.gov/42668306/"
+ },
+ "doi:10.1021/acs.jcim.6c01345": {
+  "date": "2026-09-01",
+  "title": "Deep3MVPF: Multiview Deep Framework for the Prediction of Stability and m6A in mRNA 3'UTR.",
+  "doi": "10.1021/acs.jcim.6c01345",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42670869/"
+ },
+ "doi:10.1002/advs.77003": {
+  "date": "2026-09-01",
+  "title": "SemanticST: A Scalable Multi-Contextual Graph Learning Framework for Uncovering Spatial Niches and Robust Multi-Sample Integration in Spatial Transcriptomics.",
+  "doi": "10.1002/advs.77003",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42671391/"
+ },
+ "doi:10.1016/j.celrep.2026.117897": {
+  "date": "2026-09-01",
+  "title": "A cross-species drug-discovery platform to accelerate the identification of lifespan-extending interventions.",
+  "doi": "10.1016/j.celrep.2026.117897",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42671914/"
+ },
+ "doi:10.1093/gpbjnl/qzag091": {
+  "date": "2026-09-01",
+  "title": "Mapping Allele-specific RBP Binding by a Machine Learning Coupled RNA Editing Strategy in Human Embryonic Stem Cells.",
+  "doi": "10.1093/gpbjnl/qzag091",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42671340/"
+ },
+ "doi:10.1007/s10142-026-02027-3": {
+  "date": "2026-09-01",
+  "title": "An integrative multi-project transcriptomic and structural prediction framework identifies candidate cold-responsive transcription factors in Medicago sativa.",
+  "doi": "10.1007/s10142-026-02027-3",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42671643/"
+ },
+ "doi:10.1002/advs.77466": {
+  "date": "2026-09-01",
+  "title": "Multi-Technique Integration Identifies O-GlcNAc Transferase in Fibroblast-Like Synoviocytes as a Therapeutic Target for Rheumatoid Arthritis.",
+  "doi": "10.1002/advs.77466",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42671010/"
  }
 }

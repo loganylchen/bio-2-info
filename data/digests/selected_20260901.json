@@ -1,0 +1,79 @@
+{
+ "date": "2026-09-01",
+ "papers": [
+  {
+   "title": "Deep3MVPF: Multiview Deep Framework for the Prediction of Stability and m6A in mRNA 3'UTR.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42670869/",
+   "doi": "10.1021/acs.jcim.6c01345",
+   "journal": "Journal of chemical information and modeling",
+   "date": "2026 Aug 24",
+   "_bucket": "rna_mod",
+   "priority": "🥇",
+   "summary_cn": "提出多视角深度框架，同时预测3'UTR mRNA稳定性与m6A位点。",
+   "relevance_cn": "直接服务m6A计算预测，可借鉴多任务建模思路。"
+  },
+  {
+   "title": "SemanticST: A Scalable Multi-Contextual Graph Learning Framework for Uncovering Spatial Niches and Robust Multi-Sample Integration in Spatial Transcriptomics.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42671391/",
+   "doi": "10.1002/advs.77003",
+   "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+   "date": "2026 Aug 31",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "提出可扩展多上下文图学习框架，用于空间生态位发现与多样本整合。",
+   "relevance_cn": "代表组学AI方法，可迁移到空间转录组整合分析。"
+  },
+  {
+   "title": "A cross-species drug-discovery platform to accelerate the identification of lifespan-extending interventions.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42671914/",
+   "doi": "10.1016/j.celrep.2026.117897",
+   "journal": "Cell reports",
+   "date": "2026 Aug 31",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "构建跨物种药物发现平台，加速筛选延寿干预候选物。",
+   "relevance_cn": "AI驱动跨物种证据整合，对组学药物发现有借鉴。"
+  },
+  {
+   "title": "Mapping Allele-specific RBP Binding by a Machine Learning Coupled RNA Editing Strategy in Human Embryonic Stem Cells.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42671340/",
+   "doi": "10.1093/gpbjnl/qzag091",
+   "journal": "Genomics, proteomics & bioinformatics",
+   "date": "2026 Aug 31",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "结合机器学习与RNA编辑策略，在人胚胎干细胞中定位等位基因特异RBP结合。",
+   "relevance_cn": "贴近RNA调控与RBP位点解析，方法可启发修饰研究。"
+  },
+  {
+   "title": "An integrative multi-project transcriptomic and structural prediction framework identifies candidate cold-responsive transcription factors in Medicago sativa.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42671643/",
+   "doi": "10.1007/s10142-026-02027-3",
+   "journal": "Functional & integrative genomics",
+   "date": "2026 Aug 31",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "整合多项目转录组与结构预测，识别苜蓿冷响应转录因子候选。",
+   "relevance_cn": "展示转录组整合加结构AI预测的落地流程。"
+  },
+  {
+   "title": "Multi-Technique Integration Identifies O-GlcNAc Transferase in Fibroblast-Like Synoviocytes as a Therapeutic Target for Rheumatoid Arthritis.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42671010/",
+   "doi": "10.1002/advs.77466",
+   "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+   "date": "2026 Aug 31",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "多技术整合锁定滑膜成纤维细胞OGT，提出类风湿关节炎治疗靶点。",
+   "relevance_cn": "高水平多组学靶点发现案例，可参考整合分析策略。"
+  }
+ ],
+ "no_core": false,
+ "summary_zh": "今日核心仅有一篇m6A预测方法，AI侧以空间转录组图学习和分子/组学落地应用为主。",
+ "_meta": {
+  "model": "gpt-5.5",
+  "base_url": "https://api.tfclab-logan.xyz/v1",
+  "candidates_in": 39,
+  "papers_out": 6
+ }
+}
