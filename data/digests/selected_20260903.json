@@ -1,0 +1,101 @@
+{
+ "date": "2026-09-03",
+ "papers": [
+  {
+   "title": "Characterization of METTL3/14-mediated m6A modification in human transcriptome using Nanopore direct RNA sequencing.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42678953/",
+   "doi": "10.1371/journal.pgen.1012278",
+   "journal": "PLoS genetics",
+   "date": "2026 Sep",
+   "_bucket": "nanopore_drs",
+   "priority": "🥇",
+   "summary_cn": "用Nanopore DRS刻画METTL3/14介导的人转录组m6A图谱。",
+   "relevance_cn": "直接服务DRS修饰检测与m6A验证基准。"
+  },
+  {
+   "title": "A Token-Pruning Framework Enables Efficient Representation of the Human Genome for RNA Modification Analysis.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42678364/",
+   "doi": "10.1093/bioinformatics/btag621",
+   "journal": "Bioinformatics (Oxford, England)",
+   "date": "2026 Sep 1",
+   "_bucket": "rna_mod",
+   "priority": "🥇",
+   "summary_cn": "提出token剪枝压缩人类基因组表示，用于高效RNA修饰分析。",
+   "relevance_cn": "可借鉴于修饰预测模型的长序列建模降本。"
+  },
+  {
+   "title": "Cellular signal-responsive m5C editing by an inducible split CRISPR platform.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42680563/",
+   "doi": "10.1261/rna.081049.126",
+   "journal": "RNA (New York, N.Y.)",
+   "date": "2026 Sep 1",
+   "_bucket": "rna_mod",
+   "priority": "🥇",
+   "summary_cn": "构建可诱导split CRISPR平台，实现细胞信号响应的m5C编辑。",
+   "relevance_cn": "提供可控RNA修饰编辑工具，利于功能验证。"
+  },
+  {
+   "title": "From rules to foundation models: a comprehensive review of machine learning approaches for siRNA design.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42676509/",
+   "doi": "10.1093/nargab/lqag099",
+   "journal": "NAR genomics and bioinformatics",
+   "date": "2026 Sep",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "综述siRNA设计从规则到基础模型的ML进展与数据挑战。",
+   "relevance_cn": "展示RNA序列模型设计范式，可迁移到修饰建模。"
+  },
+  {
+   "title": "AI-enhanced adaptive virtual screening of large libraries for ligand discovery.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42680826/",
+   "doi": "10.1038/s41587-026-03217-x",
+   "journal": "Nature biotechnology",
+   "date": "2026 Sep 1",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "提出AI增强自适应虚拟筛选，在超大化合物库中加速配体发现。",
+   "relevance_cn": "高水平AI落地案例，启发生物分子筛选流程。"
+  },
+  {
+   "title": "Improving RNA Secondary Structure Prediction Through Expanded Training Data.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42680564/",
+   "doi": "10.1261/rna.081259.126",
+   "journal": "RNA (New York, N.Y.)",
+   "date": "2026 Sep 1",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "通过扩增训练数据改进RNA二级结构预测，强调数据规模效应。",
+   "relevance_cn": "与RNA结构和修饰互作建模高度相关。"
+  },
+  {
+   "title": "PGS-GS: a framework integrating polygenic scores and genomic selection in animal breeding.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42679224/",
+   "doi": "10.1093/bib/bbag397",
+   "journal": "Briefings in bioinformatics",
+   "date": "2026 Sep 1",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "提出PGS-GS框架，整合多基因评分与基因组选择用于育种。",
+   "relevance_cn": "提供组学预测框架，对生信建模有参考价值。"
+  },
+  {
+   "title": "PUS7-Mediated Pseudouridylation of TGFBI Drives Vascular Remodeling in Pulmonary Hypertension.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42677488/",
+   "doi": "10.1161/CIRCULATIONAHA.126.080714",
+   "journal": "Circulation",
+   "date": "2026 Sep 1",
+   "_bucket": "rna_mod",
+   "priority": "🥉",
+   "summary_cn": "揭示PUS7介导TGFBI假尿苷化驱动肺高压血管重塑。",
+   "relevance_cn": "顶刊RNA修饰机制，可拓展假尿苷功能研究。"
+  }
+ ],
+ "no_core": false,
+ "summary_zh": "今日核心方向有DRS m6A图谱、RNA修饰建模与编辑工具，AI侧覆盖基础模型综述和分子/组学落地应用。",
+ "_meta": {
+  "model": "gpt-5.5",
+  "base_url": "https://api.tfclab-logan.xyz/v1",
+  "candidates_in": 85,
+  "papers_out": 8
+ }
+}

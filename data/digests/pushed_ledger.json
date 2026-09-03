@@ -2320,5 +2320,53 @@
   "title": "Multi-Technique Integration Identifies O-GlcNAc Transferase in Fibroblast-Like Synoviocytes as a Therapeutic Target for Rheumatoid Arthritis.",
   "doi": "10.1002/advs.77466",
   "link": "https://pubmed.ncbi.nlm.nih.gov/42671010/"
+ },
+ "doi:10.1371/journal.pgen.1012278": {
+  "date": "2026-09-03",
+  "title": "Characterization of METTL3/14-mediated m6A modification in human transcriptome using Nanopore direct RNA sequencing.",
+  "doi": "10.1371/journal.pgen.1012278",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42678953/"
+ },
+ "doi:10.1093/bioinformatics/btag621": {
+  "date": "2026-09-03",
+  "title": "A Token-Pruning Framework Enables Efficient Representation of the Human Genome for RNA Modification Analysis.",
+  "doi": "10.1093/bioinformatics/btag621",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42678364/"
+ },
+ "doi:10.1261/rna.081049.126": {
+  "date": "2026-09-03",
+  "title": "Cellular signal-responsive m5C editing by an inducible split CRISPR platform.",
+  "doi": "10.1261/rna.081049.126",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42680563/"
+ },
+ "doi:10.1093/nargab/lqag099": {
+  "date": "2026-09-03",
+  "title": "From rules to foundation models: a comprehensive review of machine learning approaches for siRNA design.",
+  "doi": "10.1093/nargab/lqag099",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42676509/"
+ },
+ "doi:10.1038/s41587-026-03217-x": {
+  "date": "2026-09-03",
+  "title": "AI-enhanced adaptive virtual screening of large libraries for ligand discovery.",
+  "doi": "10.1038/s41587-026-03217-x",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42680826/"
+ },
+ "doi:10.1261/rna.081259.126": {
+  "date": "2026-09-03",
+  "title": "Improving RNA Secondary Structure Prediction Through Expanded Training Data.",
+  "doi": "10.1261/rna.081259.126",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42680564/"
+ },
+ "doi:10.1093/bib/bbag397": {
+  "date": "2026-09-03",
+  "title": "PGS-GS: a framework integrating polygenic scores and genomic selection in animal breeding.",
+  "doi": "10.1093/bib/bbag397",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42679224/"
+ },
+ "doi:10.1161/circulationaha.126.080714": {
+  "date": "2026-09-03",
+  "title": "PUS7-Mediated Pseudouridylation of TGFBI Drives Vascular Remodeling in Pulmonary Hypertension.",
+  "doi": "10.1161/CIRCULATIONAHA.126.080714",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42677488/"
  }
 }
