@@ -1,0 +1,90 @@
+{
+ "date": "2026-09-04",
+ "papers": [
+  {
+   "title": "m6A-ARTR-DBiT for Spatial Mapping of m6A Epitranscriptome.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42687263/",
+   "doi": "10.1021/acschembio.6c00603",
+   "journal": "ACS chemical biology",
+   "date": "2026 Sep 1",
+   "_bucket": "rna_mod",
+   "priority": "🥇",
+   "summary_cn": "提出m6A-ARTR-DBiT，实现m6A表观转录组的空间定位绘制。",
+   "relevance_cn": "直接面向m6A空间检测，值得关注其实验与分析流程。"
+  },
+  {
+   "title": "OligoSeq: Rapid nanopore-sequencing of single-stranded oligonucleotides.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42691118/",
+   "doi": "10.1371/journal.pone.0355056",
+   "journal": "PloS one",
+   "date": "2026",
+   "_bucket": "nanopore_drs",
+   "priority": "🥇",
+   "summary_cn": "开发OligoSeq，用纳米孔快速测序单链寡核苷酸。",
+   "relevance_cn": "拓展纳米孔读RNA/寡核苷酸的建库与信号应用场景。"
+  },
+  {
+   "title": "Dietary effects on cytosolic and mitochondrial tRNA abundance and modification patterns across mouse tissues.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42680561/",
+   "doi": "10.1101/gr.281159.125",
+   "journal": "Genome research",
+   "date": "2026 Sep 1",
+   "_bucket": "rna_mod",
+   "priority": "🥇",
+   "summary_cn": "系统分析饮食对小鼠多组织胞质与线粒体tRNA丰度及修饰模式的影响。",
+   "relevance_cn": "提供tRNA修饰跨组织图谱，可借鉴其修饰定量策略。"
+  },
+  {
+   "title": "DNAmBERT: a transformer-based model for non-invasive cancer diagnosis using DNA sequence and methylation data.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42685313/",
+   "doi": "10.1093/bib/bbag455",
+   "journal": "Briefings in bioinformatics",
+   "date": "2026 Sep 1",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "提出DNAmBERT，融合DNA序列与甲基化信息进行无创癌症诊断。",
+   "relevance_cn": "表观组学Transformer建模思路可迁移到RNA修饰任务。"
+  },
+  {
+   "title": "scGFormer: A Multi-Scale Graph-Transformer for Cell Type Annotation in Single-Cell RNA Sequencing.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42691002/",
+   "doi": "10.1109/TCBBIO.2026.3730687",
+   "journal": "IEEE transactions on computational biology and bioinformatics",
+   "date": "2026 Sep 3",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "提出多尺度Graph-Transformer框架scGFormer，用于scRNA-seq细胞类型注释。",
+   "relevance_cn": "图Transformer处理单细胞表达的设计可服务多组学注释。"
+  },
+  {
+   "title": "Creating bottom-up RNA transfer vehicles from synthetic protein assemblies.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42686908/",
+   "doi": "10.1038/s41586-026-10952-3",
+   "journal": "Nature",
+   "date": "2026 Sep 2",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "利用合成蛋白组装体自底向上构建RNA递送载体。",
+   "relevance_cn": "顶刊RNA工程应用，对RNA工具与递送系统设计有启发。"
+  },
+  {
+   "title": "MAIDTA: an interpretable attention-based multi-modal model for drug-target affinity prediction.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42691005/",
+   "doi": "10.1080/10255842.2026.2727109",
+   "journal": "Computer methods in biomechanics and biomedical engineering",
+   "date": "2026 Sep 3",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "提出可解释注意力多模态模型MAIDTA，用于药物-靶标亲和力预测。",
+   "relevance_cn": "展示分子与蛋白多模态AI建模的落地范式。"
+  }
+ ],
+ "no_core": false,
+ "summary_zh": "今日核心包括空间m6A检测、纳米孔寡核苷酸测序和tRNA修饰图谱，AI侧覆盖表观组Transformer、单细胞图模型与RNA工程应用。",
+ "_meta": {
+  "model": "gpt-5.5",
+  "base_url": "https://api.tfclab-logan.xyz/v1",
+  "candidates_in": 82,
+  "papers_out": 7
+ }
+}

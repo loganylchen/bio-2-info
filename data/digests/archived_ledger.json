@@ -1213,5 +1213,40 @@
   "date": "2026-09-03",
   "pdf": false,
   "title": "PUS7-Mediated Pseudouridylation of TGFBI Drives Vascular Remodeling in Pulmonary Hypertension."
+ },
+ "doi:10.1021/acschembio.6c00603": {
+  "date": "2026-09-04",
+  "pdf": false,
+  "title": "m6A-ARTR-DBiT for Spatial Mapping of m6A Epitranscriptome."
+ },
+ "doi:10.1371/journal.pone.0355056": {
+  "date": "2026-09-04",
+  "pdf": false,
+  "title": "OligoSeq: Rapid nanopore-sequencing of single-stranded oligonucleotides."
+ },
+ "doi:10.1101/gr.281159.125": {
+  "date": "2026-09-04",
+  "pdf": false,
+  "title": "Dietary effects on cytosolic and mitochondrial tRNA abundance and modification patterns across mouse tissues."
+ },
+ "doi:10.1093/bib/bbag455": {
+  "date": "2026-09-04",
+  "pdf": false,
+  "title": "DNAmBERT: a transformer-based model for non-invasive cancer diagnosis using DNA sequence and methylation data."
+ },
+ "doi:10.1109/tcbbio.2026.3730687": {
+  "date": "2026-09-04",
+  "pdf": false,
+  "title": "scGFormer: A Multi-Scale Graph-Transformer for Cell Type Annotation in Single-Cell RNA Sequencing."
+ },
+ "doi:10.1038/s41586-026-10952-3": {
+  "date": "2026-09-04",
+  "pdf": false,
+  "title": "Creating bottom-up RNA transfer vehicles from synthetic protein assemblies."
+ },
+ "doi:10.1080/10255842.2026.2727109": {
+  "date": "2026-09-04",
+  "pdf": false,
+  "title": "MAIDTA: an interpretable attention-based multi-modal model for drug-target affinity prediction."
  }
 }
