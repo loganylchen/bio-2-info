@@ -1248,5 +1248,40 @@
   "date": "2026-09-04",
   "pdf": false,
   "title": "MAIDTA: an interpretable attention-based multi-modal model for drug-target affinity prediction."
+ },
+ "doi:10.1038/s41588-026-02706-8": {
+  "date": "2026-09-05",
+  "pdf": false,
+  "title": "Scalable, generalizable and uncertainty-aware integration of spatial multiomics across diverse modalities and platforms with SCIGMA."
+ },
+ "doi:10.1093/bib/bbag461": {
+  "date": "2026-09-05",
+  "pdf": false,
+  "title": "Comprehensive evaluation of AlphaFold/OpenFold prediction of experimentally unresolved proteins through novel metrics."
+ },
+ "doi:10.1016/j.media.2026.104206": {
+  "date": "2026-09-05",
+  "pdf": false,
+  "title": "STAG: Biologically guided spatial transcriptomics prediction via hypergraph learning."
+ },
+ "doi:10.1016/j.bmc.2026.118732": {
+  "date": "2026-09-05",
+  "pdf": false,
+  "title": "Assessing the use of foundation model embeddings to improve drug response predictions using scRNA-Seq expression data."
+ },
+ "doi:10.1093/toxsci/kfag113": {
+  "date": "2026-09-05",
+  "pdf": false,
+  "title": "ToxCompl Completion of the DrugMatrix Toxicogenomics Database: An Integrated Resource for Toxicological Hypothesis Generation."
+ },
+ "doi:10.1007/s00335-026-10267-8": {
+  "date": "2026-09-05",
+  "pdf": false,
+  "title": "Machine learning identifies ac4C-related prognostic signature and TUBA1C as therapeutic target in COAD."
+ },
+ "doi:10.1016/j.tranon.2026.102986": {
+  "date": "2026-09-05",
+  "pdf": false,
+  "title": "The pseudouridine epitranscriptomic landscape of advanced prostate cancer therapeutic resistance identifies TIMM17A as a key player."
  }
 }
