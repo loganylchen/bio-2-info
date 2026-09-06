@@ -1283,5 +1283,40 @@
   "date": "2026-09-05",
   "pdf": false,
   "title": "The pseudouridine epitranscriptomic landscape of advanced prostate cancer therapeutic resistance identifies TIMM17A as a key player."
+ },
+ "doi:10.64898/2026.09.01.748722": {
+  "date": "2026-09-06",
+  "pdf": false,
+  "title": "Temozolomide Induces Aberrant RNA Alkylation and Widespread Translational Repression"
+ },
+ "doi:10.1093/bib/bbag469": {
+  "date": "2026-09-06",
+  "pdf": false,
+  "title": "Gene-Chronos: parameter-efficient developmental time inference using a pretrained single-cell foundation model."
+ },
+ "doi:10.1016/j.crmeth.2026.101577": {
+  "date": "2026-09-06",
+  "pdf": false,
+  "title": "A deep learning framework for oligopeptide candidate discovery across metabolism-related contexts."
+ },
+ "doi:10.1093/bib/bbag471": {
+  "date": "2026-09-06",
+  "pdf": false,
+  "title": "Decoupling topological and molecular features for interpretable biomolecular interaction prediction."
+ },
+ "doi:10.64898/2026.08.28.747791": {
+  "date": "2026-09-06",
+  "pdf": false,
+  "title": "Macrophage signature-based prediction of cancer treatment response using MIL-attention"
+ },
+ "doi:10.1016/j.media.2026.104197": {
+  "date": "2026-09-06",
+  "pdf": false,
+  "title": "SPADE: Spatial transcriptomics and pathology alignment using a mixture of data experts for an expressive latent space."
+ },
+ "doi:10.1177/15578666261457147": {
+  "date": "2026-09-06",
+  "pdf": false,
+  "title": "Cell Type Prediction for Single-Cell RNA Sequencing Utilizing Unsupervised Domain Adaptation and Semi-Supervised Learning."
  }
 }

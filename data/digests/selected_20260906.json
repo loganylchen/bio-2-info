@@ -1,0 +1,90 @@
+{
+ "date": "2026-09-06",
+ "papers": [
+  {
+   "title": "Temozolomide Induces Aberrant RNA Alkylation and Widespread Translational Repression",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.09.01.748722",
+   "doi": "10.64898/2026.09.01.748722",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-09-03",
+   "_bucket": "core",
+   "priority": "🥇",
+   "summary_cn": "发现TMZ诱导RNA异常烷基化，并用Nanopore DRS解析m7G累积与翻译抑制。",
+   "relevance_cn": "展示DRS捕捉药物诱导RNA损伤/修饰的应用场景。"
+  },
+  {
+   "title": "Gene-Chronos: parameter-efficient developmental time inference using a pretrained single-cell foundation model.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42696754/",
+   "doi": "10.1093/bib/bbag469",
+   "journal": "Briefings in bioinformatics",
+   "date": "2026 Sep 1",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "基于预训练单细胞基础模型，提出参数高效的发育时间推断框架。",
+   "relevance_cn": "可借鉴于单细胞表观转录组时间轴建模。"
+  },
+  {
+   "title": "A deep learning framework for oligopeptide candidate discovery across metabolism-related contexts.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42697196/",
+   "doi": "10.1016/j.crmeth.2026.101577",
+   "journal": "Cell reports methods",
+   "date": "2026 Sep 4",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "提出深度学习框架，在代谢相关场景中系统发现候选寡肽分子。",
+   "relevance_cn": "是AI驱动分子发现的较好落地范例。"
+  },
+  {
+   "title": "Decoupling topological and molecular features for interpretable biomolecular interaction prediction.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42696755/",
+   "doi": "10.1093/bib/bbag471",
+   "journal": "Briefings in bioinformatics",
+   "date": "2026 Sep 1",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "解耦拓扑与分子特征，构建可解释的生物分子相互作用预测模型。",
+   "relevance_cn": "有助于设计可解释RNA-蛋白/分子互作模型。"
+  },
+  {
+   "title": "Macrophage signature-based prediction of cancer treatment response using MIL-attention",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.08.28.747791",
+   "doi": "10.64898/2026.08.28.747791",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-09-03",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "用单细胞RNA基础模型嵌入和MIL-attention预测癌症治疗响应。",
+   "relevance_cn": "提供小样本单细胞队列AI建模参考。"
+  },
+  {
+   "title": "SPADE: Spatial transcriptomics and pathology alignment using a mixture of data experts for an expressive latent space.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42442210/",
+   "doi": "10.1016/j.media.2026.104197",
+   "journal": "Medical image analysis",
+   "date": "2026 Sep",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "提出混合专家潜空间方法，对齐空间转录组与病理图像信息。",
+   "relevance_cn": "对空间组学多模态融合分析有借鉴价值。"
+  },
+  {
+   "title": "Cell Type Prediction for Single-Cell RNA Sequencing Utilizing Unsupervised Domain Adaptation and Semi-Supervised Learning.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42267961/",
+   "doi": "10.1177/15578666261457147",
+   "journal": "Journal of computational biology : a journal of computational molecular cell biology",
+   "date": "2026 Sep",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "结合无监督域适配与半监督学习，改进scRNA-seq细胞类型预测。",
+   "relevance_cn": "适合迁移到单细胞修饰组或DRS细胞注释任务。"
+  }
+ ],
+ "no_core": false,
+ "summary_zh": "今日核心亮点是DRS解析药物诱导RNA烷基化，AI方向以单细胞基础模型、多模态空间组学和分子发现为主。",
+ "_meta": {
+  "model": "gpt-5.5",
+  "base_url": "https://api.tfclab-logan.xyz/v1",
+  "candidates_in": 80,
+  "papers_out": 7
+ }
+}

@@ -2452,5 +2452,47 @@
   "title": "The pseudouridine epitranscriptomic landscape of advanced prostate cancer therapeutic resistance identifies TIMM17A as a key player.",
   "doi": "10.1016/j.tranon.2026.102986",
   "link": "https://pubmed.ncbi.nlm.nih.gov/42685612/"
+ },
+ "doi:10.64898/2026.09.01.748722": {
+  "date": "2026-09-06",
+  "title": "Temozolomide Induces Aberrant RNA Alkylation and Widespread Translational Repression",
+  "doi": "10.64898/2026.09.01.748722",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.09.01.748722"
+ },
+ "doi:10.1093/bib/bbag469": {
+  "date": "2026-09-06",
+  "title": "Gene-Chronos: parameter-efficient developmental time inference using a pretrained single-cell foundation model.",
+  "doi": "10.1093/bib/bbag469",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42696754/"
+ },
+ "doi:10.1016/j.crmeth.2026.101577": {
+  "date": "2026-09-06",
+  "title": "A deep learning framework for oligopeptide candidate discovery across metabolism-related contexts.",
+  "doi": "10.1016/j.crmeth.2026.101577",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42697196/"
+ },
+ "doi:10.1093/bib/bbag471": {
+  "date": "2026-09-06",
+  "title": "Decoupling topological and molecular features for interpretable biomolecular interaction prediction.",
+  "doi": "10.1093/bib/bbag471",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42696755/"
+ },
+ "doi:10.64898/2026.08.28.747791": {
+  "date": "2026-09-06",
+  "title": "Macrophage signature-based prediction of cancer treatment response using MIL-attention",
+  "doi": "10.64898/2026.08.28.747791",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.08.28.747791"
+ },
+ "doi:10.1016/j.media.2026.104197": {
+  "date": "2026-09-06",
+  "title": "SPADE: Spatial transcriptomics and pathology alignment using a mixture of data experts for an expressive latent space.",
+  "doi": "10.1016/j.media.2026.104197",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42442210/"
+ },
+ "doi:10.1177/15578666261457147": {
+  "date": "2026-09-06",
+  "title": "Cell Type Prediction for Single-Cell RNA Sequencing Utilizing Unsupervised Domain Adaptation and Semi-Supervised Learning.",
+  "doi": "10.1177/15578666261457147",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42267961/"
  }
 }
