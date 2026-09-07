@@ -1,0 +1,90 @@
+{
+ "date": "2026-09-07",
+ "papers": [
+  {
+   "title": "Image-guided alignment of consecutive multi-modal tissue slides.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42692020/",
+   "doi": "10.1016/j.crmeth.2026.101575",
+   "journal": "Cell reports methods",
+   "date": "2026 Sep 3",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "提出多模态连续组织切片的图像引导配准方法，提升跨平台空间数据对齐。",
+   "relevance_cn": "可借鉴于空间组学与多模态生信数据整合。"
+  },
+  {
+   "title": "Accurately Deciphering Tissue Heterogeneity From Spatial Multi-Modal and Multi-Omics With STransformer.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42263243/",
+   "doi": "10.1002/advs.75969",
+   "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+   "date": "2026 Sep",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "开发STransformer整合空间多模态多组学，解析组织异质性。",
+   "relevance_cn": "对空间转录组和多组学深度建模有方法参考价值。"
+  },
+  {
+   "title": "Adding layers of information to scRNA-seq data using pre-trained language models",
+   "link": "https://www.biorxiv.org/content/10.1101/2025.08.23.671699",
+   "doi": "10.1101/2025.08.23.671699",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-09-04",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "用预训练生物医学语言模型为scRNA-seq学习文献增强表示。",
+   "relevance_cn": "展示LLM/PLM与单细胞表达矩阵融合的新范式。"
+  },
+  {
+   "title": "Systematic prioritization of candidate genes in camptothecin biosynthesis using multi-omics and deep learning.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42557532/",
+   "doi": "10.1002/tpg2.70284",
+   "journal": "The plant genome",
+   "date": "2026 Sep",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "结合多组学与深度学习系统优先排序喜树碱生物合成候选基因。",
+   "relevance_cn": "是AI驱动基因功能挖掘的组学应用案例。"
+  },
+  {
+   "title": "A dynamic fusion diffusion model for molecular generation.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42701174/",
+   "doi": "10.1007/s11030-026-11718-9",
+   "journal": "Molecular diversity",
+   "date": "2026 Sep 5",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "提出动态融合扩散模型用于分子生成，面向药物样化合物设计。",
+   "relevance_cn": "体现扩散模型在分子设计中的落地应用。"
+  },
+  {
+   "title": "SilicoXplore: An integrated cloud platform coupling machine learning with physics-based modelling for end-to-end drug discovery, applied to the computational prioritisation of putative New Delhi metallo-β-lactamase-1 binders.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42700759/",
+   "doi": "10.1016/j.jmgm.2026.109566",
+   "journal": "Journal of molecular graphics & modelling",
+   "date": "2026 Sep 4",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "构建云端平台融合机器学习与物理建模，筛选NDM-1潜在抑制剂。",
+   "relevance_cn": "可参考其ML与结构建模结合的药物发现流程。"
+  },
+  {
+   "title": "Metabolic Reprogramming of NSUN2-Mediated m(5)C Modification Promotes the Progression of Hepatocellular Carcinoma by Restricting Natural Killer Cell-Mediated Cytotoxicity.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42676762/",
+   "doi": "10.34133/cancomm.0043",
+   "journal": "Cancer communications (London, England)",
+   "date": "2026",
+   "_bucket": "rna_mod",
+   "priority": "🥉",
+   "summary_cn": "报道NSUN2介导m5C重塑代谢并抑制NK细胞毒性，促进肝癌进展。",
+   "relevance_cn": "补充m5C修饰与肿瘤免疫代谢机制线索。"
+  }
+ ],
+ "no_core": true,
+ "summary_zh": "今日无核心新方法论文；精选AI生信方法、多组学AI应用及一篇较优m5C机制研究。",
+ "_meta": {
+  "model": "gpt-5.5",
+  "base_url": "https://api.tfclab-logan.xyz/v1",
+  "candidates_in": 77,
+  "papers_out": 7
+ }
+}

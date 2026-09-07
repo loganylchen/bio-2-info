@@ -1318,5 +1318,40 @@
   "date": "2026-09-06",
   "pdf": false,
   "title": "Cell Type Prediction for Single-Cell RNA Sequencing Utilizing Unsupervised Domain Adaptation and Semi-Supervised Learning."
+ },
+ "doi:10.1016/j.crmeth.2026.101575": {
+  "date": "2026-09-07",
+  "pdf": false,
+  "title": "Image-guided alignment of consecutive multi-modal tissue slides."
+ },
+ "doi:10.1002/advs.75969": {
+  "date": "2026-09-07",
+  "pdf": false,
+  "title": "Accurately Deciphering Tissue Heterogeneity From Spatial Multi-Modal and Multi-Omics With STransformer."
+ },
+ "doi:10.1101/2025.08.23.671699": {
+  "date": "2026-09-07",
+  "pdf": false,
+  "title": "Adding layers of information to scRNA-seq data using pre-trained language models"
+ },
+ "doi:10.1002/tpg2.70284": {
+  "date": "2026-09-07",
+  "pdf": false,
+  "title": "Systematic prioritization of candidate genes in camptothecin biosynthesis using multi-omics and deep learning."
+ },
+ "doi:10.1007/s11030-026-11718-9": {
+  "date": "2026-09-07",
+  "pdf": false,
+  "title": "A dynamic fusion diffusion model for molecular generation."
+ },
+ "doi:10.1016/j.jmgm.2026.109566": {
+  "date": "2026-09-07",
+  "pdf": false,
+  "title": "SilicoXplore: An integrated cloud platform coupling machine learning with physics-based modelling for end-to-end drug discovery, applied to the computational prioritisation of putative New Delhi metallo-β-lactamase-1 binders."
+ },
+ "doi:10.34133/cancomm.0043": {
+  "date": "2026-09-07",
+  "pdf": false,
+  "title": "Metabolic Reprogramming of NSUN2-Mediated m(5)C Modification Promotes the Progression of Hepatocellular Carcinoma by Restricting Natural Killer Cell-Mediated Cytotoxicity."
  }
 }
