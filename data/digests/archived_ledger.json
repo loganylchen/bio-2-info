@@ -1353,5 +1353,40 @@
   "date": "2026-09-07",
   "pdf": false,
   "title": "Metabolic Reprogramming of NSUN2-Mediated m(5)C Modification Promotes the Progression of Hepatocellular Carcinoma by Restricting Natural Killer Cell-Mediated Cytotoxicity."
+ },
+ "doi:10.1002/wrna.70055": {
+  "date": "2026-09-09",
+  "pdf": false,
+  "title": "Experimental and Computational Tools for Mapping Circular RNA Modifications."
+ },
+ "doi:10.64898/2026.09.02.748773": {
+  "date": "2026-09-09",
+  "pdf": false,
+  "title": "From code to natural language: MErlin - a multiomics toolkit for bacterial epigenomics delivered as Claude agent skill."
+ },
+ "doi:10.64898/2026.09.03.749252": {
+  "date": "2026-09-09",
+  "pdf": false,
+  "title": "Analytical and functional clearance of dsRNA contaminants from in vitro transcribed mRNA by an engineered dsRNA-binding protein"
+ },
+ "doi:10.64898/2026.09.04.749360": {
+  "date": "2026-09-09",
+  "pdf": false,
+  "title": "Multi-omic Environmental Monitoring Reveals When Molecular Signals Reflect Living Biology"
+ },
+ "doi:10.1371/journal.pcbi.1014762": {
+  "date": "2026-09-09",
+  "pdf": false,
+  "title": "Spatially guided translation from histology images to transcriptomic profiles using foundation model-driven contrastive learning."
+ },
+ "doi:10.1101/2025.04.02.646906": {
+  "date": "2026-09-09",
+  "pdf": false,
+  "title": "Learning Universal Representations of Intermolecular Interactions with ATOMICA"
+ },
+ "doi:10.1186/s12864-026-13163-2": {
+  "date": "2026-09-09",
+  "pdf": false,
+  "title": "Enhancing detection of polygenic adaptation: a comparative study of machine learning and statistical approaches using simulated evolve-and-resequence data."
  }
 }
