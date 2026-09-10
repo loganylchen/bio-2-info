@@ -2578,5 +2578,47 @@
   "title": "Enhancing detection of polygenic adaptation: a comparative study of machine learning and statistical approaches using simulated evolve-and-resequence data.",
   "doi": "10.1186/s12864-026-13163-2",
   "link": "https://pubmed.ncbi.nlm.nih.gov/42706513/"
+ },
+ "doi:10.1126/sciadv.aeb4205": {
+  "date": "2026-09-10",
+  "title": "Learning stochastic dynamics and cell-fate landscapes from single-cell snapshots via optimal transport.",
+  "doi": "10.1126/sciadv.aeb4205",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42715336/"
+ },
+ "doi:10.1016/j.crmeth.2026.101578": {
+  "date": "2026-09-10",
+  "title": "Multimodal alignment improves generalizability of genomic biomarker prediction in computational pathology.",
+  "doi": "10.1016/j.crmeth.2026.101578",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42710490/"
+ },
+ "doi:10.1109/jbhi.2026.3729707": {
+  "date": "2026-09-10",
+  "title": "Three New Transformer-based Scientific Validated Paradigms for Classification of Hypertrophic Cardiomyopathy and Acute Myocardial Infarction Patients Using Transcriptomic Gene Data on GPU cluster.",
+  "doi": "10.1109/JBHI.2026.3729707",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42685169/"
+ },
+ "doi:10.1038/s41467-026-77539-4": {
+  "date": "2026-09-10",
+  "title": "Integrating multi-omics technologies to decipher microbiome functions.",
+  "doi": "10.1038/s41467-026-77539-4",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42711342/"
+ },
+ "doi:10.1016/j.ejmech.2026.119312": {
+  "date": "2026-09-10",
+  "title": "XenoSoM: A deep learning framework for site of metabolism prediction of xenobiotics.",
+  "doi": "10.1016/j.ejmech.2026.119312",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42710346/"
+ },
+ "doi:10.1098/rsif.2026.0040": {
+  "date": "2026-09-10",
+  "title": "Bayesian inference of gene regulatory networks at stochastic steady state.",
+  "doi": "10.1098/rsif.2026.0040",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42710888/"
+ },
+ "doi:10.1038/s41559-026-03164-5": {
+  "date": "2026-09-10",
+  "title": "Flexible use of conserved motifs constrains genome access in cell type evolution.",
+  "doi": "10.1038/s41559-026-03164-5",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42711533/"
  }
 }
