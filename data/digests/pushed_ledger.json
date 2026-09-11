@@ -2620,5 +2620,53 @@
   "title": "Flexible use of conserved motifs constrains genome access in cell type evolution.",
   "doi": "10.1038/s41559-026-03164-5",
   "link": "https://pubmed.ncbi.nlm.nih.gov/42711533/"
+ },
+ "doi:10.1016/j.omta.2026.201833": {
+  "date": "2026-09-11",
+  "title": "RNA-TITER-An ADAR-based transcript detection assay for accelerated functional titer assessment of adeno-associated viruses.",
+  "doi": "10.1016/j.omta.2026.201833",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42643875/"
+ },
+ "doi:10.1038/s41586-026-11005-5": {
+  "date": "2026-09-11",
+  "title": "Predicting genome-wide functional constraints with GPN-Star.",
+  "doi": "10.1038/s41586-026-11005-5",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42717086/"
+ },
+ "doi:10.1016/j.ccell.2026.07.010": {
+  "date": "2026-09-11",
+  "title": "UniCure: A multi-modal model for predicting personalized cancer therapy response.",
+  "doi": "10.1016/j.ccell.2026.07.010",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42716007/"
+ },
+ "doi:10.1080/15476286.2026.2731913": {
+  "date": "2026-09-11",
+  "title": "HyLnc: a hybrid deep learning and feature-based approach for long non-coding RNA prediction.",
+  "doi": "10.1080/15476286.2026.2731913",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42716909/"
+ },
+ "doi:10.1038/s41586-026-11001-9": {
+  "date": "2026-09-11",
+  "title": "An operational perturbation proteomics-based virtual cell model.",
+  "doi": "10.1038/s41586-026-11001-9",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42717098/"
+ },
+ "doi:10.1093/bioinformatics/btag675": {
+  "date": "2026-09-11",
+  "title": "Partaker: deep-learning-based single-cell-resolution analysis of multi-dimensional, long-term, microfluidic-based time-lapse microscopy data.",
+  "doi": "10.1093/bioinformatics/btag675",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42720611/"
+ },
+ "doi:10.1093/nargab/lqag108": {
+  "date": "2026-09-11",
+  "title": "Long-read based detection of large copy number variants with potential functional significance using the ContextSV structural variant caller.",
+  "doi": "10.1093/nargab/lqag108",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42719292/"
+ },
+ "doi:10.1038/s41551-026-01790-9": {
+  "date": "2026-09-11",
+  "title": "Sequence and structural determinants of efficacious de novo chimaeric antigen receptors.",
+  "doi": "10.1038/s41551-026-01790-9",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42716964/"
  }
 }
