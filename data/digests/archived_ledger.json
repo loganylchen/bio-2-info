@@ -1463,5 +1463,45 @@
   "date": "2026-09-11",
   "pdf": false,
   "title": "Sequence and structural determinants of efficacious de novo chimaeric antigen receptors."
+ },
+ "doi:10.1093/bioinformatics/btag456": {
+  "date": "2026-09-12",
+  "pdf": false,
+  "title": "Genomic language model for predicting enhancers and their allele-specific activity in the human genome."
+ },
+ "doi:10.1109/jbhi.2026.3733404": {
+  "date": "2026-09-12",
+  "pdf": false,
+  "title": "Multiview Transformer-Based Hierarchical Fusion Model for Cell Type Identification."
+ },
+ "doi:10.1002/advs.77657": {
+  "date": "2026-09-12",
+  "pdf": false,
+  "title": "Engineered Transformer Base Editor with Enhanced Editing Efficiency."
+ },
+ "doi:10.1016/j.biotechadv.2026.109039": {
+  "date": "2026-09-12",
+  "pdf": false,
+  "title": "Deep generative models in biological sequence and structure analysis and design."
+ },
+ "doi:10.34133/csbj.0218": {
+  "date": "2026-09-12",
+  "pdf": false,
+  "title": "Generative Chemistry Platform for Small Molecules Targeting RNA: A Case Study for Chemical Optimization."
+ },
+ "doi:10.1016/j.cell.2026.08.028": {
+  "date": "2026-09-12",
+  "pdf": false,
+  "title": "4D spatiotemporal landscape of mitochondrial phenotypes across cellular states unlocked through representation learning."
+ },
+ "doi:10.1016/j.bbrc.2026.154569": {
+  "date": "2026-09-12",
+  "pdf": false,
+  "title": "Comprehensive microRNA profiling coupled with function-based feature selection reveals a biomarker panel for predicting CAR-T cell exhaustion."
+ },
+ "doi:10.1021/acs.jmedchem.6c02170": {
+  "date": "2026-09-12",
+  "pdf": false,
+  "title": "AI-Guided Discovery of Natural-Product-Inspired Scaffolds as Dual P-gp/BCRP Inhibitors to Overcome Cancer Multidrug Resistance."
  }
 }

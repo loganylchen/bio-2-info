@@ -1,0 +1,101 @@
+{
+ "date": "2026-09-12",
+ "papers": [
+  {
+   "title": "Genomic language model for predicting enhancers and their allele-specific activity in the human genome.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42723633/",
+   "doi": "10.1093/bioinformatics/btag456",
+   "journal": "Bioinformatics (Oxford, England)",
+   "date": "2026 Sep 10",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "提出基因组语言模型预测增强子及等位基因特异活性。",
+   "relevance_cn": "序列基础模型思路可迁移到RNA调控元件建模。"
+  },
+  {
+   "title": "Multiview Transformer-Based Hierarchical Fusion Model for Cell Type Identification.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42726615/",
+   "doi": "10.1109/JBHI.2026.3733404",
+   "journal": "IEEE journal of biomedical and health informatics",
+   "date": "2026 Sep 11",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "构建多视角Transformer分层融合模型用于细胞类型识别。",
+   "relevance_cn": "有助于单细胞注释和多模态组学融合方法借鉴。"
+  },
+  {
+   "title": "Engineered Transformer Base Editor with Enhanced Editing Efficiency.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42723179/",
+   "doi": "10.1002/advs.77657",
+   "journal": "Advanced science (Weinheim, Baden-Wurttemberg, Germany)",
+   "date": "2026 Sep 10",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "利用Transformer工程化碱基编辑器以提升编辑效率。",
+   "relevance_cn": "展示AI辅助分子工具设计的可落地范式。"
+  },
+  {
+   "title": "Deep generative models in biological sequence and structure analysis and design.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42716354/",
+   "doi": "10.1016/j.biotechadv.2026.109039",
+   "journal": "Biotechnology advances",
+   "date": "2026 Sep 9",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "综述深度生成模型在生物序列、结构分析与设计中的进展。",
+   "relevance_cn": "适合跟踪生成式AI在序列和结构生信中的方法谱系。"
+  },
+  {
+   "title": "Generative Chemistry Platform for Small Molecules Targeting RNA: A Case Study for Chemical Optimization.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42724149/",
+   "doi": "10.34133/csbj.0218",
+   "journal": "Computational and structural biotechnology journal",
+   "date": "2026",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "报道面向RNA靶标小分子的生成化学平台及优化案例。",
+   "relevance_cn": "直接关联RNA靶向药物设计，启发表转录组干预策略。"
+  },
+  {
+   "title": "4D spatiotemporal landscape of mitochondrial phenotypes across cellular states unlocked through representation learning.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42721963/",
+   "doi": "10.1016/j.cell.2026.08.028",
+   "journal": "Cell",
+   "date": "2026 Sep 10",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "用表征学习解析不同细胞状态下线粒体表型的4D时空图谱。",
+   "relevance_cn": "顶刊AI表型建模案例，可借鉴到细胞组学特征学习。"
+  },
+  {
+   "title": "Comprehensive microRNA profiling coupled with function-based feature selection reveals a biomarker panel for predicting CAR-T cell exhaustion.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42721859/",
+   "doi": "10.1016/j.bbrc.2026.154569",
+   "journal": "Biochemical and biophysical research communications",
+   "date": "2026 Sep 8",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "结合miRNA谱和功能特征选择预测CAR-T细胞耗竭标志物。",
+   "relevance_cn": "是小RNA组学结合ML做功能预测的落地案例。"
+  },
+  {
+   "title": "AI-Guided Discovery of Natural-Product-Inspired Scaffolds as Dual P-gp/BCRP Inhibitors to Overcome Cancer Multidrug Resistance.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42720471/",
+   "doi": "10.1021/acs.jmedchem.6c02170",
+   "journal": "Journal of medicinal chemistry",
+   "date": "2026 Sep 10",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "AI引导发现天然产物启发的双靶点耐药逆转抑制剂骨架。",
+   "relevance_cn": "体现AI分子发现流程，对生物AI应用设计有参考价值。"
+  }
+ ],
+ "no_core": true,
+ "summary_zh": "今日无核心新方法论文，精选AI序列模型、生成设计与分子/组学层面落地应用。",
+ "_meta": {
+  "model": "gpt-5.5",
+  "base_url": "https://api.tfclab-logan.xyz/v1",
+  "candidates_in": 65,
+  "papers_out": 8
+ }
+}

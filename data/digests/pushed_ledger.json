@@ -2668,5 +2668,53 @@
   "title": "Sequence and structural determinants of efficacious de novo chimaeric antigen receptors.",
   "doi": "10.1038/s41551-026-01790-9",
   "link": "https://pubmed.ncbi.nlm.nih.gov/42716964/"
+ },
+ "doi:10.1093/bioinformatics/btag456": {
+  "date": "2026-09-12",
+  "title": "Genomic language model for predicting enhancers and their allele-specific activity in the human genome.",
+  "doi": "10.1093/bioinformatics/btag456",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42723633/"
+ },
+ "doi:10.1109/jbhi.2026.3733404": {
+  "date": "2026-09-12",
+  "title": "Multiview Transformer-Based Hierarchical Fusion Model for Cell Type Identification.",
+  "doi": "10.1109/JBHI.2026.3733404",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42726615/"
+ },
+ "doi:10.1002/advs.77657": {
+  "date": "2026-09-12",
+  "title": "Engineered Transformer Base Editor with Enhanced Editing Efficiency.",
+  "doi": "10.1002/advs.77657",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42723179/"
+ },
+ "doi:10.1016/j.biotechadv.2026.109039": {
+  "date": "2026-09-12",
+  "title": "Deep generative models in biological sequence and structure analysis and design.",
+  "doi": "10.1016/j.biotechadv.2026.109039",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42716354/"
+ },
+ "doi:10.34133/csbj.0218": {
+  "date": "2026-09-12",
+  "title": "Generative Chemistry Platform for Small Molecules Targeting RNA: A Case Study for Chemical Optimization.",
+  "doi": "10.34133/csbj.0218",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42724149/"
+ },
+ "doi:10.1016/j.cell.2026.08.028": {
+  "date": "2026-09-12",
+  "title": "4D spatiotemporal landscape of mitochondrial phenotypes across cellular states unlocked through representation learning.",
+  "doi": "10.1016/j.cell.2026.08.028",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42721963/"
+ },
+ "doi:10.1016/j.bbrc.2026.154569": {
+  "date": "2026-09-12",
+  "title": "Comprehensive microRNA profiling coupled with function-based feature selection reveals a biomarker panel for predicting CAR-T cell exhaustion.",
+  "doi": "10.1016/j.bbrc.2026.154569",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42721859/"
+ },
+ "doi:10.1021/acs.jmedchem.6c02170": {
+  "date": "2026-09-12",
+  "title": "AI-Guided Discovery of Natural-Product-Inspired Scaffolds as Dual P-gp/BCRP Inhibitors to Overcome Cancer Multidrug Resistance.",
+  "doi": "10.1021/acs.jmedchem.6c02170",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42720471/"
  }
 }
