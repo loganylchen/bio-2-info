@@ -1503,5 +1503,35 @@
   "date": "2026-09-12",
   "pdf": false,
   "title": "AI-Guided Discovery of Natural-Product-Inspired Scaffolds as Dual P-gp/BCRP Inhibitors to Overcome Cancer Multidrug Resistance."
+ },
+ "doi:10.1038/s41598-026-68286-z": {
+  "date": "2026-09-13",
+  "pdf": false,
+  "title": "Leveraging neural network models for drug repurposing: a case study on cardiac hypertrophy."
+ },
+ "doi:10.1016/j.tranon.2026.103020": {
+  "date": "2026-09-13",
+  "pdf": false,
+  "title": "Pan-cancer screening and integrative multi-omics and deep learning reveal the prognostic significance of an IBD-CRC shared host-microbe signature in bladder urothelial carcinoma."
+ },
+ "doi:10.1126/scitranslmed.aeh2517": {
+  "date": "2026-09-13",
+  "pdf": false,
+  "title": "Machine learning-driven spleen imaging and genomics uncover a splenic connection to coronary artery disease."
+ },
+ "doi:10.1371/journal.pone.0356174": {
+  "date": "2026-09-13",
+  "pdf": false,
+  "title": "A bioinformatic single-cell and structure-informed framework identifies a baicalin-CA2-keratinocyte state axis in atopic dermatitis."
+ },
+ "doi:10.1186/s12885-026-16692-x": {
+  "date": "2026-09-13",
+  "pdf": false,
+  "title": "NNMT-associated metabolic-thromboinflammatory-immune co-activation in heterogeneous CTC clusters: a hypothesis-generating computational framework\"."
+ },
+ "doi:10.1002/cyto.a.70066": {
+  "date": "2026-09-13",
+  "pdf": false,
+  "title": "Velociraptor Machine Learning Quantifies Similarity to Known Cell Types and Matches Cells Across Flow and Imaging Cytometry Platforms."
  }
 }

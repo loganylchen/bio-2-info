@@ -1,0 +1,79 @@
+{
+ "date": "2026-09-13",
+ "papers": [
+  {
+   "title": "Leveraging neural network models for drug repurposing: a case study on cardiac hypertrophy.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42722777/",
+   "doi": "10.1038/s41598-026-68286-z",
+   "journal": "Scientific reports",
+   "date": "2026 Sep 10",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "用神经网络整合药物与疾病特征，开展心肌肥厚药物再定位案例研究。",
+   "relevance_cn": "可借鉴其表示学习与候选筛选框架用于组学药物发现。"
+  },
+  {
+   "title": "Pan-cancer screening and integrative multi-omics and deep learning reveal the prognostic significance of an IBD-CRC shared host-microbe signature in bladder urothelial carcinoma.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42715652/",
+   "doi": "10.1016/j.tranon.2026.103020",
+   "journal": "Translational oncology",
+   "date": "2026 Sep 9",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "结合泛癌筛选、多组学整合与深度学习，评估宿主-微生物签名预后价值。",
+   "relevance_cn": "展示深度学习整合微生物组与癌症组学的分析范式。"
+  },
+  {
+   "title": "Machine learning-driven spleen imaging and genomics uncover a splenic connection to coronary artery disease.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42715348/",
+   "doi": "10.1126/scitranslmed.aeh2517",
+   "journal": "Science translational medicine",
+   "date": "2026 Sep 9",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "用机器学习联合脾脏影像与基因组数据，揭示其与冠心病的关联。",
+   "relevance_cn": "顶刊多模态ML研究，可参考影像-基因组整合策略。"
+  },
+  {
+   "title": "A bioinformatic single-cell and structure-informed framework identifies a baicalin-CA2-keratinocyte state axis in atopic dermatitis.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42726753/",
+   "doi": "10.1371/journal.pone.0356174",
+   "journal": "PloS one",
+   "date": "2026",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "构建单细胞与结构信息结合框架，定位特应性皮炎中baicalin-CA2轴。",
+   "relevance_cn": "是单细胞组学结合结构建模的落地AI/计算应用。"
+  },
+  {
+   "title": "NNMT-associated metabolic-thromboinflammatory-immune co-activation in heterogeneous CTC clusters: a hypothesis-generating computational framework\".",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42723032/",
+   "doi": "10.1186/s12885-026-16692-x",
+   "journal": "BMC cancer",
+   "date": "2026 Sep 10",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "提出计算框架解析异质CTC簇中NNMT相关代谢-炎症-免疫共激活。",
+   "relevance_cn": "可借鉴其多通路计算建模与假设生成流程。"
+  },
+  {
+   "title": "Velociraptor Machine Learning Quantifies Similarity to Known Cell Types and Matches Cells Across Flow and Imaging Cytometry Platforms.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42720181/",
+   "doi": "10.1002/cyto.a.70066",
+   "journal": "Cytometry. Part A : the journal of the International Society for Analytical Cytology",
+   "date": "2026 Sep 10",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "Velociraptor用机器学习量化细胞类型相似性并跨流式/成像平台匹配细胞。",
+   "relevance_cn": "对单细胞表型对齐与跨平台整合有方法参考价值。"
+  }
+ ],
+ "no_core": true,
+ "summary_zh": "今日无核心新方法论文；精选以多组学深度学习、单细胞/结构整合和跨平台细胞匹配等AI生信应用为主。",
+ "_meta": {
+  "model": "gpt-5.5",
+  "base_url": "https://api.tfclab-logan.xyz/v1",
+  "candidates_in": 38,
+  "papers_out": 6
+ }
+}
