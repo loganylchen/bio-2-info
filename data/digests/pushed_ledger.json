@@ -2752,5 +2752,47 @@
   "title": "Velociraptor Machine Learning Quantifies Similarity to Known Cell Types and Matches Cells Across Flow and Imaging Cytometry Platforms.",
   "doi": "10.1002/cyto.a.70066",
   "link": "https://pubmed.ncbi.nlm.nih.gov/42720181/"
+ },
+ "doi:10.21769/bioprotoc.5806": {
+  "date": "2026-09-14",
+  "title": "R-Loop Modification and Quantification by Dot Blot.",
+  "doi": "10.21769/BioProtoc.5806",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42729032/"
+ },
+ "doi:10.1371/journal.pone.0356888": {
+  "date": "2026-09-14",
+  "title": "Artificial intelligence-driven identification and mechanistic exploration of synergistic anti-aging compounds from Dengzhan Shengmai formulation.",
+  "doi": "10.1371/journal.pone.0356888",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42709727/"
+ },
+ "doi:10.1007/s11030-026-11728-7": {
+  "date": "2026-09-14",
+  "title": "Artificial intelligence-guided discovery of fungal ergosterol derivatives as selective LXRβ agonists targeting the cholesterol dependency of glioblastoma.",
+  "doi": "10.1007/s11030-026-11728-7",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42732035/"
+ },
+ "doi:10.1016/j.bioorg.2026.110508": {
+  "date": "2026-09-14",
+  "title": "AI-guided discovery of a brain-penetrant LILRB4 inhibitor active in microglial and 5xFAD models of Alzheimer's disease.",
+  "doi": "10.1016/j.bioorg.2026.110508",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42731186/"
+ },
+ "doi:10.1016/j.ecoenv.2026.120792": {
+  "date": "2026-09-14",
+  "title": "Multi-omics analysis and experiments reveal an association between polystyrene microplastics exposure and colorectal cancer progression.",
+  "doi": "10.1016/j.ecoenv.2026.120792",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42731388/"
+ },
+ "doi:10.1186/s40164-026-00826-9": {
+  "date": "2026-09-14",
+  "title": "Tumor-intrinsic NSUN2 orchestrates immunosuppression in lung adenocarcinoma via the m(5)C-HDAC8-CCL5 axis.",
+  "doi": "10.1186/s40164-026-00826-9",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42706582/"
+ },
+ "doi:10.1016/j.molmet.2026.102437": {
+  "date": "2026-09-14",
+  "title": "TRIM47, stabilized by YTHDF3-mediated m6A modification, promotes cardiac lipid accumulation and aggravates diabetic cardiomyopathy.",
+  "doi": "10.1016/j.molmet.2026.102437",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42697373/"
  }
 }

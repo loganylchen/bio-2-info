@@ -1,0 +1,90 @@
+{
+ "date": "2026-09-14",
+ "papers": [
+  {
+   "title": "R-Loop Modification and Quantification by Dot Blot.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42729032/",
+   "doi": "10.21769/BioProtoc.5806",
+   "journal": "Bio-protocol",
+   "date": "2026 Sep 5",
+   "_bucket": "rna_mod",
+   "priority": "🥇",
+   "summary_cn": "介绍用dot blot进行R-loop修饰检测与定量的实验流程。",
+   "relevance_cn": "为RNA结构/修饰相关实验验证提供简便定量方案。"
+  },
+  {
+   "title": "Artificial intelligence-driven identification and mechanistic exploration of synergistic anti-aging compounds from Dengzhan Shengmai formulation.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42709727/",
+   "doi": "10.1371/journal.pone.0356888",
+   "journal": "PloS one",
+   "date": "2026",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "用AI筛选灯盏生脉方中协同抗衰老化合物并解析潜在机制。",
+   "relevance_cn": "展示AI结合分子机制挖掘的天然产物发现范式。"
+  },
+  {
+   "title": "Artificial intelligence-guided discovery of fungal ergosterol derivatives as selective LXRβ agonists targeting the cholesterol dependency of glioblastoma.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42732035/",
+   "doi": "10.1007/s11030-026-11728-7",
+   "journal": "Molecular diversity",
+   "date": "2026 Sep 12",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "AI指导发现真菌麦角甾醇衍生物作为选择性LXRβ激动剂。",
+   "relevance_cn": "体现AI分子筛选与靶点机制验证的落地应用。"
+  },
+  {
+   "title": "AI-guided discovery of a brain-penetrant LILRB4 inhibitor active in microglial and 5xFAD models of Alzheimer's disease.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42731186/",
+   "doi": "10.1016/j.bioorg.2026.110508",
+   "journal": "Bioorganic chemistry",
+   "date": "2026 Sep 10",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "AI辅助发现可入脑LILRB4抑制剂，并在小胶质细胞和5xFAD模型验证。",
+   "relevance_cn": "提供AI药物发现到功能模型验证的完整案例。"
+  },
+  {
+   "title": "Multi-omics analysis and experiments reveal an association between polystyrene microplastics exposure and colorectal cancer progression.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42731388/",
+   "doi": "10.1016/j.ecoenv.2026.120792",
+   "journal": "Ecotoxicology and environmental safety",
+   "date": "2026 Sep 12",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "整合多组学与实验揭示聚苯乙烯微塑料暴露关联结直肠癌进展。",
+   "relevance_cn": "多组学整合分析思路可借鉴于机制型生信研究。"
+  },
+  {
+   "title": "Tumor-intrinsic NSUN2 orchestrates immunosuppression in lung adenocarcinoma via the m(5)C-HDAC8-CCL5 axis.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42706582/",
+   "doi": "10.1186/s40164-026-00826-9",
+   "journal": "Experimental hematology & oncology",
+   "date": "2026 Sep 7",
+   "_bucket": "rna_mod",
+   "priority": "🥉",
+   "summary_cn": "发现NSUN2通过m5C-HDAC8-CCL5轴驱动肺腺癌免疫抑制。",
+   "relevance_cn": "补充m5C调控肿瘤免疫微环境的机制线索。"
+  },
+  {
+   "title": "TRIM47, stabilized by YTHDF3-mediated m6A modification, promotes cardiac lipid accumulation and aggravates diabetic cardiomyopathy.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42697373/",
+   "doi": "10.1016/j.molmet.2026.102437",
+   "journal": "Molecular metabolism",
+   "date": "2026 Sep 4",
+   "_bucket": "rna_mod",
+   "priority": "🥉",
+   "summary_cn": "报道YTHDF3介导m6A稳定TRIM47，促进心肌脂质积累和糖尿病心肌病。",
+   "relevance_cn": "提供m6A reader影响代谢疾病表型的机制案例。"
+  }
+ ],
+ "no_core": false,
+ "summary_zh": "今日核心方法较少，主要是一篇R-loop定量实验流程；AI方向以分子发现和多组学应用为主。",
+ "_meta": {
+  "model": "gpt-5.5",
+  "base_url": "https://api.tfclab-logan.xyz/v1",
+  "candidates_in": 35,
+  "papers_out": 7
+ }
+}
