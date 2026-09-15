@@ -1,0 +1,90 @@
+{
+ "date": "2026-09-15",
+ "papers": [
+  {
+   "title": "40S Ribosome Remodeling Triggers 18S rRNA U-tailing and DIS3L2-dependent Decay",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.09.11.750429",
+   "doi": "10.64898/2026.09.11.750429",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-09-12",
+   "_bucket": "core",
+   "priority": "🥇",
+   "summary_cn": "用体外重构结合Nanopore DRS揭示40S重塑暴露18S rRNA并触发U-tailing降解。",
+   "relevance_cn": "直接展示DRS解析rRNA尾部修饰与质量控制的应用。"
+  },
+  {
+   "title": "The m6A methyltransferase complex protein VIRMA engages hepatitis C virus RNA through a WTAP-independent mechanism",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.09.11.750944",
+   "doi": "10.64898/2026.09.11.750944",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-09-12",
+   "_bucket": "core",
+   "priority": "🥇",
+   "summary_cn": "研究VIRMA如何以WTAP非依赖方式结合HCV RNA并参与病毒基因组m6A沉积。",
+   "relevance_cn": "补充病毒RNA m6A招募机制，对修饰位点调控研究有参考。"
+  },
+  {
+   "title": "Environment-Aware DNA Language Model for Stress-Responsive Genomic Prioritization in Maize",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.09.11.749989",
+   "doi": "10.64898/2026.09.11.749989",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-09-12",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "在植物基因组基础模型AgroNT上加入环境信息，用于玉米胁迫响应区域优先级排序。",
+   "relevance_cn": "体现序列基础模型与环境协变量融合的组学建模思路。"
+  },
+  {
+   "title": "CasanovoGUI: a cross-platform desktop application for deep learning-based de novo peptide sequencing with Casanovo",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.07.11.737889",
+   "doi": "10.64898/2026.07.11.737889",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-09-12",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "开发CasanovoGUI，将深度学习从头肽段测序封装为跨平台桌面工具并简化验证流程。",
+   "relevance_cn": "对AI组学工具产品化、可用性和pipeline封装有借鉴。"
+  },
+  {
+   "title": "GAPEK: A General Framework for Multiparameter Enzyme Kinetic Prediction with Adaptive Learning.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42734558/",
+   "doi": "10.1021/acs.jcim.6c02546",
+   "journal": "Journal of chemical information and modeling",
+   "date": "2026 Sep 14",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "提出GAPEK自适应学习框架，统一预测多参数酶动力学性质。",
+   "relevance_cn": "是AI预测分子功能参数的落地案例，可迁移到组学功能注释。"
+  },
+  {
+   "title": "LinkLlama: Enabling a Large Language Model for Chemically Reasonable Linker Design.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42734511/",
+   "doi": "10.1021/acs.jcim.6c01261",
+   "journal": "Journal of chemical information and modeling",
+   "date": "2026 Sep 14",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "将大语言模型用于化学合理的linker生成，面向分子设计任务优化输出。",
+   "relevance_cn": "展示LLM生成式建模在分子序列/结构设计中的应用范式。"
+  },
+  {
+   "title": "Systematic benchmarking of AlphaFold and SWISS-MODEL kinase structures for structure-based drug discovery.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42732698/",
+   "doi": "10.1016/j.jmgm.2026.109571",
+   "journal": "Journal of molecular graphics & modelling",
+   "date": "2026 Sep 11",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "系统评测AlphaFold与SWISS-MODEL激酶结构在结构药物发现中的适用性。",
+   "relevance_cn": "提供AI结构模型用于下游计算流程时的基准参考。"
+  }
+ ],
+ "no_core": false,
+ "summary_zh": "今日核心亮点是Nanopore DRS解析rRNA U-tailing降解，AI方向以基因组语言模型和分子设计应用为主。",
+ "_meta": {
+  "model": "gpt-5.5",
+  "base_url": "https://api.tfclab-logan.xyz/v1",
+  "candidates_in": 38,
+  "papers_out": 7
+ }
+}

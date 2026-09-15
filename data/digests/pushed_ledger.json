@@ -2794,5 +2794,47 @@
   "title": "TRIM47, stabilized by YTHDF3-mediated m6A modification, promotes cardiac lipid accumulation and aggravates diabetic cardiomyopathy.",
   "doi": "10.1016/j.molmet.2026.102437",
   "link": "https://pubmed.ncbi.nlm.nih.gov/42697373/"
+ },
+ "doi:10.64898/2026.09.11.750429": {
+  "date": "2026-09-15",
+  "title": "40S Ribosome Remodeling Triggers 18S rRNA U-tailing and DIS3L2-dependent Decay",
+  "doi": "10.64898/2026.09.11.750429",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.09.11.750429"
+ },
+ "doi:10.64898/2026.09.11.750944": {
+  "date": "2026-09-15",
+  "title": "The m6A methyltransferase complex protein VIRMA engages hepatitis C virus RNA through a WTAP-independent mechanism",
+  "doi": "10.64898/2026.09.11.750944",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.09.11.750944"
+ },
+ "doi:10.64898/2026.09.11.749989": {
+  "date": "2026-09-15",
+  "title": "Environment-Aware DNA Language Model for Stress-Responsive Genomic Prioritization in Maize",
+  "doi": "10.64898/2026.09.11.749989",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.09.11.749989"
+ },
+ "doi:10.64898/2026.07.11.737889": {
+  "date": "2026-09-15",
+  "title": "CasanovoGUI: a cross-platform desktop application for deep learning-based de novo peptide sequencing with Casanovo",
+  "doi": "10.64898/2026.07.11.737889",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.07.11.737889"
+ },
+ "doi:10.1021/acs.jcim.6c02546": {
+  "date": "2026-09-15",
+  "title": "GAPEK: A General Framework for Multiparameter Enzyme Kinetic Prediction with Adaptive Learning.",
+  "doi": "10.1021/acs.jcim.6c02546",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42734558/"
+ },
+ "doi:10.1021/acs.jcim.6c01261": {
+  "date": "2026-09-15",
+  "title": "LinkLlama: Enabling a Large Language Model for Chemically Reasonable Linker Design.",
+  "doi": "10.1021/acs.jcim.6c01261",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42734511/"
+ },
+ "doi:10.1016/j.jmgm.2026.109571": {
+  "date": "2026-09-15",
+  "title": "Systematic benchmarking of AlphaFold and SWISS-MODEL kinase structures for structure-based drug discovery.",
+  "doi": "10.1016/j.jmgm.2026.109571",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42732698/"
  }
 }
