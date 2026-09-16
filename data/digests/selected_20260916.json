@@ -1,0 +1,90 @@
+{
+ "date": "2026-09-16",
+ "papers": [
+  {
+   "title": "Hydrophilic interaction chromatography and tandem mass spectrometry for the characterization of methylated oligoribonucleotides.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42090749/",
+   "doi": "10.1016/j.jpba.2026.117546",
+   "journal": "Journal of pharmaceutical and biomedical analysis",
+   "date": "2026 Sep 15",
+   "_bucket": "rna_mod",
+   "priority": "🥇",
+   "summary_cn": "建立HILIC串联质谱流程，用于表征甲基化寡核糖核苷酸。",
+   "relevance_cn": "可作为RNA甲基化标准品与质谱验证方法参考。"
+  },
+  {
+   "title": "Sequence optimization targeting mRNA stability enhances monoclonal antibody titers in CHO cells.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42735877/",
+   "doi": "10.1016/j.nbt.2026.09.004",
+   "journal": "New biotechnology",
+   "date": "2026 Sep 14",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "通过面向mRNA稳定性的序列优化，提高CHO细胞单抗表达产量。",
+   "relevance_cn": "对RNA序列设计、稳定性建模和表达优化有借鉴。"
+  },
+  {
+   "title": "Agentic-AI-ready genome-wide poxvirus-host interaction screen refined by a protein language model",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.09.10.750412",
+   "doi": "10.64898/2026.09.10.750412",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-09-13",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "用蛋白语言模型整合PPI信息，精炼痘病毒宿主互作全基因组筛选。",
+   "relevance_cn": "展示蛋白语言模型辅助功能基因组筛选降噪。"
+  },
+  {
+   "title": "Explainable Deep Learning of Transcriptomes Prioritizes Candidate Biomarkers With Preferential Performance in Gastric Cardia Cancer Cohorts.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42667125/",
+   "doi": "10.1096/fj.202602915R",
+   "journal": "FASEB journal : official publication of the Federation of American Societies for Experimental Biology",
+   "date": "2026 Sep 15",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "构建可解释深度学习模型分析转录组，优先筛选胃贲门癌候选标志物。",
+   "relevance_cn": "提供组学深度模型可解释性与 biomarker 筛选范例。"
+  },
+  {
+   "title": "An AI-Driven Chemogenomics Knowledgebase for Human-Transmissible Pathogens: A Platform for Antimicrobial Drug Discovery.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42743006/",
+   "doi": "10.1021/acs.jcim.6c02102",
+   "journal": "Journal of chemical information and modeling",
+   "date": "2026 Sep 15",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "构建面向人传病原体的AI化学基因组知识库，支持抗菌药物发现。",
+   "relevance_cn": "体现AI知识库整合靶标、化合物与病原组学信息。"
+  },
+  {
+   "title": "The machine-learning classifier ALLCatchR2 identifies 20 T-ALL subtypes across cohorts and age groups.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42741738/",
+   "doi": "10.1002/hem3.70475",
+   "journal": "HemaSphere",
+   "date": "2026 Sep",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "ALLCatchR2机器学习分类器跨队列和年龄识别20类T-ALL分子亚型。",
+   "relevance_cn": "是血液肿瘤分子分型机器学习落地应用。"
+  },
+  {
+   "title": "A novel multiomics machine learning signature identifies rapid progression in clinically low risk prostate cancer.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42736338/",
+   "doi": "10.1038/s41746-026-03254-5",
+   "journal": "NPJ digital medicine",
+   "date": "2026 Sep 14",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "整合多组学建立机器学习特征，识别低临床风险前列腺癌快速进展。",
+   "relevance_cn": "展示多组学ML风险分层流程，可迁移到组学预测任务。"
+  }
+ ],
+ "no_core": false,
+ "summary_zh": "今日核心方向仅见RNA甲基化寡核苷酸质谱表征方法，AI部分以序列优化、蛋白语言模型和多组学/分子分型应用为主。",
+ "_meta": {
+  "model": "gpt-5.5",
+  "base_url": "https://api.tfclab-logan.xyz/v1",
+  "candidates_in": 46,
+  "papers_out": 7
+ }
+}

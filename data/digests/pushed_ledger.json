@@ -2836,5 +2836,47 @@
   "title": "Systematic benchmarking of AlphaFold and SWISS-MODEL kinase structures for structure-based drug discovery.",
   "doi": "10.1016/j.jmgm.2026.109571",
   "link": "https://pubmed.ncbi.nlm.nih.gov/42732698/"
+ },
+ "doi:10.1016/j.jpba.2026.117546": {
+  "date": "2026-09-16",
+  "title": "Hydrophilic interaction chromatography and tandem mass spectrometry for the characterization of methylated oligoribonucleotides.",
+  "doi": "10.1016/j.jpba.2026.117546",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42090749/"
+ },
+ "doi:10.1016/j.nbt.2026.09.004": {
+  "date": "2026-09-16",
+  "title": "Sequence optimization targeting mRNA stability enhances monoclonal antibody titers in CHO cells.",
+  "doi": "10.1016/j.nbt.2026.09.004",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42735877/"
+ },
+ "doi:10.64898/2026.09.10.750412": {
+  "date": "2026-09-16",
+  "title": "Agentic-AI-ready genome-wide poxvirus-host interaction screen refined by a protein language model",
+  "doi": "10.64898/2026.09.10.750412",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.09.10.750412"
+ },
+ "doi:10.1096/fj.202602915r": {
+  "date": "2026-09-16",
+  "title": "Explainable Deep Learning of Transcriptomes Prioritizes Candidate Biomarkers With Preferential Performance in Gastric Cardia Cancer Cohorts.",
+  "doi": "10.1096/fj.202602915R",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42667125/"
+ },
+ "doi:10.1021/acs.jcim.6c02102": {
+  "date": "2026-09-16",
+  "title": "An AI-Driven Chemogenomics Knowledgebase for Human-Transmissible Pathogens: A Platform for Antimicrobial Drug Discovery.",
+  "doi": "10.1021/acs.jcim.6c02102",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42743006/"
+ },
+ "doi:10.1002/hem3.70475": {
+  "date": "2026-09-16",
+  "title": "The machine-learning classifier ALLCatchR2 identifies 20 T-ALL subtypes across cohorts and age groups.",
+  "doi": "10.1002/hem3.70475",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42741738/"
+ },
+ "doi:10.1038/s41746-026-03254-5": {
+  "date": "2026-09-16",
+  "title": "A novel multiomics machine learning signature identifies rapid progression in clinically low risk prostate cancer.",
+  "doi": "10.1038/s41746-026-03254-5",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42736338/"
  }
 }
