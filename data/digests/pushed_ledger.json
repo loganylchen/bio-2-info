@@ -2926,5 +2926,47 @@
   "title": "SMC1A is required for fate determinations of human spermatogonial stem cells and male fertility by interacting with YBX1 and stabilizing HMGA2 mRNA via an m(5)C modification.",
   "doi": "10.1038/s41418-026-01872-w",
   "link": "https://pubmed.ncbi.nlm.nih.gov/42745033/"
+ },
+ "doi:10.1186/s13059-026-04274-w": {
+  "date": "2026-09-18",
+  "title": "Genolator enables protein function interpretation using a multimodal large language model fusing genomic and structural interpretation with natural language interaction.",
+  "doi": "10.1186/s13059-026-04274-w",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42750043/"
+ },
+ "doi:10.1109/tcbbio.2026.3734966": {
+  "date": "2026-09-18",
+  "title": "RaFT-DM: A Residue-Aware Fusion Transformer With Domain-Wise Memory for Accurate Multi-Label Protein Function Prediction.",
+  "doi": "10.1109/TCBBIO.2026.3734966",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42752416/"
+ },
+ "doi:10.1016/j.ympev.2026.108744": {
+  "date": "2026-09-18",
+  "title": "IQ-NET: fast and accurate quartet phylogenetic inference using deep learning trained on empirical DNA alignments.",
+  "doi": "10.1016/j.ympev.2026.108744",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42748990/"
+ },
+ "doi:10.1371/journal.pcbi.1014806": {
+  "date": "2026-09-18",
+  "title": "Machine learning-driven decoding of maternal immune signatures in repeated pregnancy loss.",
+  "doi": "10.1371/journal.pcbi.1014806",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42752397/"
+ },
+ "doi:10.1172/jci207160": {
+  "date": "2026-09-18",
+  "title": "Gene-specific machine learning model EpiPred identifies likely pathogenic variants in the epilepsy-related gene STXBP1.",
+  "doi": "10.1172/JCI207160",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42752354/"
+ },
+ "doi:10.1007/s00125-026-06859-3": {
+  "date": "2026-09-18",
+  "title": "The GPCR(VP) score reliably predicts the impact of GLP1R human variants on receptor function.",
+  "doi": "10.1007/s00125-026-06859-3",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42752967/"
+ },
+ "doi:10.1016/j.bbrc.2026.154321": {
+  "date": "2026-09-18",
+  "title": "Genomic language models (gLMs): Emerging applications, challenges, and future directions in computational genomics.",
+  "doi": "10.1016/j.bbrc.2026.154321",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42492189/"
  }
 }
