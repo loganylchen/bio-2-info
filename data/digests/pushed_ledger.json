@@ -2968,5 +2968,47 @@
   "title": "Genomic language models (gLMs): Emerging applications, challenges, and future directions in computational genomics.",
   "doi": "10.1016/j.bbrc.2026.154321",
   "link": "https://pubmed.ncbi.nlm.nih.gov/42492189/"
+ },
+ "doi:10.1016/j.cell.2026.08.034": {
+  "date": "2026-09-19",
+  "title": "Phosphate backbone epitranscriptomics: Discovery of natural RNA phosphorothioates and their writer machinery.",
+  "doi": "10.1016/j.cell.2026.08.034",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42753734/"
+ },
+ "doi:10.1093/bioinformatics/btag696": {
+  "date": "2026-09-19",
+  "title": "Regulatory-prior-guided attention preserves biological structure during unpaired single-cell RNA-ATAC integration.",
+  "doi": "10.1093/bioinformatics/btag696",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42758136/"
+ },
+ "doi:10.1016/j.cell.2026.08.026": {
+  "date": "2026-09-19",
+  "title": "An open benchmark and language models for AI in aging biology.",
+  "doi": "10.1016/j.cell.2026.08.026",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42753698/"
+ },
+ "doi:10.1016/j.cell.2026.08.025": {
+  "date": "2026-09-19",
+  "title": "scBaseCount: An AI agent-curated, standardized, auto-updated single-cell data repository.",
+  "doi": "10.1016/j.cell.2026.08.025",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42753696/"
+ },
+ "doi:10.1186/s13059-026-04280-y": {
+  "date": "2026-09-19",
+  "title": "dicast: a machine learning method for accurate structural variant detection from short-read sequencing data.",
+  "doi": "10.1186/s13059-026-04280-y",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42754892/"
+ },
+ "doi:10.1093/g3journal/jkag257": {
+  "date": "2026-09-19",
+  "title": "Stacked enviromic-genomic models improve prediction of genotype performance in new environments.",
+  "doi": "10.1093/g3journal/jkag257",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42758200/"
+ },
+ "doi:10.1177/13872877261487621": {
+  "date": "2026-09-19",
+  "title": "Multi-omics integration of transcriptomics and metabolomics with machine learning uncovers novel risk factors for Alzheimer's disease.",
+  "doi": "10.1177/13872877261487621",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42758029/"
  }
 }
