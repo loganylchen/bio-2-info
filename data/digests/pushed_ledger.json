@@ -3010,5 +3010,47 @@
   "title": "Multi-omics integration of transcriptomics and metabolomics with machine learning uncovers novel risk factors for Alzheimer's disease.",
   "doi": "10.1177/13872877261487621",
   "link": "https://pubmed.ncbi.nlm.nih.gov/42758029/"
+ },
+ "doi:10.14573/altex.2606062": {
+  "date": "2026-09-20",
+  "title": "Beyond the drug-centric view: Advancing AI virtual cell platforms for environmental perturbation modelling.",
+  "doi": "10.14573/altex.2606062",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42758091/"
+ },
+ "doi:10.1186/s40164-026-00825-w": {
+  "date": "2026-09-20",
+  "title": "Multimodal AI and single-cell transcriptomics integrate to construct a histopathological prognostic model for bladder cancer, revealing the RTN3-glycolysis axis in chemoresistance.",
+  "doi": "10.1186/s40164-026-00825-w",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42745263/"
+ },
+ "doi:10.1038/s41467-026-77360-z": {
+  "date": "2026-09-20",
+  "title": "ConvexGating infers gating strategies from clusters in single cell cytometry data.",
+  "doi": "10.1038/s41467-026-77360-z",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42760285/"
+ },
+ "doi:10.1021/acsomega.6c04040": {
+  "date": "2026-09-20",
+  "title": "BAN-SDBPred: Improving Single-Stranded and Double-Stranded DNA-Binding Protein Prediction Using an Attention Network with Bilinear Convolution and Adaptive Sampling Strategy.",
+  "doi": "10.1021/acsomega.6c04040",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42757144/"
+ },
+ "doi:10.1007/s00438-026-02520-1": {
+  "date": "2026-09-20",
+  "title": "Codon optimality predicts mRNA half-life but does not transfer to lncRNAs.",
+  "doi": "10.1007/s00438-026-02520-1",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42760417/"
+ },
+ "doi:10.1016/j.envpol.2026.129160": {
+  "date": "2026-09-20",
+  "title": "Transcriptomics-informed systems toxicology prioritizes candidate links between endocrine-disrupting chemicals and chronic kidney disease.",
+  "doi": "10.1016/j.envpol.2026.129160",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42759910/"
+ },
+ "doi:10.1016/j.tplants.2026.08.011": {
+  "date": "2026-09-20",
+  "title": "Advances of N(6)-methyladenosine RNA methylation in tree species.",
+  "doi": "10.1016/j.tplants.2026.08.011",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42744692/"
  }
 }

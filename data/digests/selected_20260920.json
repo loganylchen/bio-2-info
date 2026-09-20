@@ -1,0 +1,90 @@
+{
+ "date": "2026-09-20",
+ "papers": [
+  {
+   "title": "Beyond the drug-centric view: Advancing AI virtual cell platforms for environmental perturbation modelling.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42758091/",
+   "doi": "10.14573/altex.2606062",
+   "journal": "ALTEX",
+   "date": "2026 Sep 17",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "综述AI虚拟细胞从药物扩展到环境扰动建模的框架与挑战。",
+   "relevance_cn": "对单细胞/组学基础模型与扰动预测有方法借鉴。"
+  },
+  {
+   "title": "Multimodal AI and single-cell transcriptomics integrate to construct a histopathological prognostic model for bladder cancer, revealing the RTN3-glycolysis axis in chemoresistance.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42745263/",
+   "doi": "10.1186/s40164-026-00825-w",
+   "journal": "Experimental hematology & oncology",
+   "date": "2026 Sep 15",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "整合病理多模态AI与单细胞转录组，构建预后模型并解析耐药轴。",
+   "relevance_cn": "展示影像-单细胞组学融合建模范式。"
+  },
+  {
+   "title": "ConvexGating infers gating strategies from clusters in single cell cytometry data.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42760285/",
+   "doi": "10.1038/s41467-026-77360-z",
+   "journal": "Nature communications",
+   "date": "2026 Sep 18",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "提出ConvexGating，从单细胞流式聚类自动推断可解释门控策略。",
+   "relevance_cn": "可借鉴于单细胞数据自动化标注与可解释分析。"
+  },
+  {
+   "title": "BAN-SDBPred: Improving Single-Stranded and Double-Stranded DNA-Binding Protein Prediction Using an Attention Network with Bilinear Convolution and Adaptive Sampling Strategy.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42757144/",
+   "doi": "10.1021/acsomega.6c04040",
+   "journal": "ACS omega",
+   "date": "2026 Sep 15",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "用注意力网络、双线性卷积和自适应采样提升DNA结合蛋白预测。",
+   "relevance_cn": "提供序列蛋白功能预测的深度学习设计参考。"
+  },
+  {
+   "title": "Codon optimality predicts mRNA half-life but does not transfer to lncRNAs.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42760417/",
+   "doi": "10.1007/s00438-026-02520-1",
+   "journal": "Molecular genetics and genomics : MGG",
+   "date": "2026 Sep 19",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "评估密码子最优性对mRNA半衰期的预测力，并证明不适用于lncRNA。",
+   "relevance_cn": "与RNA稳定性建模和转录组特征工程相关。"
+  },
+  {
+   "title": "Transcriptomics-informed systems toxicology prioritizes candidate links between endocrine-disrupting chemicals and chronic kidney disease.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42759910/",
+   "doi": "10.1016/j.envpol.2026.129160",
+   "journal": "Environmental pollution (Barking, Essex : 1987)",
+   "date": "2026 Sep 18",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "利用转录组驱动的系统毒理学优先筛选内分泌干扰物与肾病关联。",
+   "relevance_cn": "体现组学数据驱动的暴露-疾病关联挖掘流程。"
+  },
+  {
+   "title": "Advances of N(6)-methyladenosine RNA methylation in tree species.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42744692/",
+   "doi": "10.1016/j.tplants.2026.08.011",
+   "journal": "Trends in plant science",
+   "date": "2026 Sep 15",
+   "_bucket": "nanopore_drs",
+   "priority": "🥉",
+   "summary_cn": "综述树木物种中m6A甲基化研究进展、调控机制与技术应用前景。",
+   "relevance_cn": "补充植物表观转录组背景，但非DRS新方法。"
+  }
+ ],
+ "no_core": true,
+ "summary_zh": "今日无核心新方法论文；精选以AI虚拟细胞、单细胞/组学AI应用和RNA修饰综述为主。",
+ "_meta": {
+  "model": "gpt-5.5",
+  "base_url": "https://api.tfclab-logan.xyz/v1",
+  "candidates_in": 45,
+  "papers_out": 7
+ }
+}
