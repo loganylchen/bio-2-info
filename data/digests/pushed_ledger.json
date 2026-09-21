@@ -3052,5 +3052,47 @@
   "title": "Advances of N(6)-methyladenosine RNA methylation in tree species.",
   "doi": "10.1016/j.tplants.2026.08.011",
   "link": "https://pubmed.ncbi.nlm.nih.gov/42744692/"
+ },
+ "doi:10.1016/j.compbiolchem.2026.109370": {
+  "date": "2026-09-21",
+  "title": "Benchmarking reference-based cellular deconvolution algorithms to predict cell proportions.",
+  "doi": "10.1016/j.compbiolchem.2026.109370",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42762696/"
+ },
+ "doi:10.1007/s00011-026-02366-8": {
+  "date": "2026-09-21",
+  "title": "Identification of immune cell mitochondrial dysfunction characteristics and clinical predictive biomarkers in sepsis via multi-cohort machine learning and single-cell RNA sequencing.",
+  "doi": "10.1007/s00011-026-02366-8",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42762293/"
+ },
+ "doi:10.1097/md.0000000000050539": {
+  "date": "2026-09-21",
+  "title": "Single-cell transcriptomics combined with Mendelian randomization reveals the pivotal role of WDR83OS in clear cell renal cell carcinoma: An observational and bioinformatic study.",
+  "doi": "10.1097/MD.0000000000050539",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42760660/"
+ },
+ "doi:10.1007/s12035-026-06187-y": {
+  "date": "2026-09-21",
+  "title": "Identification and Validation of Candidate Biomarkers Co-expressed with Creatine Metabolism-Related Genes in Ischemic Stroke Based on Transcriptomics Data.",
+  "doi": "10.1007/s12035-026-06187-y",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42760396/"
+ },
+ "doi:10.1016/j.slasd.2026.100340": {
+  "date": "2026-09-21",
+  "title": "Hit Selection Using SSMD-Based Machine Learning Performance Metrics in High-Throughput Screening Assays.",
+  "doi": "10.1016/j.slasd.2026.100340",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42759887/"
+ },
+ "doi:10.1016/j.ecoenv.2026.120809": {
+  "date": "2026-09-21",
+  "title": "Integrated multi-omics and experimental analyses reveal VIPR1 as a potential mediator linking environmental bisphenol A exposure to MASH-HCC progression.",
+  "doi": "10.1016/j.ecoenv.2026.120809",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42759461/"
+ },
+ "doi:10.1002/1873-3468.70459": {
+  "date": "2026-09-21",
+  "title": "Prospecting the protein design landscape.",
+  "doi": "10.1002/1873-3468.70459",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42757549/"
  }
 }

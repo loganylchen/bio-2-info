@@ -1,0 +1,90 @@
+{
+ "date": "2026-09-21",
+ "papers": [
+  {
+   "title": "Benchmarking reference-based cellular deconvolution algorithms to predict cell proportions.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42762696/",
+   "doi": "10.1016/j.compbiolchem.2026.109370",
+   "journal": "Computational biology and chemistry",
+   "date": "2026 Sep 15",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "系统评测参考依赖的细胞组成反卷积算法，比较比例预测表现。",
+   "relevance_cn": "可借鉴其benchmark设计评估组学去卷积工具。"
+  },
+  {
+   "title": "Identification of immune cell mitochondrial dysfunction characteristics and clinical predictive biomarkers in sepsis via multi-cohort machine learning and single-cell RNA sequencing.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42762293/",
+   "doi": "10.1007/s00011-026-02366-8",
+   "journal": "Inflammation research : official journal of the European Histamine Research Society ... [et al.]",
+   "date": "2026 Sep 19",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "结合多队列机器学习与单细胞RNA测序解析脓毒症免疫细胞线粒体异常。",
+   "relevance_cn": "展示ML整合bulk与scRNA发现生物标志物流程。"
+  },
+  {
+   "title": "Single-cell transcriptomics combined with Mendelian randomization reveals the pivotal role of WDR83OS in clear cell renal cell carcinoma: An observational and bioinformatic study.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42760660/",
+   "doi": "10.1097/MD.0000000000050539",
+   "journal": "Medicine",
+   "date": "2026 Sep 18",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "用单细胞转录组与孟德尔随机化定位ccRCC关键基因WDR83OS。",
+   "relevance_cn": "体现单细胞组学与因果推断联合分析范式。"
+  },
+  {
+   "title": "Identification and Validation of Candidate Biomarkers Co-expressed with Creatine Metabolism-Related Genes in Ischemic Stroke Based on Transcriptomics Data.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42760396/",
+   "doi": "10.1007/s12035-026-06187-y",
+   "journal": "Molecular neurobiology",
+   "date": "2026 Sep 18",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "基于转录组数据筛选并验证缺血性卒中肌酸代谢相关共表达标志物。",
+   "relevance_cn": "提供疾病转录组特征筛选和验证的应用案例。"
+  },
+  {
+   "title": "Hit Selection Using SSMD-Based Machine Learning Performance Metrics in High-Throughput Screening Assays.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42759887/",
+   "doi": "10.1016/j.slasd.2026.100340",
+   "journal": "SLAS discovery : advancing life sciences R & D",
+   "date": "2026 Sep 18",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "提出以SSMD为核心的机器学习性能指标改进高通量筛选命中选择。",
+   "relevance_cn": "对AI辅助药筛与实验数据质控有方法参考。"
+  },
+  {
+   "title": "Integrated multi-omics and experimental analyses reveal VIPR1 as a potential mediator linking environmental bisphenol A exposure to MASH-HCC progression.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42759461/",
+   "doi": "10.1016/j.ecoenv.2026.120809",
+   "journal": "Ecotoxicology and environmental safety",
+   "date": "2026 Sep 18",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "整合多组学与实验验证发现VIPR1连接BPA暴露与MASH-HCC进展。",
+   "relevance_cn": "可参考其多组学整合到机制验证的分析链路。"
+  },
+  {
+   "title": "Prospecting the protein design landscape.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42757549/",
+   "doi": "10.1002/1873-3468.70459",
+   "journal": "FEBS letters",
+   "date": "2026 Sep 18",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "综述蛋白设计领域的发展版图，涵盖计算与AI驱动的设计策略。",
+   "relevance_cn": "有助了解AI蛋白设计工具对分子生信的启发。"
+  }
+ ],
+ "no_core": true,
+ "summary_zh": "今日无核心新方法论文；精选以组学机器学习、单细胞整合、多组学应用和蛋白设计为主。",
+ "_meta": {
+  "model": "gpt-5.5",
+  "base_url": "https://api.tfclab-logan.xyz/v1",
+  "candidates_in": 37,
+  "papers_out": 7
+ }
+}
