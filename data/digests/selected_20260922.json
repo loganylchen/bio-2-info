@@ -1,0 +1,79 @@
+{
+ "date": "2026-09-22",
+ "papers": [
+  {
+   "title": "AlloPool is a deep learning framework that infers protein allostery from molecular dynamics simulations.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42766632/",
+   "doi": "10.1371/journal.pbio.3004002",
+   "journal": "PLoS biology",
+   "date": "2026 Sep",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "提出AlloPool，用深度学习从分子动力学轨迹推断蛋白变构位点。",
+   "relevance_cn": "分子模拟+深度学习范例，可借鉴到RNA/蛋白动态信号建模。"
+  },
+  {
+   "title": "Deep Generative and Graph-Based Representation Learning for Multiomics Survival Stratification in Ovarian Cancer: Secondary Analysis.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42766802/",
+   "doi": "10.2196/89069",
+   "journal": "JMIR bioinformatics and biotechnology",
+   "date": "2026 Sep 21",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "结合深度生成模型与图表示学习做多组学生存分层二次分析。",
+   "relevance_cn": "多组学AI表征学习方法，对修饰组整合分析有参考价值。"
+  },
+  {
+   "title": "A parallel convolution attention network for crop genomic prediction.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42766594/",
+   "doi": "10.1371/journal.pone.0358451",
+   "journal": "PloS one",
+   "date": "2026",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "构建并行卷积注意力网络，用于作物基因组预测和性状建模。",
+   "relevance_cn": "序列/基因型到表型建模，可借鉴深度基因组预测架构。"
+  },
+  {
+   "title": "A statistical review of polygenic risk scores: from heuristics to model-based inference.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42760896/",
+   "doi": "10.1515/sagmb-2026-0007",
+   "journal": "Statistical applications in genetics and molecular biology",
+   "date": "2026 Jan 1",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "综述多基因风险评分从启发式方法到模型化统计推断的发展。",
+   "relevance_cn": "基因组统计建模综述，有助于理解AI预测的基线方法。"
+  },
+  {
+   "title": "Single-Cell Transcriptomic Profiling and Machine Learning Reveal Stage-Specific Gene Dynamics in Brucellosis.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42764522/",
+   "doi": "10.1177/15303667261486623",
+   "journal": "Vector borne and zoonotic diseases (Larchmont, N.Y.)",
+   "date": "2026 Sep 20",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "结合单细胞转录组与机器学习解析布鲁氏菌病阶段特异基因动态。",
+   "relevance_cn": "单细胞组学AI落地案例，可参考特征筛选与分期建模。"
+  },
+  {
+   "title": "METTL16 maintains photoreceptor integrity via splicing fidelity, mRNA stability, and translational regulation.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42744214/",
+   "doi": "10.1016/j.jare.2026.09.012",
+   "journal": "Journal of advanced research",
+   "date": "2026 Sep 15",
+   "_bucket": "rna_mod",
+   "priority": "🥉",
+   "summary_cn": "研究METTL16通过剪接保真、mRNA稳定性和翻译调控维持感光细胞。",
+   "relevance_cn": "补充METTL16介导RNA调控的组织功能机制。"
+  }
+ ],
+ "no_core": true,
+ "summary_zh": "今日无核心新方法论文；精选AI组学/分子建模应用为主，另附一篇较有价值的RNA修饰机制研究。",
+ "_meta": {
+  "model": "gpt-5.5",
+  "base_url": "https://api.tfclab-logan.xyz/v1",
+  "candidates_in": 34,
+  "papers_out": 6
+ }
+}

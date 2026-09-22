@@ -3094,5 +3094,41 @@
   "title": "Prospecting the protein design landscape.",
   "doi": "10.1002/1873-3468.70459",
   "link": "https://pubmed.ncbi.nlm.nih.gov/42757549/"
+ },
+ "doi:10.1371/journal.pbio.3004002": {
+  "date": "2026-09-22",
+  "title": "AlloPool is a deep learning framework that infers protein allostery from molecular dynamics simulations.",
+  "doi": "10.1371/journal.pbio.3004002",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42766632/"
+ },
+ "doi:10.2196/89069": {
+  "date": "2026-09-22",
+  "title": "Deep Generative and Graph-Based Representation Learning for Multiomics Survival Stratification in Ovarian Cancer: Secondary Analysis.",
+  "doi": "10.2196/89069",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42766802/"
+ },
+ "doi:10.1371/journal.pone.0358451": {
+  "date": "2026-09-22",
+  "title": "A parallel convolution attention network for crop genomic prediction.",
+  "doi": "10.1371/journal.pone.0358451",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42766594/"
+ },
+ "doi:10.1515/sagmb-2026-0007": {
+  "date": "2026-09-22",
+  "title": "A statistical review of polygenic risk scores: from heuristics to model-based inference.",
+  "doi": "10.1515/sagmb-2026-0007",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42760896/"
+ },
+ "doi:10.1177/15303667261486623": {
+  "date": "2026-09-22",
+  "title": "Single-Cell Transcriptomic Profiling and Machine Learning Reveal Stage-Specific Gene Dynamics in Brucellosis.",
+  "doi": "10.1177/15303667261486623",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42764522/"
+ },
+ "doi:10.1016/j.jare.2026.09.012": {
+  "date": "2026-09-22",
+  "title": "METTL16 maintains photoreceptor integrity via splicing fidelity, mRNA stability, and translational regulation.",
+  "doi": "10.1016/j.jare.2026.09.012",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42744214/"
  }
 }
