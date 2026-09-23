@@ -3130,5 +3130,53 @@
   "title": "METTL16 maintains photoreceptor integrity via splicing fidelity, mRNA stability, and translational regulation.",
   "doi": "10.1016/j.jare.2026.09.012",
   "link": "https://pubmed.ncbi.nlm.nih.gov/42744214/"
+ },
+ "doi:10.1093/bioinformatics/btag699": {
+  "date": "2026-09-23",
+  "title": "ProST: an image prompt-guided multimodal representation learning framework for spatial domain identification.",
+  "doi": "10.1093/bioinformatics/btag699",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42770856/"
+ },
+ "doi:10.1101/gr.282189.126": {
+  "date": "2026-09-23",
+  "title": "Deep genomic models of allele-specific measurements.",
+  "doi": "10.1101/gr.282189.126",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42767805/"
+ },
+ "doi:10.1038/s41588-026-02763-z": {
+  "date": "2026-09-23",
+  "title": "Interpreting human genetic variation at atomic resolution.",
+  "doi": "10.1038/s41588-026-02763-z",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42768124/"
+ },
+ "doi:10.1093/bioinformatics/btag693": {
+  "date": "2026-09-23",
+  "title": "AIDrugDesigner: a web server for drug-like molecules generation and optimization.",
+  "doi": "10.1093/bioinformatics/btag693",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42767993/"
+ },
+ "doi:10.1016/j.xcrm.2026.103055": {
+  "date": "2026-09-23",
+  "title": "Early diagnosis and molecular classification of gastric cancer peritoneal metastasis by deep learning-driven single-cell lipidomics.",
+  "doi": "10.1016/j.xcrm.2026.103055",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42767217/"
+ },
+ "doi:10.1016/j.ejmech.2026.119336": {
+  "date": "2026-09-23",
+  "title": "LGBind: A structure-guided deep learning framework for accurate prediction of protein-ligand binding sites.",
+  "doi": "10.1016/j.ejmech.2026.119336",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42767002/"
+ },
+ "doi:10.1093/nar/gkag892": {
+  "date": "2026-09-23",
+  "title": "The stability of m6A-marked transcripts is linked to cell identity in planarians.",
+  "doi": "10.1093/nar/gkag892",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42770330/"
+ },
+ "doi:10.1161/circulationaha.125.079193": {
+  "date": "2026-09-23",
+  "title": "ALKBH5-Dependent m(6)A Demethylation Promotes Cardiac Aging Through SLC38A3 Reduction and Glutamine Metabolic Alteration.",
+  "doi": "10.1161/CIRCULATIONAHA.125.079193",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42770216/"
  }
 }

@@ -1,0 +1,101 @@
+{
+ "date": "2026-09-23",
+ "papers": [
+  {
+   "title": "ProST: an image prompt-guided multimodal representation learning framework for spatial domain identification.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42770856/",
+   "doi": "10.1093/bioinformatics/btag699",
+   "journal": "Bioinformatics (Oxford, England)",
+   "date": "2026 Sep 22",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "提出图像提示引导的多模态表征学习框架，用于空间转录组域识别。",
+   "relevance_cn": "空间组学AI方法，可借鉴其多模态融合与提示学习设计。"
+  },
+  {
+   "title": "Deep genomic models of allele-specific measurements.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42767805/",
+   "doi": "10.1101/gr.282189.126",
+   "journal": "Genome research",
+   "date": "2026 Sep 21",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "构建深度基因组模型解析等位基因特异性测量，增强变异效应建模。",
+   "relevance_cn": "序列深度模型方法学强，对调控变异与组学预测有参考价值。"
+  },
+  {
+   "title": "Interpreting human genetic variation at atomic resolution.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42768124/",
+   "doi": "10.1038/s41588-026-02763-z",
+   "journal": "Nature genetics",
+   "date": "2026 Sep 21",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "利用结构层面信息在原子分辨率解释人类遗传变异的功能影响。",
+   "relevance_cn": "结构AI用于变异解释，是分子生信落地应用范例。"
+  },
+  {
+   "title": "AIDrugDesigner: a web server for drug-like molecules generation and optimization.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42767993/",
+   "doi": "10.1093/bioinformatics/btag693",
+   "journal": "Bioinformatics (Oxford, England)",
+   "date": "2026 Sep 21",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "发布药物样分子生成与优化网页服务器，支持AI驱动候选化合物设计。",
+   "relevance_cn": "展示生成式AI工具化，对生信工具部署与药物设计有借鉴。"
+  },
+  {
+   "title": "Early diagnosis and molecular classification of gastric cancer peritoneal metastasis by deep learning-driven single-cell lipidomics.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42767217/",
+   "doi": "10.1016/j.xcrm.2026.103055",
+   "journal": "Cell reports. Medicine",
+   "date": "2026 Sep 21",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "结合深度学习与单细胞脂质组，实现胃癌腹膜转移早诊和分子分型。",
+   "relevance_cn": "分子组学层面的AI应用，可参考其单细胞特征建模流程。"
+  },
+  {
+   "title": "LGBind: A structure-guided deep learning framework for accurate prediction of protein-ligand binding sites.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42767002/",
+   "doi": "10.1016/j.ejmech.2026.119336",
+   "journal": "European journal of medicinal chemistry",
+   "date": "2026 Sep 18",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "提出结构引导深度学习框架LGBind，提升蛋白-配体结合位点预测精度。",
+   "relevance_cn": "结构生物AI应用，适合关注蛋白功能预测与药物筛选者。"
+  },
+  {
+   "title": "The stability of m6A-marked transcripts is linked to cell identity in planarians.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42770330/",
+   "doi": "10.1093/nar/gkag892",
+   "journal": "Nucleic acids research",
+   "date": "2026 Sep 22",
+   "_bucket": "nanopore_drs",
+   "priority": "🥉",
+   "summary_cn": "研究涡虫中m6A标记转录本稳定性与细胞身份之间的关联。",
+   "relevance_cn": "NAR级RNA修饰功能研究，可启发表观转录组解析思路。"
+  },
+  {
+   "title": "ALKBH5-Dependent m(6)A Demethylation Promotes Cardiac Aging Through SLC38A3 Reduction and Glutamine Metabolic Alteration.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42770216/",
+   "doi": "10.1161/CIRCULATIONAHA.125.079193",
+   "journal": "Circulation",
+   "date": "2026 Sep 22",
+   "_bucket": "rna_mod",
+   "priority": "🥉",
+   "summary_cn": "揭示ALKBH5介导m6A去甲基化通过SLC38A3和谷氨酰胺代谢促进心脏衰老。",
+   "relevance_cn": "高影响疾病机制论文，补充m6A去甲基化功能案例。"
+  }
+ ],
+ "no_core": true,
+ "summary_zh": "今日无核心新方法论文；精选空间组学、多组学深度模型、结构变异解释与RNA修饰机制等方向。",
+ "_meta": {
+  "model": "gpt-5.5",
+  "base_url": "https://api.tfclab-logan.xyz/v1",
+  "candidates_in": 41,
+  "papers_out": 8
+ }
+}
