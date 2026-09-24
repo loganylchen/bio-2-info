@@ -1,0 +1,90 @@
+{
+ "date": "2026-09-24",
+ "papers": [
+  {
+   "title": "NanoTS: a deep learning tool for accurate SNP calling in nanopore long-read transcriptome data.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42773294/",
+   "doi": "10.1038/s41592-026-03225-4",
+   "journal": "Nature methods",
+   "date": "2026 Sep 22",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥇",
+   "summary_cn": "提出NanoTS深度学习框架，提升纳米孔长读长转录组SNP识别准确性。",
+   "relevance_cn": "直接服务Nanopore转录组分析，可借鉴其误差建模策略。"
+  },
+  {
+   "title": "Transcriptional architecture of African swine fever virus.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42777010/",
+   "doi": "10.1371/journal.ppat.1014617",
+   "journal": "PLoS pathogens",
+   "date": "2026 Sep 23",
+   "_bucket": "nanopore_drs",
+   "priority": "🥇",
+   "summary_cn": "解析非洲猪瘟病毒转录架构，长读长视角刻画病毒转录本复杂性。",
+   "relevance_cn": "展示Nanopore/长读长RNA测序在病毒转录组解析中的价值。"
+  },
+  {
+   "title": "GLIMP: An Integrated Graph Neural Network-Large Language Model for Promoter Recognition.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42776895/",
+   "doi": "10.1109/TCBBIO.2026.3735721",
+   "journal": "IEEE transactions on computational biology and bioinformatics",
+   "date": "2026 Sep 21",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "融合图神经网络与大语言模型进行启动子识别，增强序列特征表达。",
+   "relevance_cn": "为转录调控序列建模提供可迁移的AI框架。"
+  },
+  {
+   "title": "Designing gene expression with MPRA and AI: A new paradigm for synthetic and therapeutic regulation.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42772476/",
+   "doi": "10.1016/j.biotechadv.2026.109049",
+   "journal": "Biotechnology advances",
+   "date": "2026 Sep 22",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "综述MPRA结合AI设计基因表达元件，用于合成与治疗性调控。",
+   "relevance_cn": "对序列到表达预测、调控元件设计具有方法借鉴。"
+  },
+  {
+   "title": "Integrative profiling of multi-modal plasma cfRNA signatures enables detection and prognostic risk stratification in breast cancer.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42772582/",
+   "doi": "10.1016/j.ygeno.2026.111324",
+   "journal": "Genomics",
+   "date": "2026 Sep 22",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "整合多模态血浆cfRNA特征，实现乳腺癌检测与预后风险分层。",
+   "relevance_cn": "cfRNA多组学建模对液体活检与RNA特征工程有参考价值。"
+  },
+  {
+   "title": "RamanOmics decodes the spatial vibrational-molecular architecture of senescence in aging and repair.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42768111/",
+   "doi": "10.1038/s43587-026-01219-7",
+   "journal": "Nature aging",
+   "date": "2026 Sep 21",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "RamanOmics解析衰老与修复中的空间振动-分子结构图谱。",
+   "relevance_cn": "提供空间分子表型与组学整合分析的新应用范式。"
+  },
+  {
+   "title": "Non-linear kernel methods for genomic prediction of soybean yield and quality in multi-environment trials.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42776271/",
+   "doi": "10.1007/s00122-026-05387-3",
+   "journal": "TAG. Theoretical and applied genetics. Theoretische und angewandte Genetik",
+   "date": "2026 Sep 23",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "评估非线性核方法用于多环境大豆产量与品质的基因组预测。",
+   "relevance_cn": "为复杂性状基因组预测和多环境建模提供应用案例。"
+  }
+ ],
+ "no_core": false,
+ "summary_zh": "今日核心包括Nanopore转录组SNP calling和病毒转录架构，AI侧聚焦序列调控与组学应用。",
+ "_meta": {
+  "model": "gpt-5.5",
+  "base_url": "https://api.tfclab-logan.xyz/v1",
+  "candidates_in": 46,
+  "papers_out": 7
+ }
+}

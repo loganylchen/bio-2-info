@@ -3178,5 +3178,47 @@
   "title": "ALKBH5-Dependent m(6)A Demethylation Promotes Cardiac Aging Through SLC38A3 Reduction and Glutamine Metabolic Alteration.",
   "doi": "10.1161/CIRCULATIONAHA.125.079193",
   "link": "https://pubmed.ncbi.nlm.nih.gov/42770216/"
+ },
+ "doi:10.1038/s41592-026-03225-4": {
+  "date": "2026-09-24",
+  "title": "NanoTS: a deep learning tool for accurate SNP calling in nanopore long-read transcriptome data.",
+  "doi": "10.1038/s41592-026-03225-4",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42773294/"
+ },
+ "doi:10.1371/journal.ppat.1014617": {
+  "date": "2026-09-24",
+  "title": "Transcriptional architecture of African swine fever virus.",
+  "doi": "10.1371/journal.ppat.1014617",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42777010/"
+ },
+ "doi:10.1109/tcbbio.2026.3735721": {
+  "date": "2026-09-24",
+  "title": "GLIMP: An Integrated Graph Neural Network-Large Language Model for Promoter Recognition.",
+  "doi": "10.1109/TCBBIO.2026.3735721",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42776895/"
+ },
+ "doi:10.1016/j.biotechadv.2026.109049": {
+  "date": "2026-09-24",
+  "title": "Designing gene expression with MPRA and AI: A new paradigm for synthetic and therapeutic regulation.",
+  "doi": "10.1016/j.biotechadv.2026.109049",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42772476/"
+ },
+ "doi:10.1016/j.ygeno.2026.111324": {
+  "date": "2026-09-24",
+  "title": "Integrative profiling of multi-modal plasma cfRNA signatures enables detection and prognostic risk stratification in breast cancer.",
+  "doi": "10.1016/j.ygeno.2026.111324",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42772582/"
+ },
+ "doi:10.1038/s43587-026-01219-7": {
+  "date": "2026-09-24",
+  "title": "RamanOmics decodes the spatial vibrational-molecular architecture of senescence in aging and repair.",
+  "doi": "10.1038/s43587-026-01219-7",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42768111/"
+ },
+ "doi:10.1007/s00122-026-05387-3": {
+  "date": "2026-09-24",
+  "title": "Non-linear kernel methods for genomic prediction of soybean yield and quality in multi-environment trials.",
+  "doi": "10.1007/s00122-026-05387-3",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42776271/"
  }
 }
