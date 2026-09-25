@@ -1,0 +1,90 @@
+{
+ "date": "2026-09-25",
+ "papers": [
+  {
+   "title": "A One-Step Chemoselective Strategy for Hydroxymethylcytosine Sequencing in DNA and RNA.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42779944/",
+   "doi": "10.64898/2026.09.14.751533",
+   "journal": "bioRxiv : the preprint server for biology",
+   "date": "2026 Sep 17",
+   "_bucket": "rna_mod",
+   "priority": "🥇",
+   "summary_cn": "提出一步化学选择性策略，用于DNA和RNA中羟甲基胞嘧啶测序。",
+   "relevance_cn": "直接面向RNA修饰测序方法开发，值得跟踪。"
+  },
+  {
+   "title": "CRYSPER and CUREIPES: two new molecular tools enabling analysis of RNA splicing and C-to-U RNA editing-inducible protein expression at single cell resolution.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42779099/",
+   "doi": "10.1093/nar/gkag899",
+   "journal": "Nucleic acids research",
+   "date": "2026 Sep 22",
+   "_bucket": "rna_mod",
+   "priority": "🥇",
+   "summary_cn": "开发CRYSPER和CUREIPES，实现单细胞层面剪接与C-to-U编辑诱导蛋白表达分析。",
+   "relevance_cn": "NAR工具论文，拓展RNA编辑功能读出与单细胞解析。"
+  },
+  {
+   "title": "spaGFM is a scalable graph foundation model for spatial transcriptomics analyses.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42779937/",
+   "doi": "10.21203/rs.3.rs-11012643/v1",
+   "journal": "Research square",
+   "date": "2026 Sep 18",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "提出可扩展图基础模型spaGFM，用于空间转录组数据表示学习与下游分析。",
+   "relevance_cn": "代表组学基础模型方向，可借鉴到RNA组学建模。"
+  },
+  {
+   "title": "PURE: An interpretable framework for prioritizing candidate regulators of differential gene expression in plants.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42779115/",
+   "doi": "10.1016/j.xplc.2026.102118",
+   "journal": "Plant communications",
+   "date": "2026 Sep 23",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "提出可解释框架PURE，从差异表达信号中优先排序候选调控因子。",
+   "relevance_cn": "落地于转录组调控推断，解释性设计有参考价值。"
+  },
+  {
+   "title": "Probiogenomics as a Computational Biotechnology Framework: Safety-Gated Genome Analytics for Candidate Probiotic Prioritization and Validation.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42780523/",
+   "doi": "10.34133/csbj.0229",
+   "journal": "Computational and structural biotechnology journal",
+   "date": "2026",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "构建安全门控的基因组分析框架，用于益生菌候选优先级排序与验证。",
+   "relevance_cn": "展示基因组特征驱动的AI/计算筛选应用范式。"
+  },
+  {
+   "title": "Transcriptome-based postmortem interval prediction in the human dorsolateral prefrontal cortex using covariate-aware machine learning.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42777494/",
+   "doi": "10.1016/j.forsciint.2026.113146",
+   "journal": "Forensic science international",
+   "date": "2026 Sep 22",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "利用协变量感知机器学习，从人脑转录组预测死后间隔时间。",
+   "relevance_cn": "转录组机器学习建模案例，对批次和协变量处理有借鉴。"
+  },
+  {
+   "title": "Deep learning of tautomer stability from crystallographic proton positions.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42780735/",
+   "doi": "10.1039/d6sc03714c",
+   "journal": "Chemical science",
+   "date": "2026 Sep 23",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "基于晶体学质子位置训练深度学习模型，预测互变异构体稳定性。",
+   "relevance_cn": "分子结构AI应用，可启发核酸/修饰化学性质建模。"
+  }
+ ],
+ "no_core": false,
+ "summary_zh": "今日核心方法集中在RNA修饰测序与RNA编辑工具，AI部分以空间转录组基础模型和组学落地应用为主。",
+ "_meta": {
+  "model": "gpt-5.5",
+  "base_url": "https://api.tfclab-logan.xyz/v1",
+  "candidates_in": 51,
+  "papers_out": 7
+ }
+}

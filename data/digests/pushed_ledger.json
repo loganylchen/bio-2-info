@@ -3220,5 +3220,47 @@
   "title": "Non-linear kernel methods for genomic prediction of soybean yield and quality in multi-environment trials.",
   "doi": "10.1007/s00122-026-05387-3",
   "link": "https://pubmed.ncbi.nlm.nih.gov/42776271/"
+ },
+ "doi:10.64898/2026.09.14.751533": {
+  "date": "2026-09-25",
+  "title": "A One-Step Chemoselective Strategy for Hydroxymethylcytosine Sequencing in DNA and RNA.",
+  "doi": "10.64898/2026.09.14.751533",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42779944/"
+ },
+ "doi:10.1093/nar/gkag899": {
+  "date": "2026-09-25",
+  "title": "CRYSPER and CUREIPES: two new molecular tools enabling analysis of RNA splicing and C-to-U RNA editing-inducible protein expression at single cell resolution.",
+  "doi": "10.1093/nar/gkag899",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42779099/"
+ },
+ "doi:10.21203/rs.3.rs-11012643/v1": {
+  "date": "2026-09-25",
+  "title": "spaGFM is a scalable graph foundation model for spatial transcriptomics analyses.",
+  "doi": "10.21203/rs.3.rs-11012643/v1",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42779937/"
+ },
+ "doi:10.1016/j.xplc.2026.102118": {
+  "date": "2026-09-25",
+  "title": "PURE: An interpretable framework for prioritizing candidate regulators of differential gene expression in plants.",
+  "doi": "10.1016/j.xplc.2026.102118",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42779115/"
+ },
+ "doi:10.34133/csbj.0229": {
+  "date": "2026-09-25",
+  "title": "Probiogenomics as a Computational Biotechnology Framework: Safety-Gated Genome Analytics for Candidate Probiotic Prioritization and Validation.",
+  "doi": "10.34133/csbj.0229",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42780523/"
+ },
+ "doi:10.1016/j.forsciint.2026.113146": {
+  "date": "2026-09-25",
+  "title": "Transcriptome-based postmortem interval prediction in the human dorsolateral prefrontal cortex using covariate-aware machine learning.",
+  "doi": "10.1016/j.forsciint.2026.113146",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42777494/"
+ },
+ "doi:10.1039/d6sc03714c": {
+  "date": "2026-09-25",
+  "title": "Deep learning of tautomer stability from crystallographic proton positions.",
+  "doi": "10.1039/d6sc03714c",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42780735/"
  }
 }
