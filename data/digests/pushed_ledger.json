@@ -3262,5 +3262,47 @@
   "title": "Deep learning of tautomer stability from crystallographic proton positions.",
   "doi": "10.1039/d6sc03714c",
   "link": "https://pubmed.ncbi.nlm.nih.gov/42780735/"
+ },
+ "doi:10.1371/journal.pone.0359153": {
+  "date": "2026-09-26",
+  "title": "scLTF: A self-training clustering framework for large-scale single-cell RNA-Seq data.",
+  "doi": "10.1371/journal.pone.0359153",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42784630/"
+ },
+ "doi:10.1016/j.crmeth.2026.101606": {
+  "date": "2026-09-26",
+  "title": "A single-cell spatiotemporal manifold of tissue morphology and dynamics.",
+  "doi": "10.1016/j.crmeth.2026.101606",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42785311/"
+ },
+ "doi:10.1158/0008-5472.can-25-5220": {
+  "date": "2026-09-26",
+  "title": "A Machine Learning Framework Enables Supervised Treatment Response Prediction from Tumor Transcriptomics across Cancer Types.",
+  "doi": "10.1158/0008-5472.CAN-25-5220",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42782170/"
+ },
+ "doi:10.1002/prot.70180": {
+  "date": "2026-09-26",
+  "title": "Decoding RNA-Dependent Protein Phase Separation Using an Ensemble-Based Deep Learning Framework Integrating ProtBERT Embeddings With Physicochemical Features.",
+  "doi": "10.1002/prot.70180",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42786417/"
+ },
+ "doi:10.1371/journal.pone.0359336": {
+  "date": "2026-09-26",
+  "title": "Identification of transcriptomic signatures associated with an ac4C related gene set and candidate expression based clusters in osteoarthritis through integrative bioinformatics.",
+  "doi": "10.1371/journal.pone.0359336",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42784567/"
+ },
+ "doi:10.1371/journal.pone.0358259": {
+  "date": "2026-09-26",
+  "title": "Integrative computational analysis of public fecal lipidomics and transcriptomics datasets suggests a candidate association between the COX-2 pathway and CE(20:4) in colorectal adenoma-carcinoma progression.",
+  "doi": "10.1371/journal.pone.0358259",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42789583/"
+ },
+ "doi:10.1371/journal.ppat.1014611": {
+  "date": "2026-09-26",
+  "title": "NSUN2-mediated m5C modification of HIV-1 RNA enables evasion of RIG‑I‑dependent innate immunity.",
+  "doi": "10.1371/journal.ppat.1014611",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42789514/"
  }
 }
