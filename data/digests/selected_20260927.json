@@ -1,0 +1,101 @@
+{
+ "date": "2026-09-27",
+ "papers": [
+  {
+   "title": "Machine learning and statistical methods for molecular quantitative trait loci.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42791384/",
+   "doi": "10.1038/s41576-026-00990-y",
+   "journal": "Nature reviews. Genetics",
+   "date": "2026 Sep 25",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "综述分子QTL中的统计学习与机器学习框架，覆盖建模、因果和多组学整合。",
+   "relevance_cn": "对组学调控建模和AI辅助遗传解析很有参考价值。"
+  },
+  {
+   "title": "HLA-II Expression Marks Activated and Clonally Expanded CD8(+) T Cells and Improves Tumor-Reactivity Prediction Across Human Cancers.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42794764/",
+   "doi": "10.3390/ijms27188338",
+   "journal": "International journal of molecular sciences",
+   "date": "2026 Sep 19",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "利用跨癌种T细胞组学特征改进肿瘤反应性预测，突出HLA-II表达标记。",
+   "relevance_cn": "展示单细胞/免疫组学特征工程与预测建模思路。"
+  },
+  {
+   "title": "System-level synchronization and subtype-specific modules govern brain-wide serotonin axon innervation.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42771501/",
+   "doi": "10.1073/pnas.2611533123",
+   "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+   "date": "2026 Sep 29",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "通过系统级建模解析全脑血清素轴突支配的同步模式与亚型特异模块。",
+   "relevance_cn": "可借鉴于复杂空间组学/网络模块分析。"
+  },
+  {
+   "title": "APOE-centered transcriptional convergence underlying diverse dementia subtypes.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42775787/",
+   "doi": "10.1177/13872877261489800",
+   "journal": "Journal of Alzheimer's disease : JAD",
+   "date": "2026 Sep 23",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "整合转录组数据揭示多类痴呆亚型围绕APOE的共同表达收敛模式。",
+   "relevance_cn": "提供疾病转录组整合与模块化解析案例。"
+  },
+  {
+   "title": "Counting who was not tested: artificial intelligence extraction of genomic and treatment data from hospital records.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42790441/",
+   "doi": "10.1016/S1470-2045(26)00449-3",
+   "journal": "The Lancet. Oncology",
+   "date": "2026 Sep 25",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "讨论用AI从医院病历抽取基因组检测与治疗信息，识别未检测患者群体。",
+   "relevance_cn": "体现NLP在真实世界基因组数据治理中的应用。"
+  },
+  {
+   "title": "xLSTM-based deep learning model for predicting anticancer Activity of pyrano[3,2-a]phenazine hybrid derivatives: Proof of concept.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42785138/",
+   "doi": "10.1016/j.compbiolchem.2026.109431",
+   "journal": "Computational biology and chemistry",
+   "date": "2026 Sep 22",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "提出xLSTM深度学习模型预测小分子抗癌活性，作为化合物筛选概念验证。",
+   "relevance_cn": "可参考其分子表示与序列模型用于生物化学预测。"
+  },
+  {
+   "title": "Transcriptomic associations and biomarkers in ANCA‑associated Glomerulonephritis and IgG4‑related Disease: A bioinformatics and machine learning study.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42784621/",
+   "doi": "10.1371/journal.pone.0358953",
+   "journal": "PloS one",
+   "date": "2026",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "结合转录组分析与机器学习筛选ANCA肾炎和IgG4相关病的候选生物标志物。",
+   "relevance_cn": "是常见组学ML biomarker流程的落地案例。"
+  },
+  {
+   "title": "LncRNAs and the Cancer Epitranscriptome: Mechanisms and Therapeutic Potential.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42790864/",
+   "doi": "10.1016/j.canlet.2026.218858",
+   "journal": "Cancer letters",
+   "date": "2026 Sep 25",
+   "_bucket": "ai_application",
+   "priority": "🥉",
+   "summary_cn": "综述lncRNA与癌症表观转录组互作机制及其治疗转化潜力。",
+   "relevance_cn": "补充RNA修饰疾病机制与转化背景。"
+  }
+ ],
+ "no_core": true,
+ "summary_zh": "今日无核心新方法论文；精选AI组学建模、分子QTL、真实世界基因组NLP与表观转录组综述。",
+ "_meta": {
+  "model": "gpt-5.5",
+  "base_url": "https://api.tfclab-logan.xyz/v1",
+  "candidates_in": 42,
+  "papers_out": 8
+ }
+}

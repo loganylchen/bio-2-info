@@ -3304,5 +3304,53 @@
   "title": "NSUN2-mediated m5C modification of HIV-1 RNA enables evasion of RIG‑I‑dependent innate immunity.",
   "doi": "10.1371/journal.ppat.1014611",
   "link": "https://pubmed.ncbi.nlm.nih.gov/42789514/"
+ },
+ "doi:10.1038/s41576-026-00990-y": {
+  "date": "2026-09-27",
+  "title": "Machine learning and statistical methods for molecular quantitative trait loci.",
+  "doi": "10.1038/s41576-026-00990-y",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42791384/"
+ },
+ "doi:10.3390/ijms27188338": {
+  "date": "2026-09-27",
+  "title": "HLA-II Expression Marks Activated and Clonally Expanded CD8(+) T Cells and Improves Tumor-Reactivity Prediction Across Human Cancers.",
+  "doi": "10.3390/ijms27188338",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42794764/"
+ },
+ "doi:10.1073/pnas.2611533123": {
+  "date": "2026-09-27",
+  "title": "System-level synchronization and subtype-specific modules govern brain-wide serotonin axon innervation.",
+  "doi": "10.1073/pnas.2611533123",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42771501/"
+ },
+ "doi:10.1177/13872877261489800": {
+  "date": "2026-09-27",
+  "title": "APOE-centered transcriptional convergence underlying diverse dementia subtypes.",
+  "doi": "10.1177/13872877261489800",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42775787/"
+ },
+ "doi:10.1016/s1470-2045(26)00449-3": {
+  "date": "2026-09-27",
+  "title": "Counting who was not tested: artificial intelligence extraction of genomic and treatment data from hospital records.",
+  "doi": "10.1016/S1470-2045(26)00449-3",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42790441/"
+ },
+ "doi:10.1016/j.compbiolchem.2026.109431": {
+  "date": "2026-09-27",
+  "title": "xLSTM-based deep learning model for predicting anticancer Activity of pyrano[3,2-a]phenazine hybrid derivatives: Proof of concept.",
+  "doi": "10.1016/j.compbiolchem.2026.109431",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42785138/"
+ },
+ "doi:10.1371/journal.pone.0358953": {
+  "date": "2026-09-27",
+  "title": "Transcriptomic associations and biomarkers in ANCA‑associated Glomerulonephritis and IgG4‑related Disease: A bioinformatics and machine learning study.",
+  "doi": "10.1371/journal.pone.0358953",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42784621/"
+ },
+ "doi:10.1016/j.canlet.2026.218858": {
+  "date": "2026-09-27",
+  "title": "LncRNAs and the Cancer Epitranscriptome: Mechanisms and Therapeutic Potential.",
+  "doi": "10.1016/j.canlet.2026.218858",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42790864/"
  }
 }
