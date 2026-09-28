@@ -3352,5 +3352,47 @@
   "title": "LncRNAs and the Cancer Epitranscriptome: Mechanisms and Therapeutic Potential.",
   "doi": "10.1016/j.canlet.2026.218858",
   "link": "https://pubmed.ncbi.nlm.nih.gov/42790864/"
+ },
+ "doi:10.64898/2026.09.22.753482": {
+  "date": "2026-09-28",
+  "title": "Integrative Nanopore and Illumina sequencing reveals age-associated tRNA modification and CCA-tail dynamics in yeast",
+  "doi": "10.64898/2026.09.22.753482",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.09.22.753482"
+ },
+ "doi:10.64898/2026.09.20.753054": {
+  "date": "2026-09-28",
+  "title": "OmicsResonance: An LLM-assisted cloud ecosystem for interactiveand reproducible single-cell transcriptomic analysis",
+  "doi": "10.64898/2026.09.20.753054",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.09.20.753054"
+ },
+ "doi:10.64898/2026.08.26.747234": {
+  "date": "2026-09-28",
+  "title": "Pruning the Search, Not the Signal: Adaptive-Banding Needleman-Wunsch Sequence Alignment via Protein Language Model Confidence",
+  "doi": "10.64898/2026.08.26.747234",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.08.26.747234"
+ },
+ "doi:10.64898/2026.09.17.751511": {
+  "date": "2026-09-28",
+  "title": "SurfGraphPro: Integrating Protein Language Models with Geometric Deep Learning On Coarse Protein Surfaces for Binding Site Prediction",
+  "doi": "10.64898/2026.09.17.751511",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.09.17.751511"
+ },
+ "doi:10.64898/2026.09.21.753204": {
+  "date": "2026-09-28",
+  "title": "Limitations of general protein language models and public TCRpMHC data in training specificity prediction models",
+  "doi": "10.64898/2026.09.21.753204",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.09.21.753204"
+ },
+ "doi:10.64898/2026.09.20.752967": {
+  "date": "2026-09-28",
+  "title": "AnewDDE: An Agentic Drug Discovery Engine for Biomolecular Interaction Modelling and Closed-Loop Design",
+  "doi": "10.64898/2026.09.20.752967",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.09.20.752967"
+ },
+ "doi:10.1093/narcan/zcag026": {
+  "date": "2026-09-28",
+  "title": "Integrative multi-omics profiling and machine learning reveal enhancer RNA signatures for early detection and prognostic stratification in breast cancer.",
+  "doi": "10.1093/narcan/zcag026",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42798840/"
  }
 }
