@@ -3394,5 +3394,47 @@
   "title": "Integrative multi-omics profiling and machine learning reveal enhancer RNA signatures for early detection and prognostic stratification in breast cancer.",
   "doi": "10.1093/narcan/zcag026",
   "link": "https://pubmed.ncbi.nlm.nih.gov/42798840/"
+ },
+ "doi:10.1101/2025.07.16.665072": {
+  "date": "2026-09-29",
+  "title": "Base modification analysis in long read sequencing data using Minimod",
+  "doi": "10.1101/2025.07.16.665072",
+  "link": "https://www.biorxiv.org/content/10.1101/2025.07.16.665072"
+ },
+ "doi:10.64898/2026.09.25.754444": {
+  "date": "2026-09-29",
+  "title": "Stoichiometric m6A regulation of YY1 orchestrates the metabolic switch during cardiac development",
+  "doi": "10.64898/2026.09.25.754444",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.09.25.754444"
+ },
+ "doi:10.64898/2026.09.27.754811": {
+  "date": "2026-09-29",
+  "title": "Sub-stoichiometric modifications of Aplysia californica tRNAs and tRNA fragments revealed by integrating intact and bottom-up mass spectrometry",
+  "doi": "10.64898/2026.09.27.754811",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.09.27.754811"
+ },
+ "doi:10.1093/bioinformatics/btag710": {
+  "date": "2026-09-29",
+  "title": "Genome-wide-scale prediction of compound-protein interactions using foundation and language models based on three-dimensional structures of compounds and proteins.",
+  "doi": "10.1093/bioinformatics/btag710",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42803464/"
+ },
+ "doi:10.64898/2026.09.23.753886": {
+  "date": "2026-09-29",
+  "title": "CheckAMG: Accurate Identification of Auxiliary Viral Genes with Genome-Language Models",
+  "doi": "10.64898/2026.09.23.753886",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.09.23.753886"
+ },
+ "doi:10.64898/2026.09.22.753215": {
+  "date": "2026-09-29",
+  "title": "A Taxonomy-Informed Sparse DNA Foundation Model for Microbial Genomics",
+  "doi": "10.64898/2026.09.22.753215",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.09.22.753215"
+ },
+ "doi:10.64898/2026.09.22.753590": {
+  "date": "2026-09-29",
+  "title": "NexuST: A Hierarchical Foundation Model for Spatial Transcriptomics",
+  "doi": "10.64898/2026.09.22.753590",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.09.22.753590"
  }
 }
