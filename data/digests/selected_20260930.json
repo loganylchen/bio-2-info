@@ -1,0 +1,101 @@
+{
+ "date": "2026-09-30",
+ "papers": [
+  {
+   "title": "Nailpolish: Reference-free UMI deduplication and consensus read generation",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.09.25.754331",
+   "doi": "10.64898/2026.09.25.754331",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-09-29",
+   "_bucket": "core",
+   "priority": "🥇",
+   "summary_cn": "提出Nailpolish，对UMI长读长进行无参考去重、纠错和共识序列生成。",
+   "relevance_cn": "直接服务ONT/PacBio转录组定量与长读长误差校正。"
+  },
+  {
+   "title": "Incorporating FDR into the assessment of nanopore sequencing for the reliable detection of DNA modifications in real applications",
+   "link": "https://www.biorxiv.org/content/10.1101/2024.11.19.624260",
+   "doi": "10.1101/2024.11.19.624260",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-09-29",
+   "_bucket": "core",
+   "priority": "🥇",
+   "summary_cn": "提出modFDR框架，用负控和FDR系统评估纳米孔DNA修饰检测可靠性。",
+   "relevance_cn": "对修饰calling基准、假阳性控制和DRS类评估很有借鉴。"
+  },
+  {
+   "title": "Empirical Validation of Composite Fractional Noise Models in Nanopore Signals",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.09.28.754894",
+   "doi": "10.64898/2026.09.28.754894",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-09-28",
+   "_bucket": "core",
+   "priority": "🥇",
+   "summary_cn": "跨12种实验条件实证分析纳米孔噪声，验证复合分数噪声统计模型。",
+   "relevance_cn": "有助于改进纳米孔信号建模、basecalling和修饰检测。"
+  },
+  {
+   "title": "Light-cycle time-restricted feeding remodels a hidden layer of the cardiac transcriptome through sex-specific transcript switching",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.09.22.753546",
+   "doi": "10.64898/2026.09.22.753546",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-09-28",
+   "_bucket": "core",
+   "priority": "🥇",
+   "summary_cn": "用ONT长读长RNA测序解析小鼠心脏昼夜转录本切换和未注释异构体。",
+   "relevance_cn": "展示长读长RNA测序在全长异构体和动态转录组中的价值。"
+  },
+  {
+   "title": "EpiZoo: a DNA sequence-aware foundation model for cross-species single-cell epigenomics",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.09.24.754017",
+   "doi": "10.64898/2026.09.24.754017",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-09-29",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "提出EpiZoo，将DNA序列信息融入跨物种单细胞表观组foundation model。",
+   "relevance_cn": "代表序列感知组学基础模型，对跨物种表征学习有参考。"
+  },
+  {
+   "title": "Benchmarking single-cell foundation models for aging biology",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.09.21.753191",
+   "doi": "10.64898/2026.09.21.753191",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-09-27",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "在250万单细胞转录组上评测10个通用和3个衰老专用基础模型。",
+   "relevance_cn": "为选择和评估单细胞foundation model提供实用基准。"
+  },
+  {
+   "title": "A biological-response compound representation allows chemical perturbation prediction across cell lines",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.09.28.755146",
+   "doi": "10.64898/2026.09.28.755146",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-09-29",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "BioPert用参考细胞系表达响应表征化合物，预测跨细胞系转录扰动。",
+   "relevance_cn": "连接扰动组学与药物AI，可借鉴于功能转录组建模。"
+  },
+  {
+   "title": "A multi-omics and machine-learning framework reveals shared druggable targets for Alzheimer's disease and periodontitis and identifies amentoflavone and taraxerone as potential dual-action natural products.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42809100/",
+   "doi": "10.1007/s00210-026-05953-y",
+   "journal": "Naunyn-Schmiedeberg's archives of pharmacology",
+   "date": "2026 Sep 29",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "整合多组学和机器学习寻找AD与牙周炎共享可成药靶点及候选天然产物。",
+   "relevance_cn": "是组学层面AI落地应用，可参考其靶点发现流程。"
+  }
+ ],
+ "no_core": false,
+ "summary_zh": "今日核心以纳米孔信号、修饰检测评估和长读长UMI处理为主，AI方向覆盖单细胞基础模型与组学药靶发现。",
+ "_meta": {
+  "model": "gpt-5.5",
+  "base_url": "https://api.tfclab-logan.xyz/v1",
+  "candidates_in": 81,
+  "papers_out": 8
+ }
+}
