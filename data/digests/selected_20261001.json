@@ -1,0 +1,101 @@
+{
+ "date": "2026-10-01",
+ "papers": [
+  {
+   "title": "Evo 2 as a classification machine: evidence from in-context learning and mechanistic interpretability",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.09.30.755330",
+   "doi": "10.64898/2026.09.30.755330",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-09-30",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "系统评估Evo 2基因组语言模型的上下文学习能力并做机制解释。",
+   "relevance_cn": "直接参考核酸foundation model的任务边界与可解释性。"
+  },
+  {
+   "title": "Bridging the gap between omics and structural data: A framework for interpreting protein-RNA interaction specificity",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.09.24.754079",
+   "doi": "10.64898/2026.09.24.754079",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-09-30",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "整合组学与结构信息，提出蛋白-RNA相互作用特异性解释框架。",
+   "relevance_cn": "贴近RNA结合蛋白、结构AI与转录后调控分析。"
+  },
+  {
+   "title": "SpatialTRACE predicts anatomical axes and regions in spatial transcriptomics and microscopy",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.09.23.753836",
+   "doi": "10.64898/2026.09.23.753836",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-09-29",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "提出SpatialTRACE，用图和图像模型自动预测空间转录组解剖轴与区域。",
+   "relevance_cn": "可借鉴于空间组学注释、组织坐标建模与多模态整合。"
+  },
+  {
+   "title": "Analyzing Genomic Foundation Models for Viral Sequence Identification",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.09.25.754388",
+   "doi": "10.64898/2026.09.25.754388",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-09-28",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "评测核酸foundation model在病毒序列识别中的无比对分类能力。",
+   "relevance_cn": "提供序列大模型相对BLAST等传统方法的benchmark思路。"
+  },
+  {
+   "title": "Unified modeling of mutation-induced protein stability responses with OmegaTherm",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.09.23.753709",
+   "doi": "10.64898/2026.09.23.753709",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-09-28",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "OmegaTherm用蛋白语言模型联合预测突变导致的ΔΔG和Tm变化。",
+   "relevance_cn": "展示生物序列模型多任务学习与突变效应建模范式。"
+  },
+  {
+   "title": "TxCyto: A machine learning framework for estimating cytokine activity from whole transcriptome",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.09.28.754405",
+   "doi": "10.64898/2026.09.28.754405",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-09-29",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "TxCyto从全转录组深度学习推断细胞因子活性，覆盖多组织情境。",
+   "relevance_cn": "对转录组功能状态推断和免疫信号建模有方法参考。"
+  },
+  {
+   "title": "Inferring cascade drivers of VEXAS syndrome by a causal machine learning tool CauNagi",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.09.23.753348",
+   "doi": "10.64898/2026.09.23.753348",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-09-29",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "CauNagi结合因果表征学习和深度模型，从转录组推断级联驱动因子。",
+   "relevance_cn": "适合借鉴到RNA调控网络和疾病机制的因果优先级排序。"
+  },
+  {
+   "title": "Reference-Based Cell Type Deconvolution Using Self-Supervised Contrastive Learning in Spatial Transcriptomics with Ctdecon.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42813985/",
+   "doi": "10.1093/molecular-omics/aaiag023",
+   "journal": "Molecular omics",
+   "date": "2026 Sep 30",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "Ctdecon用自监督对比学习做参考驱动的空间转录组细胞类型解卷积。",
+   "relevance_cn": "是AI落地到空间转录组解析的实用工具案例。"
+  }
+ ],
+ "no_core": true,
+ "summary_zh": "今日无核心新方法论文；精选以基因组/转录组AI方法、空间组学和RNA相互作用建模为主。",
+ "_meta": {
+  "model": "gpt-5.5",
+  "base_url": "https://api.tfclab-logan.xyz/v1",
+  "candidates_in": 80,
+  "papers_out": 8
+ }
+}

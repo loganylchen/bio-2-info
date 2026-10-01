@@ -3484,5 +3484,53 @@
   "title": "A multi-omics and machine-learning framework reveals shared druggable targets for Alzheimer's disease and periodontitis and identifies amentoflavone and taraxerone as potential dual-action natural products.",
   "doi": "10.1007/s00210-026-05953-y",
   "link": "https://pubmed.ncbi.nlm.nih.gov/42809100/"
+ },
+ "doi:10.64898/2026.09.30.755330": {
+  "date": "2026-10-01",
+  "title": "Evo 2 as a classification machine: evidence from in-context learning and mechanistic interpretability",
+  "doi": "10.64898/2026.09.30.755330",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.09.30.755330"
+ },
+ "doi:10.64898/2026.09.24.754079": {
+  "date": "2026-10-01",
+  "title": "Bridging the gap between omics and structural data: A framework for interpreting protein-RNA interaction specificity",
+  "doi": "10.64898/2026.09.24.754079",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.09.24.754079"
+ },
+ "doi:10.64898/2026.09.23.753836": {
+  "date": "2026-10-01",
+  "title": "SpatialTRACE predicts anatomical axes and regions in spatial transcriptomics and microscopy",
+  "doi": "10.64898/2026.09.23.753836",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.09.23.753836"
+ },
+ "doi:10.64898/2026.09.25.754388": {
+  "date": "2026-10-01",
+  "title": "Analyzing Genomic Foundation Models for Viral Sequence Identification",
+  "doi": "10.64898/2026.09.25.754388",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.09.25.754388"
+ },
+ "doi:10.64898/2026.09.23.753709": {
+  "date": "2026-10-01",
+  "title": "Unified modeling of mutation-induced protein stability responses with OmegaTherm",
+  "doi": "10.64898/2026.09.23.753709",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.09.23.753709"
+ },
+ "doi:10.64898/2026.09.28.754405": {
+  "date": "2026-10-01",
+  "title": "TxCyto: A machine learning framework for estimating cytokine activity from whole transcriptome",
+  "doi": "10.64898/2026.09.28.754405",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.09.28.754405"
+ },
+ "doi:10.64898/2026.09.23.753348": {
+  "date": "2026-10-01",
+  "title": "Inferring cascade drivers of VEXAS syndrome by a causal machine learning tool CauNagi",
+  "doi": "10.64898/2026.09.23.753348",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.09.23.753348"
+ },
+ "doi:10.1093/molecular-omics/aaiag023": {
+  "date": "2026-10-01",
+  "title": "Reference-Based Cell Type Deconvolution Using Self-Supervised Contrastive Learning in Spatial Transcriptomics with Ctdecon.",
+  "doi": "10.1093/molecular-omics/aaiag023",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42813985/"
  }
 }
