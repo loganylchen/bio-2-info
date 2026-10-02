@@ -1,0 +1,101 @@
+{
+ "date": "2026-10-02",
+ "papers": [
+  {
+   "title": "Interrogating the Escherichia coli Epitranscriptome Via CRISPR Interference and Nanopore Native RNA Sequencing.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42765828/",
+   "doi": "10.1002/mbo3.70413",
+   "journal": "MicrobiologyOpen",
+   "date": "2026 Oct",
+   "_bucket": "nanopore_drs",
+   "priority": "🥇",
+   "summary_cn": "结合CRISPRi与纳米孔native RNA测序解析大肠杆菌表观转录组。",
+   "relevance_cn": "直接服务DRS修饰检测与扰动验证设计。"
+  },
+  {
+   "title": "Maternal immune activation perturbs the brain epitranscriptome.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42128069/",
+   "doi": "10.1016/j.bbi.2026.106804",
+   "journal": "Brain, behavior, and immunity",
+   "date": "2026 Oct",
+   "_bucket": "nanopore_drs",
+   "priority": "🥇",
+   "summary_cn": "研究母体免疫激活对脑表观转录组的扰动，涉及长读长RNA修饰解析。",
+   "relevance_cn": "提供DRS用于神经表观转录组研究的案例。"
+  },
+  {
+   "title": "stFormer integrates spatial ligand signaling into a foundation model for spatial transcriptomics.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42815472/",
+   "doi": "10.1016/j.crmeth.2026.101612",
+   "journal": "Cell reports methods",
+   "date": "2026 Sep 30",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "提出stFormer，将空间配体信号纳入空间转录组基础模型。",
+   "relevance_cn": "可借鉴于组学基础模型与空间调控建模。"
+  },
+  {
+   "title": "A Foundation Model of Cancer Genotype Enables Precise Predictions of Therapeutic Response.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42188872/",
+   "doi": "10.1158/2159-8290.CD-25-1735",
+   "journal": "Cancer discovery",
+   "date": "2026 Oct 1",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "构建癌症基因型基础模型，用于精准预测治疗反应。",
+   "relevance_cn": "展示基因组foundation model的转化应用范式。"
+  },
+  {
+   "title": "CytoVI: deep generative modeling of antibody-based single cell data.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42816645/",
+   "doi": "10.1038/s41592-026-03224-5",
+   "journal": "Nature methods",
+   "date": "2026 Sep 30",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "CytoVI用深度生成模型整合和分析抗体型单细胞数据。",
+   "relevance_cn": "高水平单细胞AI工具，适合组学数据整合借鉴。"
+  },
+  {
+   "title": "Function-preserving watermarking of AI-generated proteins.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42816606/",
+   "doi": "10.1038/s41586-026-10965-y",
+   "journal": "Nature",
+   "date": "2026 Sep 30",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "提出保持功能的AI生成蛋白水印策略，实现可追踪蛋白设计。",
+   "relevance_cn": "对生成式生物设计的安全与溯源很有参考价值。"
+  },
+  {
+   "title": "Enhanced Sampling of Protein Conformations in AlphaFold3 with Repulsive Bias in the Diffusion Generative Model.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42819252/",
+   "doi": "10.1021/jacsau.6c00596",
+   "journal": "JACS Au",
+   "date": "2026 Sep 28",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "在AlphaFold3扩散生成中加入排斥偏置以增强蛋白构象采样。",
+   "relevance_cn": "启发结构AI模型的不确定性与构象空间探索。"
+  },
+  {
+   "title": "H3K27me3 loss and METTL3-m6A converge to upregulate SOX11/SMARCA4 and drive H3K27-altered spinal cord glioma stemness and proliferation.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42804733/",
+   "doi": "10.1093/neuonc/noag232",
+   "journal": "Neuro-oncology",
+   "date": "2026 Sep 28",
+   "_bucket": "rna_mod",
+   "priority": "🥉",
+   "summary_cn": "揭示H3K27me3缺失与METTL3-m6A共同驱动脊髓胶质瘤干性增殖。",
+   "relevance_cn": "高质量m6A疾病机制，补充表观调控交叉案例。"
+  }
+ ],
+ "no_core": false,
+ "summary_zh": "今日核心有纳米孔native RNA测序解析表观转录组，AI侧以空间转录组基础模型、单细胞生成模型和蛋白生成安全为亮点。",
+ "_meta": {
+  "model": "gpt-5.5",
+  "base_url": "https://api.tfclab-logan.xyz/v1",
+  "candidates_in": 117,
+  "papers_out": 8
+ }
+}

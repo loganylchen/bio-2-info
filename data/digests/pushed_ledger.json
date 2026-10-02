@@ -3532,5 +3532,53 @@
   "title": "Reference-Based Cell Type Deconvolution Using Self-Supervised Contrastive Learning in Spatial Transcriptomics with Ctdecon.",
   "doi": "10.1093/molecular-omics/aaiag023",
   "link": "https://pubmed.ncbi.nlm.nih.gov/42813985/"
+ },
+ "doi:10.1002/mbo3.70413": {
+  "date": "2026-10-02",
+  "title": "Interrogating the Escherichia coli Epitranscriptome Via CRISPR Interference and Nanopore Native RNA Sequencing.",
+  "doi": "10.1002/mbo3.70413",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42765828/"
+ },
+ "doi:10.1016/j.bbi.2026.106804": {
+  "date": "2026-10-02",
+  "title": "Maternal immune activation perturbs the brain epitranscriptome.",
+  "doi": "10.1016/j.bbi.2026.106804",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42128069/"
+ },
+ "doi:10.1016/j.crmeth.2026.101612": {
+  "date": "2026-10-02",
+  "title": "stFormer integrates spatial ligand signaling into a foundation model for spatial transcriptomics.",
+  "doi": "10.1016/j.crmeth.2026.101612",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42815472/"
+ },
+ "doi:10.1158/2159-8290.cd-25-1735": {
+  "date": "2026-10-02",
+  "title": "A Foundation Model of Cancer Genotype Enables Precise Predictions of Therapeutic Response.",
+  "doi": "10.1158/2159-8290.CD-25-1735",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42188872/"
+ },
+ "doi:10.1038/s41592-026-03224-5": {
+  "date": "2026-10-02",
+  "title": "CytoVI: deep generative modeling of antibody-based single cell data.",
+  "doi": "10.1038/s41592-026-03224-5",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42816645/"
+ },
+ "doi:10.1038/s41586-026-10965-y": {
+  "date": "2026-10-02",
+  "title": "Function-preserving watermarking of AI-generated proteins.",
+  "doi": "10.1038/s41586-026-10965-y",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42816606/"
+ },
+ "doi:10.1021/jacsau.6c00596": {
+  "date": "2026-10-02",
+  "title": "Enhanced Sampling of Protein Conformations in AlphaFold3 with Repulsive Bias in the Diffusion Generative Model.",
+  "doi": "10.1021/jacsau.6c00596",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42819252/"
+ },
+ "doi:10.1093/neuonc/noag232": {
+  "date": "2026-10-02",
+  "title": "H3K27me3 loss and METTL3-m6A converge to upregulate SOX11/SMARCA4 and drive H3K27-altered spinal cord glioma stemness and proliferation.",
+  "doi": "10.1093/neuonc/noag232",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42804733/"
  }
 }
