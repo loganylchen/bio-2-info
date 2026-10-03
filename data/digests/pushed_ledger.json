@@ -3580,5 +3580,53 @@
   "title": "H3K27me3 loss and METTL3-m6A converge to upregulate SOX11/SMARCA4 and drive H3K27-altered spinal cord glioma stemness and proliferation.",
   "doi": "10.1093/neuonc/noag232",
   "link": "https://pubmed.ncbi.nlm.nih.gov/42804733/"
+ },
+ "doi:10.1109/tcbbio.2026.3738851": {
+  "date": "2026-10-03",
+  "title": "Hypergraph-Attention-Guided Graph Refinement and Feature Decoupling for Single-Cell RNA-seq Clustering.",
+  "doi": "10.1109/TCBBIO.2026.3738851",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42821712/"
+ },
+ "doi:10.64898/2026.08.28.747622": {
+  "date": "2026-10-03",
+  "title": "Dataset structure outweighs method choice in single-cell cell-type annotation",
+  "doi": "10.64898/2026.08.28.747622",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.08.28.747622"
+ },
+ "doi:10.64898/2026.09.27.754822": {
+  "date": "2026-10-03",
+  "title": "Evidence Scaling for Zero-Shot Protein Reasoning with Large Language Models",
+  "doi": "10.64898/2026.09.27.754822",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.09.27.754822"
+ },
+ "doi:10.64898/2026.09.27.754758": {
+  "date": "2026-10-03",
+  "title": "Auditing Protein-Protein Interaction Signals with Sparse Autoencoder Fingerprints",
+  "doi": "10.64898/2026.09.27.754758",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.09.27.754758"
+ },
+ "doi:10.64898/2026.09.25.754510": {
+  "date": "2026-10-03",
+  "title": "Rank-Preserving Alignment Enables Cross-platform Learning and Phenotyping for Single-Cell and Spatial Proteomics",
+  "doi": "10.64898/2026.09.25.754510",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.09.25.754510"
+ },
+ "doi:10.1099/mgen.0.001854": {
+  "date": "2026-10-03",
+  "title": "Genomic signatures associated with antibiotic resistance and predictive modelling in Pseudomonas aeruginosa.",
+  "doi": "10.1099/mgen.0.001854",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42821438/"
+ },
+ "doi:10.1021/jacsau.6c01105": {
+  "date": "2026-10-03",
+  "title": "MacroTox: A Macroscopic Graph Topology-Based Multimodal Learning Framework for Robust Molecular Toxicity Prediction.",
+  "doi": "10.1021/jacsau.6c01105",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42819392/"
+ },
+ "doi:10.1073/pnas.2615985123": {
+  "date": "2026-10-03",
+  "title": "Dynamic tRNA modification programs align codon usage with growth-phase-specific gene expression in Pseudomonas aeruginosa.",
+  "doi": "10.1073/pnas.2615985123",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42826134/"
  }
 }
