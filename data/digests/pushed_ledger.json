@@ -3628,5 +3628,47 @@
   "title": "Dynamic tRNA modification programs align codon usage with growth-phase-specific gene expression in Pseudomonas aeruginosa.",
   "doi": "10.1073/pnas.2615985123",
   "link": "https://pubmed.ncbi.nlm.nih.gov/42826134/"
+ },
+ "doi:10.1016/j.biotechadv.2026.108945": {
+  "date": "2026-10-04",
+  "title": "Interpreting embeddings from genome and protein language models.",
+  "doi": "10.1016/j.biotechadv.2026.108945",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42252067/"
+ },
+ "doi:10.1177/15578666261492321": {
+  "date": "2026-10-04",
+  "title": "Integrating Morphology and Gene Expression of Neural Cells in Unpaired Single-Cell Data Using GeoAdvAE.",
+  "doi": "10.1177/15578666261492321",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42809409/"
+ },
+ "doi:10.1016/j.compbiolchem.2026.109239": {
+  "date": "2026-10-04",
+  "title": "AGTformer: Synergistic global transformer and adaptive graph gating for Accurate scRNA-seq clustering.",
+  "doi": "10.1016/j.compbiolchem.2026.109239",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42435485/"
+ },
+ "doi:10.64898/2026.09.27.754743": {
+  "date": "2026-10-04",
+  "title": "AbRefine: Framework-Conditioned Refinement for Structure-Guided Antibody CDR Design",
+  "doi": "10.64898/2026.09.27.754743",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.09.27.754743"
+ },
+ "doi:10.1016/j.cels.2026.101739": {
+  "date": "2026-10-04",
+  "title": "FLIGHTED: Inferring fitness landscapes from noisy high-throughput experimental data.",
+  "doi": "10.1016/j.cels.2026.101739",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42826717/"
+ },
+ "doi:10.1016/j.jare.2026.10.002": {
+  "date": "2026-10-04",
+  "title": "pLM-HP: Peptide hormone prediction using pre-trained protein language model representations.",
+  "doi": "10.1016/j.jare.2026.10.002",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42826899/"
+ },
+ "doi:10.1016/j.jare.2026.01.035": {
+  "date": "2026-10-04",
+  "title": "scPlantAnnotate: an accurate and robust transformer-based model for plant cell type annotation.",
+  "doi": "10.1016/j.jare.2026.01.035",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/41554477/"
  }
 }
