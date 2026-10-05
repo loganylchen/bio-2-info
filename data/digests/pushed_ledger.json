@@ -3670,5 +3670,53 @@
   "title": "scPlantAnnotate: an accurate and robust transformer-based model for plant cell type annotation.",
   "doi": "10.1016/j.jare.2026.01.035",
   "link": "https://pubmed.ncbi.nlm.nih.gov/41554477/"
+ },
+ "doi:10.1093/genetics/iyag272": {
+  "date": "2026-10-05",
+  "title": "OmeSim: a genetics-based nonlinear simulator for in-between-ome and phenotype.",
+  "doi": "10.1093/genetics/iyag272",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42828772/"
+ },
+ "doi:10.1007/s10528-026-11380-8": {
+  "date": "2026-10-05",
+  "title": "A Method for Imputing scRNA-seq Data Based on Mobile Graph Convolutional Generative Adversarial Networks.",
+  "doi": "10.1007/s10528-026-11380-8",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/41998476/"
+ },
+ "doi:10.1016/j.compbiolchem.2026.109161": {
+  "date": "2026-10-05",
+  "title": "A systematic review of algorithmic challenges in noise modelling for multimodal single-cell.",
+  "doi": "10.1016/j.compbiolchem.2026.109161",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42275753/"
+ },
+ "doi:10.1093/jambio/lxag239": {
+  "date": "2026-10-05",
+  "title": "AI-Empowered Viral Metagenomics for Clinical Diagnosis: Advances, Bottlenecks, and Translational Pathways.",
+  "doi": "10.1093/jambio/lxag239",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42809384/"
+ },
+ "doi:10.1094/phyto-03-26-0072-r": {
+  "date": "2026-10-05",
+  "title": "Machine Learning and Statistical Models for Genomic Selection of Phytophthora Fruit Rot Resistance in Watermelon.",
+  "doi": "10.1094/PHYTO-03-26-0072-R",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42829002/"
+ },
+ "doi:10.64898/2026.08.31.742652": {
+  "date": "2026-10-05",
+  "title": "From Public Archive to Reusable Resource: Characterizing Gut Microbiome Metadata in the NCBI SRA",
+  "doi": "10.64898/2026.08.31.742652",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.08.31.742652"
+ },
+ "doi:10.1016/j.compbiolchem.2026.109465": {
+  "date": "2026-10-05",
+  "title": "Cervical cancer survival analysis by integrating multi-omics data through an adaptive weighted deep neural network.",
+  "doi": "10.1016/j.compbiolchem.2026.109465",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42828972/"
+ },
+ "doi:10.1016/j.semcancer.2026.102622": {
+  "date": "2026-10-05",
+  "title": "RNA modifications and metabolism in cancer: mechanisms, cross-talk and therapeutic implications.",
+  "doi": "10.1016/j.semcancer.2026.102622",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42815701/"
  }
 }

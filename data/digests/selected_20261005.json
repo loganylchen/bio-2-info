@@ -1,0 +1,101 @@
+{
+ "date": "2026-10-05",
+ "papers": [
+  {
+   "title": "OmeSim: a genetics-based nonlinear simulator for in-between-ome and phenotype.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42828772/",
+   "doi": "10.1093/genetics/iyag272",
+   "journal": "Genetics",
+   "date": "2026 Oct 3",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "提出OmeSim，模拟遗传、组学中间层与表型间非线性关系。",
+   "relevance_cn": "可用于多组学方法、因果推断和模型benchmark。"
+  },
+  {
+   "title": "A Method for Imputing scRNA-seq Data Based on Mobile Graph Convolutional Generative Adversarial Networks.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/41998476/",
+   "doi": "10.1007/s10528-026-11380-8",
+   "journal": "Biochemical genetics",
+   "date": "2026 Oct",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "用移动图卷积GAN进行scRNA-seq缺失与dropout插补。",
+   "relevance_cn": "对单细胞预处理和深度生成模型设计有参考。"
+  },
+  {
+   "title": "A systematic review of algorithmic challenges in noise modelling for multimodal single-cell.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42275753/",
+   "doi": "10.1016/j.compbiolchem.2026.109161",
+   "journal": "Computational biology and chemistry",
+   "date": "2026 Oct",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "系统综述多模态单细胞噪声建模的算法难点与评估问题。",
+   "relevance_cn": "有助于设计稳健单细胞/多组学AI pipeline。"
+  },
+  {
+   "title": "AI-Empowered Viral Metagenomics for Clinical Diagnosis: Advances, Bottlenecks, and Translational Pathways.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42809384/",
+   "doi": "10.1093/jambio/lxag239",
+   "journal": "Journal of applied microbiology",
+   "date": "2026 Sep 29",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "综述AI增强病毒宏基因组诊断的进展、瓶颈与转化路径。",
+   "relevance_cn": "对测序数据分类、病原检测和自动化分析有借鉴。"
+  },
+  {
+   "title": "Machine Learning and Statistical Models for Genomic Selection of Phytophthora Fruit Rot Resistance in Watermelon.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42829002/",
+   "doi": "10.1094/PHYTO-03-26-0072-R",
+   "journal": "Phytopathology",
+   "date": "2026 Oct 3",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "比较机器学习与统计模型预测西瓜抗疫霉果腐病基因组选择。",
+   "relevance_cn": "是植物基因组选择中AI落地应用案例。"
+  },
+  {
+   "title": "From Public Archive to Reusable Resource: Characterizing Gut Microbiome Metadata in the NCBI SRA",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.08.31.742652",
+   "doi": "10.64898/2026.08.31.742652",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-10-02",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "大规模评估SRA肠道微生物组元数据结构化与可复用程度。",
+   "relevance_cn": "为微生物组基础模型数据治理提供实用依据。"
+  },
+  {
+   "title": "Cervical cancer survival analysis by integrating multi-omics data through an adaptive weighted deep neural network.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42828972/",
+   "doi": "10.1016/j.compbiolchem.2026.109465",
+   "journal": "Computational biology and chemistry",
+   "date": "2026 Oct 1",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "构建自适应加权DNN整合多组学预测宫颈癌生存。",
+   "relevance_cn": "展示多组学深度学习融合与预后建模范式。"
+  },
+  {
+   "title": "RNA modifications and metabolism in cancer: mechanisms, cross-talk and therapeutic implications.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42815701/",
+   "doi": "10.1016/j.semcancer.2026.102622",
+   "journal": "Seminars in cancer biology",
+   "date": "2026 Sep 30",
+   "_bucket": "rna_mod",
+   "priority": "🥉",
+   "summary_cn": "综述癌症中RNA修饰与代谢重编程互作及治疗意义。",
+   "relevance_cn": "补充RNA修饰机制背景，但非方法学核心。"
+  }
+ ],
+ "no_core": true,
+ "summary_zh": "今日无核心新方法论文；精选以多组学AI、单细胞建模、宏基因组AI和RNA修饰综述为主。",
+ "_meta": {
+  "model": "gpt-5.5",
+  "base_url": "https://api.tfclab-logan.xyz/v1",
+  "candidates_in": 80,
+  "papers_out": 8
+ }
+}
