@@ -3718,5 +3718,47 @@
   "title": "RNA modifications and metabolism in cancer: mechanisms, cross-talk and therapeutic implications.",
   "doi": "10.1016/j.semcancer.2026.102622",
   "link": "https://pubmed.ncbi.nlm.nih.gov/42815701/"
+ },
+ "doi:10.64898/2026.09.30.755585": {
+  "date": "2026-10-06",
+  "title": "Slide-level batch structure limits histology-guided supervision of transcriptomic foundation models",
+  "doi": "10.64898/2026.09.30.755585",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.09.30.755585"
+ },
+ "doi:10.64898/2026.09.28.755196": {
+  "date": "2026-10-06",
+  "title": "Distinct sequence grammars of nucleosomal and linker DNA shape mutational and methylation landscapes in cancer",
+  "doi": "10.64898/2026.09.28.755196",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.09.28.755196"
+ },
+ "doi:10.1093/plcell/koag272": {
+  "date": "2026-10-06",
+  "title": "Successful predictive modeling of pollen fitness phenotypes is enabled by measures of expression specificity.",
+  "doi": "10.1093/plcell/koag272",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42832033/"
+ },
+ "doi:10.1016/j.compbiolchem.2026.109216": {
+  "date": "2026-10-06",
+  "title": "An interpretable framework for cancer drug response prediction using integrated drug and multi-omics data with a hybrid Bi-LSTM-GRU network.",
+  "doi": "10.1016/j.compbiolchem.2026.109216",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42385452/"
+ },
+ "doi:10.1016/j.humimm.2026.112092": {
+  "date": "2026-10-06",
+  "title": "Genome-wide transcriptomics and a machine learning-based random forest model identify novel biomarkers to predict phenotypic variability in Wilson disease.",
+  "doi": "10.1016/j.humimm.2026.112092",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42826579/"
+ },
+ "doi:10.1111/ijlh.70150": {
+  "date": "2026-10-06",
+  "title": "Artificial Intelligence Based High Resolution Melting Analysis for Comprehensive Calreticulin Mutation Screening and Novel Variant Detection in Myeloproliferative Neoplasms.",
+  "doi": "10.1111/ijlh.70150",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42151105/"
+ },
+ "doi:10.1080/15376516.2026.2741364": {
+  "date": "2026-10-06",
+  "title": "Artificial Intelligence and machine learning in toxicogenomics for drug safety assessment: a critical review.",
+  "doi": "10.1080/15376516.2026.2741364",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42826081/"
  }
 }
