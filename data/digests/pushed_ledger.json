@@ -3760,5 +3760,53 @@
   "title": "Artificial Intelligence and machine learning in toxicogenomics for drug safety assessment: a critical review.",
   "doi": "10.1080/15376516.2026.2741364",
   "link": "https://pubmed.ncbi.nlm.nih.gov/42826081/"
+ },
+ "doi:10.64898/2026.10.04.754913": {
+  "date": "2026-10-07",
+  "title": "A direct RNA sequencing workflow for simultaneous profiling of tRNA abundance and modifications in mouse liver",
+  "doi": "10.64898/2026.10.04.754913",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.04.754913"
+ },
+ "doi:10.64898/2026.10.05.756201": {
+  "date": "2026-10-07",
+  "title": "Dynamic 2'-O-Me of rRNA regulates ribosome translation in Arabidopsis nucleolin1 mutants and during seed-to-seedling transition",
+  "doi": "10.64898/2026.10.05.756201",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.05.756201"
+ },
+ "doi:10.64898/2026.10.05.756717": {
+  "date": "2026-10-07",
+  "title": "Interferon-induced OASL restricts ADAR1 p150 RNA binding and A-to-I RNA editing",
+  "doi": "10.64898/2026.10.05.756717",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.05.756717"
+ },
+ "doi:10.1038/s43588-026-01054-1": {
+  "date": "2026-10-07",
+  "title": "CellART: a unified framework for extracting single-cell information from high-resolution spatial transcriptomics.",
+  "doi": "10.1038/s43588-026-01054-1",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42834230/"
+ },
+ "doi:10.1371/journal.pcbi.1014822": {
+  "date": "2026-10-07",
+  "title": "Omics data discovery agents: Agent-supported retrieval, reanalysis, and synthesis of published omics data.",
+  "doi": "10.1371/journal.pcbi.1014822",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42837398/"
+ },
+ "doi:10.1101/2025.05.13.653614": {
+  "date": "2026-10-07",
+  "title": "A generative language model decodes contextual constraints on codon choice for mRNA design",
+  "doi": "10.1101/2025.05.13.653614",
+  "link": "https://www.biorxiv.org/content/10.1101/2025.05.13.653614"
+ },
+ "doi:10.1038/s41467-026-78143-2": {
+  "date": "2026-10-07",
+  "title": "ProFormer: generalizable classification of single-cell and plasma proteomes using deep learning.",
+  "doi": "10.1038/s41467-026-78143-2",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42834055/"
+ },
+ "doi:10.1371/journal.pcbi.1014838": {
+  "date": "2026-10-07",
+  "title": "CardamomOT: A mechanistic optimal transport-based framework for gene regulatory network inference, trajectory reconstruction and generative modeling.",
+  "doi": "10.1371/journal.pcbi.1014838",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42837408/"
  }
 }
