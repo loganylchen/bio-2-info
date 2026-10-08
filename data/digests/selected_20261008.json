@@ -1,0 +1,101 @@
+{
+ "date": "2026-10-08",
+ "papers": [
+  {
+   "title": "Epitranscriptomic profiling of VSMC phenotypes reveals uridine modifications linked to post-transcriptional regulation.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42840959/",
+   "doi": "10.1016/j.bbrep.2026.102816",
+   "journal": "Biochemistry and biophysics reports",
+   "date": "2026 Dec",
+   "_bucket": "nanopore_drs",
+   "priority": "🥇",
+   "summary_cn": "解析VSMC表型相关尿苷修饰谱，关联转录后调控变化。",
+   "relevance_cn": "直接涉及表观转录组修饰谱，对RNA修饰研究有参考。"
+  },
+  {
+   "title": "HINN prioritizes multi-omics biomarkers associated with cognitive decline.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42842388/",
+   "doi": "10.1093/bioinformatics/btag741",
+   "journal": "Bioinformatics (Oxford, England)",
+   "date": "2026 Oct 7",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "提出HINN整合多组学数据，优先排序认知衰退相关生物标志物。",
+   "relevance_cn": "多组学AI特征选择框架，可借鉴于转录组标志物挖掘。"
+  },
+  {
+   "title": "Integrating network medicine and foundation models reveals cell-type-specific regulatory alterations in Alzheimer's disease.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42840584/",
+   "doi": "10.1093/nargab/lqag116",
+   "journal": "NAR genomics and bioinformatics",
+   "date": "2026 Dec",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "结合网络医学与基础模型，识别阿尔茨海默病细胞类型特异调控改变。",
+   "relevance_cn": "展示foundation model用于单细胞调控网络解析。"
+  },
+  {
+   "title": "Spatial Transcriptomics As Rasterized Image Tensors (STARIT) characterizes cell states with subcellular molecular heterogeneity.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42837397/",
+   "doi": "10.1371/journal.pcbi.1014845",
+   "journal": "PLoS computational biology",
+   "date": "2026 Oct 6",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "STARIT将空间转录组栅格化为图像张量，刻画亚细胞分子异质性。",
+   "relevance_cn": "为空间组学深度学习表征提供可复用思路。"
+  },
+  {
+   "title": "Machine learning-assisted directed evolution of plant Rubisco.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42842665/",
+   "doi": "10.1126/sciadv.aeh3246",
+   "journal": "Science advances",
+   "date": "2026 Oct 9",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "用机器学习辅助植物Rubisco定向进化，加速蛋白功能改造筛选。",
+   "relevance_cn": "优质AI落地案例，启发序列-功能建模与设计。"
+  },
+  {
+   "title": "ProDTI: Prior-Guided Positive-Unlabeled Learning for Robust Drug-Target Interaction Prediction.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42842427/",
+   "doi": "10.1093/bioinformatics/btag712",
+   "journal": "Bioinformatics (Oxford, England)",
+   "date": "2026 Oct 7",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "ProDTI利用先验引导正-未标注学习，提升药物-靶点相互作用预测鲁棒性。",
+   "relevance_cn": "Bioinformatics工具文，对分子预测建模有借鉴价值。"
+  },
+  {
+   "title": "VAEBAC: A representation-learning framework for proteome-scale prediction of amyloidogenic proteins and functional stratification of nucleic-acid-binding proteins.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42842425/",
+   "doi": "10.1093/bioinformatics/btag745",
+   "journal": "Bioinformatics (Oxford, England)",
+   "date": "2026 Oct 7",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "VAEBAC用表示学习进行蛋白质组尺度淀粉样蛋白预测及核酸结合蛋白分层。",
+   "relevance_cn": "蛋白表示学习应用，可借鉴于RNA结合蛋白功能分析。"
+  },
+  {
+   "title": "SPARCS enables scalable recovery of complex image-based phenotypes for genetic screening.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42838047/",
+   "doi": "10.1016/j.cell.2026.09.021",
+   "journal": "Cell",
+   "date": "2026 Oct 6",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "SPARCS从图像遗传筛选中可扩展恢复复杂表型，支持功能基因组学解析。",
+   "relevance_cn": "Cell级AI筛选案例，连接高内涵表型与基因功能。"
+  }
+ ],
+ "no_core": false,
+ "summary_zh": "今日有1篇RNA修饰相关核心表观转录组论文，AI方向以多组学、foundation model、蛋白/药靶预测和遗传筛选应用为主。",
+ "_meta": {
+  "model": "gpt-5.5",
+  "base_url": "https://api.tfclab-logan.xyz/v1",
+  "candidates_in": 76,
+  "papers_out": 8
+ }
+}

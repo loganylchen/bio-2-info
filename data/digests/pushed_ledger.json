@@ -3808,5 +3808,53 @@
   "title": "CardamomOT: A mechanistic optimal transport-based framework for gene regulatory network inference, trajectory reconstruction and generative modeling.",
   "doi": "10.1371/journal.pcbi.1014838",
   "link": "https://pubmed.ncbi.nlm.nih.gov/42837408/"
+ },
+ "doi:10.1016/j.bbrep.2026.102816": {
+  "date": "2026-10-08",
+  "title": "Epitranscriptomic profiling of VSMC phenotypes reveals uridine modifications linked to post-transcriptional regulation.",
+  "doi": "10.1016/j.bbrep.2026.102816",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42840959/"
+ },
+ "doi:10.1093/bioinformatics/btag741": {
+  "date": "2026-10-08",
+  "title": "HINN prioritizes multi-omics biomarkers associated with cognitive decline.",
+  "doi": "10.1093/bioinformatics/btag741",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42842388/"
+ },
+ "doi:10.1093/nargab/lqag116": {
+  "date": "2026-10-08",
+  "title": "Integrating network medicine and foundation models reveals cell-type-specific regulatory alterations in Alzheimer's disease.",
+  "doi": "10.1093/nargab/lqag116",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42840584/"
+ },
+ "doi:10.1371/journal.pcbi.1014845": {
+  "date": "2026-10-08",
+  "title": "Spatial Transcriptomics As Rasterized Image Tensors (STARIT) characterizes cell states with subcellular molecular heterogeneity.",
+  "doi": "10.1371/journal.pcbi.1014845",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42837397/"
+ },
+ "doi:10.1126/sciadv.aeh3246": {
+  "date": "2026-10-08",
+  "title": "Machine learning-assisted directed evolution of plant Rubisco.",
+  "doi": "10.1126/sciadv.aeh3246",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42842665/"
+ },
+ "doi:10.1093/bioinformatics/btag712": {
+  "date": "2026-10-08",
+  "title": "ProDTI: Prior-Guided Positive-Unlabeled Learning for Robust Drug-Target Interaction Prediction.",
+  "doi": "10.1093/bioinformatics/btag712",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42842427/"
+ },
+ "doi:10.1093/bioinformatics/btag745": {
+  "date": "2026-10-08",
+  "title": "VAEBAC: A representation-learning framework for proteome-scale prediction of amyloidogenic proteins and functional stratification of nucleic-acid-binding proteins.",
+  "doi": "10.1093/bioinformatics/btag745",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42842425/"
+ },
+ "doi:10.1016/j.cell.2026.09.021": {
+  "date": "2026-10-08",
+  "title": "SPARCS enables scalable recovery of complex image-based phenotypes for genetic screening.",
+  "doi": "10.1016/j.cell.2026.09.021",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42838047/"
  }
 }
