@@ -3856,5 +3856,47 @@
   "title": "SPARCS enables scalable recovery of complex image-based phenotypes for genetic screening.",
   "doi": "10.1016/j.cell.2026.09.021",
   "link": "https://pubmed.ncbi.nlm.nih.gov/42838047/"
+ },
+ "doi:10.1073/pnas.2602630123": {
+  "date": "2026-10-09",
+  "title": "Latent causal diffusions for single-cell perturbation modeling.",
+  "doi": "10.1073/pnas.2602630123",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42848419/"
+ },
+ "doi:10.64898/2026.09.29.755517": {
+  "date": "2026-10-09",
+  "title": "sORF-Trans2MS: a two-module deep learning framework for sORF translation and MS-supported microprotein prediction",
+  "doi": "10.64898/2026.09.29.755517",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.09.29.755517"
+ },
+ "doi:10.64898/2026.09.28.755019": {
+  "date": "2026-10-09",
+  "title": "GRASP: Graph Representation Learning with Assay Supervision for Molecular Properties",
+  "doi": "10.64898/2026.09.28.755019",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.09.28.755019"
+ },
+ "doi:10.1371/journal.pone.0359164": {
+  "date": "2026-10-09",
+  "title": "GP-DHT: A dual-head transformer with supervised contrastive learning for shared-gene pretraining and single-cell GRN prediction.",
+  "doi": "10.1371/journal.pone.0359164",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42837364/"
+ },
+ "doi:10.64898/2026.09.30.755660": {
+  "date": "2026-10-09",
+  "title": "pre-miRBench: a multispecies benchmark and reference model for animal precursor microRNA prediction",
+  "doi": "10.64898/2026.09.30.755660",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.09.30.755660"
+ },
+ "doi:10.1093/plphys/kiag755": {
+  "date": "2026-10-09",
+  "title": "AraVirusPPI: A protein language model-powered method for predicting Arabidopsis thaliana-virus protein-protein interactions.",
+  "doi": "10.1093/plphys/kiag755",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42842924/"
+ },
+ "doi:10.1002/prot.70190": {
+  "date": "2026-10-09",
+  "title": "PNBind: Prediction of Nucleic Acid-Binding Sites Using Protein Structure and Protein Language Models.",
+  "doi": "10.1002/prot.70190",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42847460/"
  }
 }

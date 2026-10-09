@@ -1,0 +1,90 @@
+{
+ "date": "2026-10-09",
+ "papers": [
+  {
+   "title": "Latent causal diffusions for single-cell perturbation modeling.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42848419/",
+   "doi": "10.1073/pnas.2602630123",
+   "journal": "Proceedings of the National Academy of Sciences of the United States of America",
+   "date": "2026 Oct 13",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "提出潜在因果扩散模型，用于单细胞扰动响应建模与反事实预测。",
+   "relevance_cn": "组学扰动建模落地范例，可借鉴于转录组调控分析。"
+  },
+  {
+   "title": "sORF-Trans2MS: a two-module deep learning framework for sORF translation and MS-supported microprotein prediction",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.09.29.755517",
+   "doi": "10.64898/2026.09.29.755517",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-10-06",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "构建双模块深度学习框架，结合RNA-FM表征预测sORF翻译和微蛋白。",
+   "relevance_cn": "RNA序列基础模型在翻译注释中的直接应用。"
+  },
+  {
+   "title": "GRASP: Graph Representation Learning with Assay Supervision for Molecular Properties",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.09.28.755019",
+   "doi": "10.64898/2026.09.28.755019",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-10-06",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "提出93.5M参数图Transformer，先学分子结构再用ChEMBL assay监督适配。",
+   "relevance_cn": "代表分子性质预测中的预训练与多任务适配思路。"
+  },
+  {
+   "title": "GP-DHT: A dual-head transformer with supervised contrastive learning for shared-gene pretraining and single-cell GRN prediction.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42837364/",
+   "doi": "10.1371/journal.pone.0359164",
+   "journal": "PloS one",
+   "date": "2026",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "开发双头Transformer和监督对比学习，用共享基因预训练预测单细胞GRN。",
+   "relevance_cn": "面向单细胞调控网络推断的AI方法参考。"
+  },
+  {
+   "title": "pre-miRBench: a multispecies benchmark and reference model for animal precursor microRNA prediction",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.09.30.755660",
+   "doi": "10.64898/2026.09.30.755660",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-10-06",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "发布跨71种动物的pre-miRNA预测基准集，并提供统一参考模型。",
+   "relevance_cn": "RNA序列注释benchmark，有助于模型公平评测。"
+  },
+  {
+   "title": "AraVirusPPI: A protein language model-powered method for predicting Arabidopsis thaliana-virus protein-protein interactions.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42842924/",
+   "doi": "10.1093/plphys/kiag755",
+   "journal": "Plant physiology",
+   "date": "2026 Oct 7",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "利用蛋白语言模型预测拟南芥-病毒蛋白互作，服务植物病原互作解析。",
+   "relevance_cn": "蛋白LM在分子互作预测中的落地应用。"
+  },
+  {
+   "title": "PNBind: Prediction of Nucleic Acid-Binding Sites Using Protein Structure and Protein Language Models.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42847460/",
+   "doi": "10.1002/prot.70190",
+   "journal": "Proteins",
+   "date": "2026 Oct 8",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "结合蛋白结构和蛋白语言模型预测核酸结合位点，提升可解释互作识别。",
+   "relevance_cn": "对RNA/蛋白结合位点建模有方法启发。"
+  }
+ ],
+ "no_core": true,
+ "summary_zh": "今日无核心新方法论文；精选单细胞扰动、RNA/miRNA序列建模、分子图预训练和蛋白语言模型应用等AI方向论文。",
+ "_meta": {
+  "model": "gpt-5.5",
+  "base_url": "https://api.tfclab-logan.xyz/v1",
+  "candidates_in": 80,
+  "papers_out": 7
+ }
+}
