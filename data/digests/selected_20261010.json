@@ -1,0 +1,90 @@
+{
+ "date": "2026-10-10",
+ "papers": [
+  {
+   "title": "Nonenzymatic detection and imaging of m6A-methylated RNA via proximity hybridization-initiated hybridization chain reaction with site-specific recognition.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42853389/",
+   "doi": "10.1007/s00216-026-06866-8",
+   "journal": "Analytical and bioanalytical chemistry",
+   "date": "2026 Oct 9",
+   "_bucket": "rna_mod",
+   "priority": "🥇",
+   "summary_cn": "提出非酶法m6A位点特异识别与HCR放大成像策略。",
+   "relevance_cn": "直接面向m6A检测成像，可启发低输入验证实验。"
+  },
+  {
+   "title": "A strategy for ionic current analysis of nanopore protein readouts",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.09.28.755023",
+   "doi": "10.64898/2026.09.28.755023",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-10-08",
+   "_bucket": "core",
+   "priority": "🥇",
+   "summary_cn": "构建纳米孔蛋白离子电流去噪、分段与序列上下文分析流程。",
+   "relevance_cn": "信号处理框架对DRS原始电流分析有借鉴价值。"
+  },
+  {
+   "title": "Tangermeme: a toolkit for understanding cis-regulatory logic using deep learning models.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42850431/",
+   "doi": "10.1038/s41592-026-03254-z",
+   "journal": "Nature methods",
+   "date": "2026 Oct 8",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "发布解释深度学习顺式调控模型的工具包Tangermeme。",
+   "relevance_cn": "顶刊AI落地工具，利于序列模型可解释分析。"
+  },
+  {
+   "title": "Evo2HiC: a multimodal foundation model for integrative analysis of genome sequence and architecture",
+   "link": "https://www.biorxiv.org/content/10.1101/2025.11.18.689171",
+   "doi": "10.1101/2025.11.18.689171",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-10-08",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "提出融合DNA序列与Hi-C的多模态基因组基础模型。",
+   "relevance_cn": "代表组学多模态foundation model新方向。"
+  },
+  {
+   "title": "VINTER: a generative vision-language model for annotating and interrogating spatial tissues",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.10.01.752251",
+   "doi": "10.64898/2026.10.01.752251",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-10-08",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "构建结合病理图像、基因表达和空间邻域的生成式VLM。",
+   "relevance_cn": "为空间转录组多模态AI分析提供范式。"
+  },
+  {
+   "title": "RASTRO: Branching Point Decision-Making in Unitig Graphs",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.09.28.754897",
+   "doi": "10.64898/2026.09.28.754897",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-10-07",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "提出用n-gram与Evo2特征解析unitig图分叉的无参考组装框架。",
+   "relevance_cn": "将大模型用于组装决策，适合长读长算法参考。"
+  },
+  {
+   "title": "Loss of age-associated increase in m6A-modified RNA contributes to GABAergic dysregulation in Alzheimer's disease",
+   "link": "https://www.biorxiv.org/content/10.1101/2025.05.02.651974",
+   "doi": "10.1101/2025.05.02.651974",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-10-07",
+   "_bucket": "core",
+   "priority": "🥉",
+   "summary_cn": "用DART-seq解析AD脑中年龄相关m6A增加缺失及GABA异常。",
+   "relevance_cn": "疾病机制为主，但含位点分辨率m6A测序数据。"
+  }
+ ],
+ "no_core": false,
+ "summary_zh": "今日核心以m6A检测与纳米孔信号分析为主，AI侧突出调控模型解释、多模态基础模型和组装图决策。",
+ "_meta": {
+  "model": "gpt-5.5",
+  "base_url": "https://api.tfclab-logan.xyz/v1",
+  "candidates_in": 89,
+  "papers_out": 7
+ }
+}

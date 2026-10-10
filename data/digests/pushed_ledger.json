@@ -3898,5 +3898,47 @@
   "title": "PNBind: Prediction of Nucleic Acid-Binding Sites Using Protein Structure and Protein Language Models.",
   "doi": "10.1002/prot.70190",
   "link": "https://pubmed.ncbi.nlm.nih.gov/42847460/"
+ },
+ "doi:10.1007/s00216-026-06866-8": {
+  "date": "2026-10-10",
+  "title": "Nonenzymatic detection and imaging of m6A-methylated RNA via proximity hybridization-initiated hybridization chain reaction with site-specific recognition.",
+  "doi": "10.1007/s00216-026-06866-8",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42853389/"
+ },
+ "doi:10.64898/2026.09.28.755023": {
+  "date": "2026-10-10",
+  "title": "A strategy for ionic current analysis of nanopore protein readouts",
+  "doi": "10.64898/2026.09.28.755023",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.09.28.755023"
+ },
+ "doi:10.1038/s41592-026-03254-z": {
+  "date": "2026-10-10",
+  "title": "Tangermeme: a toolkit for understanding cis-regulatory logic using deep learning models.",
+  "doi": "10.1038/s41592-026-03254-z",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42850431/"
+ },
+ "doi:10.1101/2025.11.18.689171": {
+  "date": "2026-10-10",
+  "title": "Evo2HiC: a multimodal foundation model for integrative analysis of genome sequence and architecture",
+  "doi": "10.1101/2025.11.18.689171",
+  "link": "https://www.biorxiv.org/content/10.1101/2025.11.18.689171"
+ },
+ "doi:10.64898/2026.10.01.752251": {
+  "date": "2026-10-10",
+  "title": "VINTER: a generative vision-language model for annotating and interrogating spatial tissues",
+  "doi": "10.64898/2026.10.01.752251",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.01.752251"
+ },
+ "doi:10.64898/2026.09.28.754897": {
+  "date": "2026-10-10",
+  "title": "RASTRO: Branching Point Decision-Making in Unitig Graphs",
+  "doi": "10.64898/2026.09.28.754897",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.09.28.754897"
+ },
+ "doi:10.1101/2025.05.02.651974": {
+  "date": "2026-10-10",
+  "title": "Loss of age-associated increase in m6A-modified RNA contributes to GABAergic dysregulation in Alzheimer's disease",
+  "doi": "10.1101/2025.05.02.651974",
+  "link": "https://www.biorxiv.org/content/10.1101/2025.05.02.651974"
  }
 }
