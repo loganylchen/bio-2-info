@@ -3940,5 +3940,53 @@
   "title": "Loss of age-associated increase in m6A-modified RNA contributes to GABAergic dysregulation in Alzheimer's disease",
   "doi": "10.1101/2025.05.02.651974",
   "link": "https://www.biorxiv.org/content/10.1101/2025.05.02.651974"
+ },
+ "doi:10.64898/2026.10.03.756430": {
+  "date": "2026-10-11",
+  "title": "Systematic benchmark of demultiplexing workflows for direct RNA sequencing",
+  "doi": "10.64898/2026.10.03.756430",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.03.756430"
+ },
+ "doi:10.64898/2026.10.08.757737": {
+  "date": "2026-10-11",
+  "title": "Multi-omic long-read sequencing reveals nucleosome control of transcriptional fidelity at the isoform level",
+  "doi": "10.64898/2026.10.08.757737",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.08.757737"
+ },
+ "doi:10.1101/gr.281566.125": {
+  "date": "2026-10-11",
+  "title": "Protein large language model-assisted one-to-one gene homology mapping in cross-species single-cell transcriptome integration.",
+  "doi": "10.1101/gr.281566.125",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42855280/"
+ },
+ "doi:10.64898/2026.10.02.756377": {
+  "date": "2026-10-11",
+  "title": "Cerberus: bidirectional state space blocks improve accuracy and efficiency of regulatory sequence models",
+  "doi": "10.64898/2026.10.02.756377",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.02.756377"
+ },
+ "doi:10.64898/2026.10.02.756356": {
+  "date": "2026-10-11",
+  "title": "DECONVersation: Single Cell Foundation Model-Derived Embeddings for Robust Cell Type Deconvolution of Bulk RNA-seq",
+  "doi": "10.64898/2026.10.02.756356",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.02.756356"
+ },
+ "doi:10.64898/2026.10.07.757366": {
+  "date": "2026-10-11",
+  "title": "Fine-tuning genomic models on rare splicing events identifies a novel biomarker of TDP-43 pathology",
+  "doi": "10.64898/2026.10.07.757366",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.07.757366"
+ },
+ "doi:10.1038/s43588-026-01063-0": {
+  "date": "2026-10-11",
+  "title": "Advancing chemical reaction prediction in data-scarce drug discovery with active and geometric deep learning.",
+  "doi": "10.1038/s43588-026-01063-0",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42855545/"
+ },
+ "doi:10.7554/elife.109450": {
+  "date": "2026-10-11",
+  "title": "The structural context of mutations in proteins predicts their effect on antibiotic resistance.",
+  "doi": "10.7554/eLife.109450",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42852653/"
  }
 }
