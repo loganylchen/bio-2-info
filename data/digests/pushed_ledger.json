@@ -3988,5 +3988,47 @@
   "title": "The structural context of mutations in proteins predicts their effect on antibiotic resistance.",
   "doi": "10.7554/eLife.109450",
   "link": "https://pubmed.ncbi.nlm.nih.gov/42852653/"
+ },
+ "doi:10.64898/2026.10.08.757715": {
+  "date": "2026-10-12",
+  "title": "Linking somatic variants to altered methylation profiles in nanopore-derived breast and pancreatic cancer genomes using unduliner",
+  "doi": "10.64898/2026.10.08.757715",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.08.757715"
+ },
+ "doi:10.64898/2026.10.08.757673": {
+  "date": "2026-10-12",
+  "title": "A unified framework for quantitative splicing and transcript prediction",
+  "doi": "10.64898/2026.10.08.757673",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.08.757673"
+ },
+ "doi:10.64898/2026.10.02.756289": {
+  "date": "2026-10-12",
+  "title": "Probing Genomic Foundation Models with Splice-Variant Perturbations",
+  "doi": "10.64898/2026.10.02.756289",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.02.756289"
+ },
+ "doi:10.64898/2026.10.05.755809": {
+  "date": "2026-10-12",
+  "title": "Autonomous AI agents discover reverse transcriptases with tandem repeat arrays",
+  "doi": "10.64898/2026.10.05.755809",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.05.755809"
+ },
+ "doi:10.64898/2026.06.18.733197": {
+  "date": "2026-10-12",
+  "title": "EventHorizon: A Foundation Model for Clinical Flow Cytometry",
+  "doi": "10.64898/2026.06.18.733197",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.06.18.733197"
+ },
+ "doi:10.1038/s41589-026-02347-2": {
+  "date": "2026-10-12",
+  "title": "Proteome-guided drug discovery maps and mitigates therapeutic degrader toxicity.",
+  "doi": "10.1038/s41589-026-02347-2",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42855516/"
+ },
+ "doi:10.1016/j.xcrm.2026.103100": {
+  "date": "2026-10-12",
+  "title": "AI-integrated RNA therapeutics in precision oncology.",
+  "doi": "10.1016/j.xcrm.2026.103100",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42854694/"
  }
 }
