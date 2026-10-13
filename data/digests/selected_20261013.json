@@ -1,0 +1,101 @@
+{
+ "date": "2026-10-13",
+ "papers": [
+  {
+   "title": "WarpDemuX-custom - Multiplexed sequence-specific direct RNA sequencing",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.10.09.757944",
+   "doi": "10.64898/2026.10.09.757944",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-10-11",
+   "_bucket": "core",
+   "priority": "🥇",
+   "summary_cn": "提出开放灵活的序列特异DRS去复用方案，支持靶向RNA多重测序。",
+   "relevance_cn": "直接服务Nanopore DRS建库与大规模靶向RNA分析。"
+  },
+  {
+   "title": "tRNAZAP: Deep learning toolkit for nanopore tRNA signal analysis",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.09.28.755067",
+   "doi": "10.64898/2026.09.28.755067",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-10-12",
+   "_bucket": "core",
+   "priority": "🥇",
+   "summary_cn": "发布深度学习工具包解析纳米孔tRNA原始信号，面向短且富修饰tRNA。",
+   "relevance_cn": "核心契合DRS信号处理、basecalling与tRNA修饰分析。"
+  },
+  {
+   "title": "Rational Design of 5' UTRs for Optimized mRNA Expression and Cost-Effective, Rapid Analysis of Capped mRNA",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.10.08.757771",
+   "doi": "10.64898/2026.10.08.757771",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-10-10",
+   "_bucket": "core",
+   "priority": "🥇",
+   "summary_cn": "设计5'UTR兼顾高翻译效率与免探针一步纯化，快速定量mRNA加帽效率。",
+   "relevance_cn": "有助于mRNA质控与端部结构检测流程开发。"
+  },
+  {
+   "title": "Queuosine glycosylation occurs after anticodon loop methylations and protects against stress-induced tRNA fragmentation",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.06.28.735034",
+   "doi": "10.64898/2026.06.28.735034",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-10-10",
+   "_bucket": "core",
+   "priority": "🥇",
+   "summary_cn": "解析人tRNA反密码环修饰层级，揭示Q34糖基化与m5C38互作及抗应激片段化。",
+   "relevance_cn": "提供tRNA多重修饰互作和功能验证的重要参考。"
+  },
+  {
+   "title": "Beyond the Final Layer: Evaluating Single-Cell Foundation Model Representations for Molecular Prediction",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.10.05.756880",
+   "doi": "10.64898/2026.10.05.756880",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-10-12",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "系统评估四类单细胞基础模型逐层表征，发现中间层常优于最终层。",
+   "relevance_cn": "为组学foundation model选层和benchmark设计提供依据。"
+  },
+  {
+   "title": "Alignment-Aware Genomic Coordinate Encoding for Long-Range DNA Modeling",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.10.10.757278",
+   "doi": "10.64898/2026.10.10.757278",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-10-12",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "提出融合参考基因组坐标的对齐感知位置编码，增强长程DNA建模。",
+   "relevance_cn": "启发基因组语言模型处理远端调控与稀疏motif。"
+  },
+  {
+   "title": "Large-scale prospective evaluation of co-folding across hundreds of Mac1-ligand complexes and three virtual screens.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42862171/",
+   "doi": "10.7554/eLife.110475",
+   "journal": "eLife",
+   "date": "2026 Oct 12",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "前瞻性评估数百个Mac1-配体复合物共折叠预测及三轮虚拟筛选表现。",
+   "relevance_cn": "展示结构AI在蛋白-配体筛选中的真实落地评测。"
+  },
+  {
+   "title": "CRISCross: Integration of Epigenetic Information for Deep-Learning-Based Prediction of CRISPR-Cas9 Off-Targets Across Cell Types",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.10.09.757843",
+   "doi": "10.64898/2026.10.09.757843",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-10-11",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "整合表观遗传上下文训练深度模型，预测跨细胞类型Cas9脱靶效应。",
+   "relevance_cn": "对序列模型融合多组学特征与泛化评估有借鉴。"
+  }
+ ],
+ "no_core": false,
+ "summary_zh": "今日核心集中在DRS去复用、纳米孔tRNA信号分析与RNA端部/修饰质控，AI方向以单细胞和基因组基础模型评测及结构AI应用为主。",
+ "_meta": {
+  "model": "gpt-5.5",
+  "base_url": "https://api.tfclab-logan.xyz/v1",
+  "candidates_in": 81,
+  "papers_out": 8
+ }
+}

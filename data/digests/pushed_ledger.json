@@ -4030,5 +4030,53 @@
   "title": "AI-integrated RNA therapeutics in precision oncology.",
   "doi": "10.1016/j.xcrm.2026.103100",
   "link": "https://pubmed.ncbi.nlm.nih.gov/42854694/"
+ },
+ "doi:10.64898/2026.10.09.757944": {
+  "date": "2026-10-13",
+  "title": "WarpDemuX-custom - Multiplexed sequence-specific direct RNA sequencing",
+  "doi": "10.64898/2026.10.09.757944",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.09.757944"
+ },
+ "doi:10.64898/2026.09.28.755067": {
+  "date": "2026-10-13",
+  "title": "tRNAZAP: Deep learning toolkit for nanopore tRNA signal analysis",
+  "doi": "10.64898/2026.09.28.755067",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.09.28.755067"
+ },
+ "doi:10.64898/2026.10.08.757771": {
+  "date": "2026-10-13",
+  "title": "Rational Design of 5' UTRs for Optimized mRNA Expression and Cost-Effective, Rapid Analysis of Capped mRNA",
+  "doi": "10.64898/2026.10.08.757771",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.08.757771"
+ },
+ "doi:10.64898/2026.06.28.735034": {
+  "date": "2026-10-13",
+  "title": "Queuosine glycosylation occurs after anticodon loop methylations and protects against stress-induced tRNA fragmentation",
+  "doi": "10.64898/2026.06.28.735034",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.06.28.735034"
+ },
+ "doi:10.64898/2026.10.05.756880": {
+  "date": "2026-10-13",
+  "title": "Beyond the Final Layer: Evaluating Single-Cell Foundation Model Representations for Molecular Prediction",
+  "doi": "10.64898/2026.10.05.756880",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.05.756880"
+ },
+ "doi:10.64898/2026.10.10.757278": {
+  "date": "2026-10-13",
+  "title": "Alignment-Aware Genomic Coordinate Encoding for Long-Range DNA Modeling",
+  "doi": "10.64898/2026.10.10.757278",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.10.757278"
+ },
+ "doi:10.7554/elife.110475": {
+  "date": "2026-10-13",
+  "title": "Large-scale prospective evaluation of co-folding across hundreds of Mac1-ligand complexes and three virtual screens.",
+  "doi": "10.7554/eLife.110475",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42862171/"
+ },
+ "doi:10.64898/2026.10.09.757843": {
+  "date": "2026-10-13",
+  "title": "CRISCross: Integration of Epigenetic Information for Deep-Learning-Based Prediction of CRISPR-Cas9 Off-Targets Across Cell Types",
+  "doi": "10.64898/2026.10.09.757843",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.09.757843"
  }
 }
