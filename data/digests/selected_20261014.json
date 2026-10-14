@@ -1,0 +1,101 @@
+{
+ "date": "2026-10-14",
+ "papers": [
+  {
+   "title": "Surfactant-Enhanced Hybridization Capture for Direct Sequence-Specific RNA Extraction from Plasma and Whole Blood",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.10.06.757078",
+   "doi": "10.64898/2026.10.06.757078",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-10-12",
+   "_bucket": "core",
+   "priority": "🥇",
+   "summary_cn": "提出SDS增强的序列特异RNA杂交捕获，提升血浆/全血低丰度RNA直接回收。",
+   "relevance_cn": "面向复杂样本RNA富集，可衔接DRS或修饰检测前处理。"
+  },
+  {
+   "title": "A high-resolution protein-RNA binding atlas for structure-aware interaction prediction and post-transcriptional regulatory modeling",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.10.12.758580",
+   "doi": "10.64898/2026.10.12.758580",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-10-13",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥇",
+   "summary_cn": "发布ecCLIP高通量平台和67个RBP高分辨率结合图谱，支持结构感知预测。",
+   "relevance_cn": "直接服务转录后调控建模，与RNA修饰/RBP互作研究高度相关。"
+  },
+  {
+   "title": "FAMUS: A Few-Shot Learning Framework for Large-Scale Protein Annotation.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42865011/",
+   "doi": "10.1093/bioinformatics/btag761",
+   "journal": "Bioinformatics (Oxford, England)",
+   "date": "2026 Oct 12",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "提出FAMUS少样本学习框架，用于大规模蛋白功能注释。",
+   "relevance_cn": "Bioinformatics工具文，体现低标注生物序列AI建模思路。"
+  },
+  {
+   "title": "Benchmarking single-cell foundation models reveals an advantage in the low-data regime for cell-type and disease-state prediction",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.10.12.758421",
+   "doi": "10.64898/2026.10.12.758421",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-10-12",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "系统评测单细胞基础模型，发现其主要优势在低标注数据场景。",
+   "relevance_cn": "为组学基础模型是否值得使用提供实证benchmark。"
+  },
+  {
+   "title": "BioMod: Biological Module Tokenization for Single-Cell Foundation Modeling",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.10.12.758490",
+   "doi": "10.64898/2026.10.12.758490",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-10-13",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "提出以生物模块为token的5000万参数单细胞基础模型，改进细胞表示。",
+   "relevance_cn": "模块化tokenization对转录组基础模型设计有借鉴价值。"
+  },
+  {
+   "title": "A multimodal foundation model to integrate histology with spatial molecular programs",
+   "link": "https://www.biorxiv.org/content/10.64898/2026.06.01.729028",
+   "doi": "10.64898/2026.06.01.729028",
+   "journal": "bioRxiv (preprint)",
+   "date": "2026-10-13",
+   "_bucket": "ai_bioinfo",
+   "priority": "🥈",
+   "summary_cn": "SQUALL用19.3亿空间配准点预训练，整合病理图像与空间分子程序。",
+   "relevance_cn": "空间组学多模态基础模型，适合借鉴到转录组AI分析。"
+  },
+  {
+   "title": "Interpretable machine learning framework for peptide lead optimization in ultralarge design spaces.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42864375/",
+   "doi": "10.1038/s44386-026-00069-y",
+   "journal": "npj drug discovery",
+   "date": "2026 Oct 12",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "构建可解释机器学习框架，在超大设计空间中优化肽类先导分子。",
+   "relevance_cn": "AI落地到分子设计，展示可解释优化流程。"
+  },
+  {
+   "title": "Artificial intelligence (AI)-enabled RNA therapeutic design: from molecular optimization to system-level evaluation.",
+   "link": "https://pubmed.ncbi.nlm.nih.gov/42864907/",
+   "doi": "10.1111/bph.70712",
+   "journal": "British journal of pharmacology",
+   "date": "2026 Oct 12",
+   "_bucket": "ai_application",
+   "priority": "🥈",
+   "summary_cn": "综述AI用于RNA疗法设计，从分子优化到系统级评价。",
+   "relevance_cn": "连接AI与RNA分子设计，对RNA方向应用启发强。"
+  }
+ ],
+ "no_core": false,
+ "summary_zh": "今日核心方向以RNA样本富集和RBP结合图谱为主，AI部分集中在单细胞/空间组学基础模型与分子设计应用。",
+ "_meta": {
+  "model": "gpt-5.5",
+  "base_url": "https://api.tfclab-logan.xyz/v1",
+  "candidates_in": 83,
+  "papers_out": 8
+ }
+}

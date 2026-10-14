@@ -4078,5 +4078,53 @@
   "title": "CRISCross: Integration of Epigenetic Information for Deep-Learning-Based Prediction of CRISPR-Cas9 Off-Targets Across Cell Types",
   "doi": "10.64898/2026.10.09.757843",
   "link": "https://www.biorxiv.org/content/10.64898/2026.10.09.757843"
+ },
+ "doi:10.64898/2026.10.06.757078": {
+  "date": "2026-10-14",
+  "title": "Surfactant-Enhanced Hybridization Capture for Direct Sequence-Specific RNA Extraction from Plasma and Whole Blood",
+  "doi": "10.64898/2026.10.06.757078",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.06.757078"
+ },
+ "doi:10.64898/2026.10.12.758580": {
+  "date": "2026-10-14",
+  "title": "A high-resolution protein-RNA binding atlas for structure-aware interaction prediction and post-transcriptional regulatory modeling",
+  "doi": "10.64898/2026.10.12.758580",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.12.758580"
+ },
+ "doi:10.1093/bioinformatics/btag761": {
+  "date": "2026-10-14",
+  "title": "FAMUS: A Few-Shot Learning Framework for Large-Scale Protein Annotation.",
+  "doi": "10.1093/bioinformatics/btag761",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42865011/"
+ },
+ "doi:10.64898/2026.10.12.758421": {
+  "date": "2026-10-14",
+  "title": "Benchmarking single-cell foundation models reveals an advantage in the low-data regime for cell-type and disease-state prediction",
+  "doi": "10.64898/2026.10.12.758421",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.12.758421"
+ },
+ "doi:10.64898/2026.10.12.758490": {
+  "date": "2026-10-14",
+  "title": "BioMod: Biological Module Tokenization for Single-Cell Foundation Modeling",
+  "doi": "10.64898/2026.10.12.758490",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.10.12.758490"
+ },
+ "doi:10.64898/2026.06.01.729028": {
+  "date": "2026-10-14",
+  "title": "A multimodal foundation model to integrate histology with spatial molecular programs",
+  "doi": "10.64898/2026.06.01.729028",
+  "link": "https://www.biorxiv.org/content/10.64898/2026.06.01.729028"
+ },
+ "doi:10.1038/s44386-026-00069-y": {
+  "date": "2026-10-14",
+  "title": "Interpretable machine learning framework for peptide lead optimization in ultralarge design spaces.",
+  "doi": "10.1038/s44386-026-00069-y",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42864375/"
+ },
+ "doi:10.1111/bph.70712": {
+  "date": "2026-10-14",
+  "title": "Artificial intelligence (AI)-enabled RNA therapeutic design: from molecular optimization to system-level evaluation.",
+  "doi": "10.1111/bph.70712",
+  "link": "https://pubmed.ncbi.nlm.nih.gov/42864907/"
  }
 }
